@@ -2,4 +2,5 @@ collections:
   contact-us:
     output: true
     order:
+      - Frequently Asked Questions.md
       - Parent Volunteer.md
