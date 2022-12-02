@@ -21,7 +21,16 @@ third_nav_title: Co Curricular Activities
 [Basketball Boys, P3 and P5](https://drive.google.com/file/d/1oplRPjMNB-iQTcQXppjdohTQ6g8-z2ON/view?usp=sharing)
 
 #### **Basketball**
+Basketball (Boys and Girls) CCA provides ample opportunities for pupils to learn the fundamental skills of basketball in a fun and engaging way. Professional and experienced coaches are employed to coach the pupils.
 
+<img src="/images/sports1.jpg" style="width:30%;margin-right:15px;" align = "right">
+
+<b>Aim :</b>
+- To equip students with the basic skills of basketball so that they can engage in lifelong pursuit of playing basketball as a sport.<br>
+- To provide opportunities for talented pupils to represent the<br> school as a team in Zonal and National Competitions<br>
+- To inculcate the school values of Team Spirit, Graciousness,<br> Perseverance and Self-Discipline.To provide a platform for students<br> to develop their leadership skills.
+
+<br clear="left">
 
 #### **Rope Skipping**
 
@@ -30,4 +39,3 @@ third_nav_title: Co Curricular Activities
 
 
 #### **Volleyball**
-
