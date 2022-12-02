@@ -72,7 +72,7 @@ Our Chinese Dancers have the opportunities to put up performances in various sch
 #### **Choir**
 The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as French, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the crime prevention campaign, exchange programme with other schools prior to the SYF presentation and the Speech Day concert.
 
-<img src="/images/performingarts2.jpg" style="width:45%">
+<img src="/images/performingarts2.jpg" style="width:65%">
 
 The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
