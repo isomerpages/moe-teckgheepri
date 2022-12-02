@@ -43,5 +43,5 @@ With Gratitude,<br>
 |:---:|:---:|---|
 | **Principal** | Mr Wong Jia Wang | [tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
 | **Vice Principal**<br>(Academic) |  Mdm Raps Azrinah  | [tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
-| **Vice Principal**<br>(Administration) |  Mr Tan Chuan Yang  | tgps@moe.edu.sg |
+| **Vice Principal**<br>(Administration) |  Mr Tan Chuan Yang  | [tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
 |
