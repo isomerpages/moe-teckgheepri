@@ -2,6 +2,7 @@ collections:
   extended-family:
     output: true
     order:
+      - For Parents/Announcements.md
       - For Parents/P1 2023 Registration.md
       - For Parents/Forms.md
       - For Parents/Briefing Slides.md
