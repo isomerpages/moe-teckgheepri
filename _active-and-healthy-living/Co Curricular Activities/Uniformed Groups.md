@@ -22,6 +22,8 @@ Girl Guides (Brownies) CCA is a uniformed group for young girls in the Primary S
 *   To enable girls to develop their fullest potential as responsible citizens of the world.
 *   To cultivate students to find happiness in helping others.
 
+<br clear="left">
+
 | Core Values |  |
 |---|---|
 | **Team Spirit** | Brownies will learn to work together as a Brownie Pack. |
@@ -51,7 +53,7 @@ TGPS Scouts has a long history of nurturing young men into responsible and dedic
 *   To equip pupils with important life skills.
 *   To develop pupils’ ability to communicate and make friends through the Scouting movement.
 *   To provide opportunities for scouts to be involved in the activities carried out internally and externally
-*   To inculcate values in every Scout based on the Scout Promise and Scout Law.
+*   To inculcate values in every Scout based on the Scout<br> Promise and Scout Law.
 
 **Essential skills to be taught:** Basic life-skills like outdoor-cooking, camp-craft and a lot more of skills to be taught and inculcated during the weekly meetings and also through the camps participated. The whole Arrow badge structure enables the Scout to grow holistically.
 
