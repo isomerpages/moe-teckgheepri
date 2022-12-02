@@ -7,7 +7,7 @@ third_nav_title: Co Curricular Activities
 ### **Clubs and Societies**
 #### **Clubs and Societies CCA Schedule 2021**
 
-
+clubsandsocieties
 #### **Art and Crafts**
 
 
