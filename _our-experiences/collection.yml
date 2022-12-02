@@ -2,6 +2,7 @@ collections:
   our-experiences:
     output: true
     order:
+      - Deep Learning/Science.md
       - Deep Learning/.keep
       - Positive Education.md
       - Active and Healthy Living/.keep
