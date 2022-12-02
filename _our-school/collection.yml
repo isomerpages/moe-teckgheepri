@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Our Identity/School Crest.md
       - Our Identity/School Song.md
       - Our Identity/.keep
       - School Services/Operating Hours.md
