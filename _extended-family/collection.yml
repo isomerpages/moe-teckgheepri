@@ -2,6 +2,7 @@ collections:
   extended-family:
     output: true
     order:
+      - For Parents/Teaching & Learning.md
       - For Parents/Student iCON.md
       - For Parents/Information for Parents.md
       - For Parents/Useful Links.md
