@@ -22,7 +22,7 @@ sections:
       subtitle: Teck Ghee Primary
       description: How do I apply to be a parent volunteer in TGPS?
       button: Click here for more info
-      url: /faq/
+      url: /contact-us/parent-volunteer/
   - infobar:
       title: Feedback / Enquiries
       subtitle: teck ghee primary
