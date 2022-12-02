@@ -2,15 +2,16 @@ collections:
   our-experiences:
     output: true
     order:
-      - Positive Education.md
       - Deep Learning/.keep
+      - Positive Education.md
       - Active and Healthy Living/.keep
+      - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
       - Distinctive Programmes/Learn For Life Programme.md
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Programme for Active Learning.md
       - Distinctive Programmes/Innovation in TGPS.md
-      - Distinctive Programmes/.keep
+      - Student Leadership/.keep
       - Student Leadership/Values In Education.md
       - Student Leadership/Primary 1.md
       - Student Leadership/Primary 2.md
@@ -18,4 +19,3 @@ collections:
       - Student Leadership/Primary 4.md
       - Student Leadership/Primary 5.md
       - Student Leadership/Primary 6.md
-      - Student Leadership/.keep
