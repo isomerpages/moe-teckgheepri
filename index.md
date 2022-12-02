@@ -28,6 +28,5 @@ sections:
       subtitle: teck ghee primary
       description: For feedback & enquiries
       button: click here
-      url: /unavailable/
+      url: /contact-us/feedback-and-enquiries/
 ---
-
