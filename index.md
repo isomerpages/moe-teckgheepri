@@ -13,10 +13,10 @@ sections:
       key_highlights:
         - title: What's New
           description: ""
-          url: https://google.com
+          url: /extended-family/for-parents/briefing-slides/
         - title: EZ-Links
           description: ""
-          url: https://gmail.com
+          url: /ez-links/
   - infobar:
       title: Parent Volunteer
       subtitle: Teck Ghee Primary
