@@ -2,5 +2,6 @@ collections:
   extended-family:
     output: true
     order:
+      - Parent Support Group.md
       - School Advisory Committee.md
       - External Partners.md
