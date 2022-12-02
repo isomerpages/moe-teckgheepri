@@ -11,3 +11,8 @@ A teacher who has a deep learning mindset designs meaningful lessons which are s
   
 In TGPS, students are engaged in the learning process as they are given greater opportunity to ask questions, construct meaning, talk to and learn from and with one another, find alternatives and solutions, provide their own insights and solutions, and think deeply about the topic of study. Generally, they are more independent learners, thoughtful and collaborative.
 
+|  |  |
+|:---:|:---:|
+| <img style="width:250px;height:150px;" src="/images/deeplearning1.jpg">English</a> | <img style="width:250px;height:150px;" src="/images/deeplearning2.jpg">Mother Tongue</a> |
+| <img style="width:250px;height:150px;" src="/images/deeplearning3.jpg">Mathematics</a> | <img style="width:250px;height:150px;" src="/images/deeplearning4.jpg">Science</a> |
+|
