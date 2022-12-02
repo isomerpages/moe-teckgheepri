@@ -1,8 +1,8 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Tech Ghee Primary School
 description: Brief site description here
-image: /images/isomer-logo.svg
+image: /images/teckgheepri.jpg
 permalink: /
 notification: ""
 sections:
@@ -30,3 +30,4 @@ sections:
       button: click here
       url: /unavailable/
 ---
+
