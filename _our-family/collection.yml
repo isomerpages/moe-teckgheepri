@@ -2,5 +2,6 @@ collections:
   our-family:
     output: true
     order:
+      - School Executive Committee.md
       - Teacher Leaders.md
       - Non Teaching Staff.md
