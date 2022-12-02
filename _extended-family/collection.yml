@@ -1,4 +1,5 @@
 collections:
   extended-family:
     output: true
-    order: []
+    order:
+      - External Partners.md
