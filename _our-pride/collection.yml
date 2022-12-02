@@ -2,4 +2,5 @@ collections:
   our-pride:
     output: true
     order:
+      - Student Recognition Framework.md
       - Alumni.md
