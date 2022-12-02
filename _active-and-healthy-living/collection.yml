@@ -2,6 +2,7 @@ collections:
   active-and-healthy-living:
     output: true
     order:
+      - Active and Healthy Living.md
       - Co Curricular Activities/Sports.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Uniformed Groups.md
