@@ -133,6 +133,54 @@ Commitment Level: School team members will train twice a week (Mondays and Thurs
 |
 
 #### **Sports & Wellness Club**
+The Sports and Wellness Club welcomes anyone who is keen to take part in sports and games in a non-competitive setting.
 
+**Aim:**
+*   To encourage club members to lead an active lifestyle through regular exercise and healthy diet choices
+*   To impart basic skills in some sports and games through a modular system
+*   To mould the character and reinforce the school values in every member
+*   To encourage members to promote healthy living to their family members and peers.
+
+**Progression:** 
+Every term , the CCA  will offer one sports module for the pupils to learn a new sport or game.  
+Teachers in charge : Mr Andy See (I/C) , Mr Vivek Nair , Mr Donovan Teo , Mr Sridhar Naidu , Mdm Samra Dewi
+
+**Training Frequency (Day and Time):**
+*   Every Monday, 2.00pm – 4.00pm
+
+**Commitment Level:** 
+*   All members are expected to demonstrate the school values at all times
+*   All members must be willing to learn new skills in a variety of sports and games
 
 #### **Volleyball**
+
+Volleyball CCA aims to promote the game and excite pupils through the learning and acquisition of fundamental volleyball techniques.  Volleyball CCA provides pupils with opportunities to learn about the game of volleyball through various platforms and modified games. Pupils learn and acquire volleyball techniques as such digging, setting, receiving, serving and spiking, and apply the techniques they have learnt to gameplay scenarios.
+
+<img src="/images/sports3.jpg" style="width:35%;margin-left:15px;" align = "right">
+
+Volleyball CCA also aims to develop keen and confident learners through various means, such as voluntarily demonstrating an acquired technique to their peers.  Pupils also learn various avenues to consistently learn new techniques to further improve themselves in the game.
+
+**Aims:**
+*   To develop keen learners and confident players
+*   To spark an interest in learning the game
+*   To equip pupils with fundamental techniques to play a volleyball game
+*   To progressively learn advanced techniques
+
+**Essential Techniques:**
+*   Fundamental skills set – dig, set, serve, spike
+*   Fluid body movements to execute a technique
+*   Basic gameplay rotation
+
+| Core Values |  |
+|---|---|
+| **Team Spirit** | Pupils learn to work together as a team to learn/execute new techniques.<br>Pupils learn to take initiative and communicate effectively. |
+| **Graciousness** | Pupils learn to give positive feedback to their peers.<br>Pupils assist peers in acquiring new techniques through peer coaching. |
+| **Perseverance** | Pupils persevere in the acquisition of new techniques, following through drills and practices to enhance their skills set. |
+| **Self-Discipline** | Pupils exercise self-discipline in adhering to rules and regulations set.<br>Pupils serve as role models to their peers. |
+|
+
+**Teachers in charge:** Mr Melvin Goh (I/C), Mr Lui Zhenyu, Ms Pang Shi Yun
+
+**Commitment Level:** Pupils to attend the CCA sessions weekly on Mondays for 2 hours.
+
+**Session Frequency:** Mondays, 2.00pm – 4.00pm
