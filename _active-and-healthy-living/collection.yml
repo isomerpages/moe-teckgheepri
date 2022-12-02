@@ -2,5 +2,6 @@ collections:
   active-and-healthy-living:
     output: true
     order:
+      - Physical Education.md
       - Art.md
       - Music.md
