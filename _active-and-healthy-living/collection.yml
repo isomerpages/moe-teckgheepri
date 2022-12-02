@@ -1,4 +1,5 @@
 collections:
   active-and-healthy-living:
     output: true
-    order: []
+    order:
+      - Music.md
