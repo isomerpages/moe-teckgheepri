@@ -133,7 +133,7 @@ Modern Dance aims to teach its members the skills and techniques of dancing as w
 **Training Frequency (Day and Time):**
 
 | All Dancers |  |
-|---|---|
+|---|:---|
 | Every Monday | 2 – 4pm (2 hours each) |
 |
 
@@ -229,10 +229,9 @@ The Percussion Club is established with the intention to provide ample opportuni
 
 **Progression**
 
-|  |  |  |  |  |
-|---|---|---|---|---|
 | Stages | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
-| Key Experiences | Acquiring basic drumming techniques. | Acquiring a variation of both basic and complex drumming techniques. | Incorporating actions, movements and dynamics into the music pieces. | Performing in front of different audiences in internal and external performances |
+|---|---|---|---|---|
+| **Key Experiences** | Acquiring basic drumming techniques. | Acquiring a variation of both basic and complex drumming techniques. | Incorporating actions, movements and dynamics into the music pieces. | Performing in front of different audiences in internal and external performances |
 |
 
 **Past Performances in 2019**
