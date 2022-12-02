@@ -2,4 +2,5 @@ collections:
   active-and-healthy-living:
     output: true
     order:
+      - Art.md
       - Music.md
