@@ -2,5 +2,6 @@ collections:
   contact-us:
     output: true
     order:
+      - Feedback & Enquiries.md
       - Frequently Asked Questions.md
       - Parent Volunteer.md
