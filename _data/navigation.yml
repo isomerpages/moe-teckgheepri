@@ -1,2 +1,15 @@
 logo: /images/teckgheepri.jpg
-links: []
+links:
+  - title: Our School
+    collection: our-school
+  - title: Our Experiences
+    url: /our
+    sublinks: []
+  - title: Our Pride
+    collection: our-pride
+  - title: Our Family
+    collection: our-family
+  - title: Extended Family
+    collection: extended-family
+  - title: Contact Us
+    collection: contact-us
