@@ -2,6 +2,7 @@ collections:
   active-and-healthy-living:
     output: true
     order:
+      - Co Curricular Activities/Clubs and Societies.md
       - Co Curricular Activities/.keep
       - Physical Education.md
       - Art.md
