@@ -24,6 +24,51 @@ third_nav_title: Co Curricular Activities
 #### **Chinese Dance**
 The Chinese Dance Club engages professional dance instructors to coach the dancers.
 
+**Aim:**
+
+<img src="/images/performingarts1.jpg" style="width:35%;margin-left:15px;" align = "right">
+
+*   To develop leadership skills and acquire positive values like team spirit, graciousness, perseverance, self-discipline and commitment.
+*   To learn the fundamental skills of Chinese Dance and develop grace, flexibility, balance and coordination.
+*   To provide opportunities to perform in school events and <br>competitions.
+
+**Essential skills to be taught:**<br>
+Dance techniques for efficient movement execution and expressive performance
+
+| Core Values |  |
+|---|---|
+| **Team Spirit** | Senior dancers will learn to guide the junior dancers. |
+| **Graciousness** | Dancers will learn to care and encourage the fellow dancers and others. |
+| **Perseverance** | Dancers will have to persevere if they encounter difficulties in mastering of the dance movements. |
+| **Self-discipline** | Dancers will be self-disciplined to come for dance practices and to improve on their individual skills. |
+|
+
+**Teachers in charge :**<br>
+Ms Chee Qiu Xia (I/C), Mdm Lim Siew Yee
+
+**Commitment Level :**<br>
+There will be an extra 1 hour dance practice if we need to prepare for competitions and performances. 
+
+**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm 
+ 
+**Progression**
+
+|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
+|---|---|---|---|---|
+| **Stages** | Appreciating Stage | Creating Stage | Presenting Stage | Responding and Evaluating Stage |
+|
+
+**Performances, Competitions and Past Achievements**<br>
+Our Chinese Dancers have the opportunities to put up performances in various school events, public performances and competitions.
+
+|  |  |
+|---|---|
+| **2018** | Certificate of Accomplishment in SYF Arts Presentation 2018 |
+| **2016** | Certificate of Accomplishment in SYF Arts Presentation 2016 |
+| **2014** | Certificate of Distinction in SYF Arts Presentation 2014 |
+| **2012** | Silver Award in SYF Central Judging (Chinese Dance )2012 |
+|
+
 #### **Choir**
 
 
@@ -34,4 +79,3 @@ The Chinese Dance Club engages professional dance instructors to coach the dance
 
 
 #### **Percussion**
-
