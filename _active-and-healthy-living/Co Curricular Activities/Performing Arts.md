@@ -105,9 +105,143 @@ In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Pa
 Some choir members were also involved in the vocal production and presentation for the Green Carpet Award theme song by National Geographic, commemorating "50 years of Greening Singapore". They also had the opportunity to participate in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism and the Sanden theme song for the Sanden 40th Anniversary Dinner.
 
 #### **Modern Dance**
+Modern Dance aims to teach its members the skills and techniques of dancing as well as inculcate their appreciation for dance. Through various performances and competitions, pupils learn the importance of teamwork and perseverance. Professional dancers are engaged to teach the pupils a repertoire of dances ranging from ballet to hip-hop, lyrical jazz, contemporary and modern dance.
 
+**Aim:**
+
+<img src="/images/performingarts3.jpg" style="width:35%;margin-left:25px;" align = "right">
+
+*   To equip pupils with the skills and techniques of dancing  
+*   To develop pupils’ ability to communicate and express themselves through movement
+*   To provide opportunities for talents to represent the school in the Singapore Youth Festival competitions as well as performances
+*   To inculcate pupils’ appreciation for dance
+
+**Essential skills to be taught:** Basic techniques of different genres of dance (ballet, hip-hop, lyrical jazz, contemporary and modern dance)
+
+| Core Values: |  |
+|---|---|
+| **Team Spirit** | Dancers will learn to work together as a group |
+| **Graciousness** | Dancers will learn to be humble when they win and to accept defeat graciously |
+| **Perseverance** | Dancers will have to persevere as training increases in intensity |
+| **Self-discipline** | Dancers will be self-disciplined to come for training and to improve on their individual skills and techniques |
+|
+
+**Teachers in charge:** Mdm Angelina Boey (I/C), Mdm Joy Lim
+
+**Commitment Level:** The pupils will train once a week on Monday afternoons for 2 hours. Pupils who are selected for SYF and other performances and competitions will be informed of any additional afternoon trainings, if required.
+
+**Training Frequency (Day and Time):**
+
+| All Dancers |  |
+|---|---|
+| Every Monday | 2 – 4pm (2 hours each) |
+|
+
+**Progression**
+
+|  | Level 1 | Level 2 | Level 3 | Level 4 |
+|---|---|---|---|---|
+| **Remarks** | Enjoyment and appreciation of rhythm and rhythmic movements | Understand elements of rhythm and rhythmic movements in structured dance forms | Express and communicate ideas through rhythm and rhythmic movements in structured dance forms | Use of body as instruments of communication and self – expression through rhythm and rhythmic movements in structured dance forms |
+|
+
+**Competition and Past Achievements**
+
+|  |  |
+|---|---|
+| **2019** | Performed at Teck Ghee CC National Day Observance Ceremony 2019, Teachers’ Day Concert, Year End Concert |
+| **2018** | Performed at Year End Concert, Teachers’ Day Concert, Teck Ghee Edusave Education Merit Award Ceremony 2018 |
+| **2018** | SYF Arts Presentation (International Dance) – Certificate of Commendation |
+| **2017** | Performed at Year End Concert, Teachers’ Day Concert |
+| **2017** | Special Prize in Hit The Mark Dance Competition 2017 |
+| **2016** | Participated in Teck Ghee National Day Street Parade |
+| **2016** | SYF Arts Presentation (International Dance) – Certificate of Commendation |
+| **2016** | Participated in Dance Showcase by Distinct Creative Arts |
+|
 
 #### **Guzheng Ensemble**
+Professional and experienced instructors are engaged to guide members in the acquisition of relevant skills. Members have staged countless performances in school and at national platforms.
 
+**Aim:**
+
+<img src="/images/performingarts4.jpg" style="width:35%;margin-left:25px;" align = "right">
+
+*   To provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng
+*   To develop greater sense of team spirit and responsibilities in members.
+
+**Essential skills to be taught:**
+*   Basic instrumental skills (Aural skills, Music literacy)
+*   Social skills (Student leaders are more caring)
+
+| Core Values |  |
+|---|---|
+| **Team Spirit** | Members will learn to play together as an ensemble |
+| **Graciousness** | Members will learn to encourage and care for fellow members in the ensemble |
+| **Perseverance** | Members will have to persevere as practices increase in frequency |
+| **Self-discipline** | Members will be self-disciplined to come for practices and to improve on their individual skills |
+|
+
+**Teachers in charge:** Miss Amy Wong (I/C) , Mrs Tee
+
+**Commitment Level:** The training is done once a week on Monday afternoons. Each session lasts 2 hours. There are extra practices if there is competition or rehearsal.
+
+**Training Frequency (Day and Time):** Mondays, 2.00pm – 4.00pm
+
+**Progression**
+
+| | Beginner | Intermediate | Advanced |
+|---|---|---|---|
+| **Remarks** | Learning of basic instrumental skills | Managing most of the skills being taught | Participate in the performance and competition |
+|
+
+**Competition and Past Achievements**<br>
+Selected pupils will perform within the school and in the public, such as TGPS Year End Concert and Singapore Youth Festival.
+
+|  |  |
+|---|---|
+| **2018** | Singapore Youth Festival 2018 ARTS PRESENTATION FOR GUZHENG ENSEMBLE (Certificate of Commendation) |
+| **2014** | Singapore Youth Festival 2014 ARTS PRESENTATION FOR GUZHENG ENSEMBLE (Certificate of Accomplishment) |
+| **2012** | Singapore Youth Festival (SYF) Central Judging of Instrumental Ensembles 2012: Gold Award |
+| **2010** | Singapore Youth Festival (SYF) Central Judging of Instrumental Ensembles 2010: Gold (with Honours) Award |
+|
 
 #### **Percussion**
+
+The Percussion Club is established with the intention to provide ample opportunities for pupils to perfect their rhythmic skills in a fun and engaging environment and to build up pupils’ confidence in performing in front of different audiences. Pupils can expect to be exposed to a variety of percussion instruments and to be taught by a professional and experienced instructor.
+
+**Aim:**
+
+<img src="/images/performingarts5.jpg" style="width:35%;margin-left:25px;" align = "right">
+
+*   To equip pupils with the skills of playing various percussion instruments.
+*   To inculcate in pupils an understanding and appreciation of music and rhythm.
+
+| Core Values |  |
+|---|---|
+| **Team Spirit** | Members will perform as a team. |
+| **Graciousness** | Members will learn to help one another despite their different level of proficiency. |
+| **Perseverance** | Members will persevere as they learn and master their drumming skills and techniques. |
+| **Self-discipline** | Members will be motivated to come for training and to improve on their individual skills. |
+|
+
+**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm 
+
+**Teachers in charge:** Mrs Madeline Lee (I/C) , Mr Lee Joon Ann
+
+**Progression**
+
+|  |  |  |  |  |
+|---|---|---|---|---|
+| Stages | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
+| Key Experiences | Acquiring basic drumming techniques. | Acquiring a variation of both basic and complex drumming techniques. | Incorporating actions, movements and dynamics into the music pieces. | Performing in front of different audiences in internal and external performances |
+|
+
+**Past Performances in 2019**
+* Teck Ghee CC Opening
+* Teck Ghee Primary School Speech Day
+
+**Highlights for 2020**
+* SYF 2020
+* External performances
+* Internal performances
+* Opportunity to watch external performances
+* Exchange with other schools
