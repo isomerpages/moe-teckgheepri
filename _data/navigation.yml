@@ -3,8 +3,10 @@ links:
   - title: Our School
     collection: our-school
   - title: Our Experiences
-    url: /our
-    sublinks: []
+    url: /our-experiences/deep-learning/
+    sublinks:
+      - title: Our Experiences
+        url: /our-experiences/deep-learning/
   - title: Our Pride
     collection: our-pride
   - title: Our Family
