@@ -2,4 +2,5 @@ collections:
   our-school:
     output: true
     order:
+      - Student Management/.keep
       - P1 2023 Registration.md
