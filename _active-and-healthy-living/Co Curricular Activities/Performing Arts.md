@@ -70,7 +70,39 @@ Our Chinese Dancers have the opportunities to put up performances in various sch
 |
 
 #### **Choir**
+The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as French, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the crime prevention campaign, exchange programme with other schools prior to the SYF presentation and the Speech Day concert.
 
+<img src="/images/performingarts2.jpg" style="width:45%">
+
+The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
+
+**Aims:**<br>
+The main objectives of the choir CCA serves to develop an appreciation for the Arts and to maximize students’ potential in Performing Arts. Furthermore, through the various platforms of performances, students with promising abilities are given opportunities to develop to their personal best.
+
+**Essential skills to be taught :**<br>
+\- singing techniques/ voice projection/ musicality through correct phrasing and melodic contours
+
+| Core Values |  |
+|---|---|
+| **Team Spirit** | Players will learn to work together to sing in harmony. Students of the various sections will sing and secure their parts. |
+| **Graciousness** | Players will learn to develop good listening skills and to humbly receive any feedback on areas of improvement. |
+| **Perseverance** | Players will have to persevere as the intensity of practices increases nearing performance or competition dates. |
+| **Self-discipline** | Players will be self-disciplined to come for practices punctually and to take ownership of their learning by practising at home. |
+|
+
+**Teachers in charge:** Mdm Lynn Yeo (I/C) , Ms June Tan, Mdm Rumaizah 
+
+**Commitment Level:** Students will undergo an audition to be selected and grouped in the singing section. Students are expected to come regularly, every Monday 2.00pm to 4.00pm.
+
+**Training Frequency (Day and Time):** Every Monday, 2.00pm – 4.00pm
+  
+**Performances and Past Achievements**<br>
+The school choir has participated in various external celebrations and events such as the Teck Ghee CC National Day Observance Ceremony, Racial Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall, Crime Prevention Campaign.  
+
+In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Park. They had the opportunity to perform for our residents and Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir members.   
+
+**Vocal Productions**<br>
+Some choir members were also involved in the vocal production and presentation for the Green Carpet Award theme song by National Geographic, commemorating "50 years of Greening Singapore". They also had the opportunity to participate in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism and the Sanden theme song for the Sanden 40th Anniversary Dinner.
 
 #### **Modern Dance**
 
