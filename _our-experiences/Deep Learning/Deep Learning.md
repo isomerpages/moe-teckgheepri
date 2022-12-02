@@ -13,6 +13,6 @@ In TGPS, students are engaged in the learning process as they are given greater 
 
 |  |  |
 |:---:|:---:|
-| <img style="width:250px;height:150px;" src="/images/deeplearning1.jpg">English</a> | <img style="width:250px;height:150px;" src="/images/deeplearning2.jpg">Mother Tongue</a> |
-| <img style="width:250px;height:150px;" src="/images/deeplearning3.jpg">Mathematics</a> | <img style="width:250px;height:150px;" src="/images/deeplearning4.jpg">Science</a> |
+| <img style="width:220px;height:150px;" src="/images/deeplearning1.jpg">English</a> | <img style="width:220px;height:150px;" src="/images/deeplearning2.jpg">Mother Tongue</a> |
+| <img style="width:220px;height:150px;" src="/images/deeplearning3.jpg">Mathematics</a> | <img style="width:220px;height:150px;" src="/images/deeplearning4.jpg">Science</a> |
 |
