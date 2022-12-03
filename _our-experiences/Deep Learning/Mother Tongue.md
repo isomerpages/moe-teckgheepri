@@ -7,10 +7,10 @@ third_nav_title: Deep Learning
 ### **Mother Tongue**
 The Mother Tongue Department aims to nurture Critical thinkers and Confident communicators in Mother Tongue Language who have a better understanding of Chinese/Malay/Tamil Culture in the context of Singapore and to connect with communities across Asia.
 
-<img src="/images/deeplearningmtl1.jpg" style="width:65%">
+<img style="width:65%" src="/images/deeplearningmtl1.jpg">
 
 #### **Key Programmes**
-<img src="/images/deeplearningmtl2.jpg" style="width:45%;margin-right:15px;" align = "right">
+<img align="right" style="width:45%;margin-right:15px;" src="/images/deeplearningmtl2.jpg">
 
 **Chinese Language**
 *   Reading Programme with Online Reading portal
@@ -18,7 +18,7 @@ The Mother Tongue Department aims to nurture Critical thinkers and Confident com
 
 <br clear="left">
 
-<img src="/images/deeplearningmtl3.jpg" style="width:45%;margin-right:25px;" align = "left">
+<img align="left" style="width:45%;margin-right:25px;" src="/images/deeplearningmtl3.jpg">
 
 **Malay Language**  
 *   Buddy Reading Programme  
@@ -26,7 +26,7 @@ The Mother Tongue Department aims to nurture Critical thinkers and Confident com
 
 <br clear="left">
 
-<img src="/images/deeplearningmtl4.jpg" style="width:45%;margin-right:15px;" align = "right">
+<img align="right" style="width:45%;margin-right:15px;" src="/images/deeplearningmtl4.jpg">
 
 **Tamil Language**
 * Speech and Drama Workshop
@@ -42,12 +42,12 @@ Let's see how our students demonstrate their learning!
 
 <center><b>Chinese Language</b></center>
 
-<iframe width="883" height="496" src="https://www.youtube.com/embed/fNcrorbGLG4" title="Chinese" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese" src="https://www.youtube.com/embed/fNcrorbGLG4" height="350" width="700"></iframe>
 
 <center><b>Malay Language</b></center>
 
-<iframe width="883" height="496" src="https://www.youtube.com/embed/thN3Eu_jK9U" title="Haziq ML COL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Haziq ML COL" src="https://www.youtube.com/embed/thN3Eu_jK9U" height="350" width="700"></iframe>
 
 <center><b>Tamil Language</b></center>
 
-<iframe width="885" height="497" src="https://www.youtube.com/embed/u3uOSk1BvPM" title="4A Tamil COL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="4A Tamil COL" src="https://www.youtube.com/embed/u3uOSk1BvPM" height="350"></iframe>
