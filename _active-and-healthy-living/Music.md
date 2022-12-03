@@ -19,8 +19,19 @@ Through designing **student-centric** activities, we hope to equip students wi
 
 #### **Programmes**
 
+<img src="/images/music5.jpg" style="width:35%;margin-left:15px;" align = "right">
+
+*   IMAD Day  
+*   Aesthetics week  
+*   Mass music assembly (music exposure)    
+*   Marvellous Monday (music appreciation)    
+*   Bright Spot
 
 #### **From our Students to You**
+The following song is performed by our students as part of their ukulele programme. They also wrote its lyrics. The design brief was to send a positive encouragement to their peers in this challenging period. What better way to pen down our thoughts through a song and to look back at this period, knowing that we have grown together not only mentally, emotionally but also musically. Enjoy!
 
+<iframe width="700" height="350" src="https://www.youtube.com/embed/sBCkIdJHNvc" title="Let s Fight COVID" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Music Reflections**
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/R73-ohMXfNA" title="Music reflections" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
