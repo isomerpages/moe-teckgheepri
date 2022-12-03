@@ -9,7 +9,7 @@ In TGPS, we aim to imbue within our students a sense of pride of being TGStars w
 
 <img src="/images/studentrecognitionframework.jpeg" style="width:85%">
 
-#### Head** Prefect Message **
+#### **Head Prefect Message**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/qZrNSS_4wxw" title="Head prefect message" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
