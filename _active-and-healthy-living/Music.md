@@ -9,6 +9,10 @@ In TGPS, we strive to **develop character** and build capability and capacity 
 
 Through designing **student-centric** activities, we hope to equip students with skills to understand musical elements and concepts. Students are given the music exposure by learning a variety of instruments and learn to **appreciate the Arts** through various platforms.
 
+<img src="/images/music1.jpg" style="width:85%">
+
+<img src="/images/music2.jpg" style="width:85%">
+
 #### **Programmes**
 
 
