@@ -7,7 +7,7 @@ description: ""
 #### **Our TGStars Framework**
 In TGPS, we aim to imbue within our students a sense of pride of being TGStars whose actions reflect the values shown in our TGStar framework so as to bring about their potential as tomorrow's leaders.
 
-<img src="/images/studentrecognitionframework.jpeg" style="width:45%">
+<img src="/images/studentrecognitionframework.jpeg" style="width:85%">
 
 #### Head** Prefect Message **
 
