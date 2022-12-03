@@ -11,7 +11,11 @@ Through designing **student-centric** activities, we hope to equip students wi
 
 <img src="/images/music1.jpg" style="width:85%">
 
-<img src="/images/music2.jpg" style="width:85%">
+<img src="/images/music2.jpg" style="width:65%">
+
+<img src="/images/music3.jpg" style="width:65%">
+
+<img src="/images/music4.jpg" style="width:65%">
 
 #### **Programmes**
 
