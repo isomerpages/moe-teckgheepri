@@ -18,5 +18,3 @@ Click [here](https://staging.d3od0h9ii8slt3.amplifyapp.com/departments/cce/sex-
 
 
 #### **School Continuity Plan for Haze Situation**
-
-
