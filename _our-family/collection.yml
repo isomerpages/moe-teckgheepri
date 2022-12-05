@@ -2,9 +2,9 @@ collections:
   our-family:
     output: true
     order:
-      - Teaching Staff/Teachers.md
-      - Teaching Staff/Allied Educators.md
-      - Teaching Staff/.keep
       - School Executive Committee.md
       - Teacher Leaders.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Teachers.md
+      - Teaching Staff/Allied Educators.md
       - Non Teaching Staff.md
