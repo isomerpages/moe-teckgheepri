@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Edu/Cyber Wellness.md
       - Character & Citizenship Edu/Education & Career Guidance (ECG).md
       - Character & Citizenship Edu/National Education.md
       - Character & Citizenship Edu/Sexuality Education Programme.md
