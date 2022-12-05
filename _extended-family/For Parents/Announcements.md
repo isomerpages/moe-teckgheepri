@@ -730,16 +730,35 @@ With the end of the Circuit Breaker period on 1 June 2020, we will progressively
 [Letter\_to\_Parents\_on\_Arrangement\_for\_School\_After\_Circuit\_Breaker\_\_21\_May\_2020\_.pdf (232.52 KB)](https://drive.google.com/file/d/1KPTYXLJ7w5W53riHSCNfKRKOvTV8LnqD/view?usp=sharing)
 
 ##### Arrangement for School After Circuit Breaker
+Dear Parents/Guardians,<br>
+With the end of the Circuit Breaker period on 1 June 2020, we will progressively bring students back to school from 2 June 2020, in a careful and safe manner. From 2 June 2020, our graduating students and students who need additional support will return to school daily. The other levels will rotate weekly between Home-Based Learning (HBL) and returning to school for lessons. The school will ensure that safe management measures are in place to keep our students safe. Click on the attachment for more details on the measures and arrangements. Our teachers will continue to monitor the progress of your child and be in regular contact with you and your child to provide support during this transition. MOE will continue to closely monitor the COVID-19 situation. We urge you to rely on official sources of information and not to circulate any unconfirmed information. If you have any further queries, please contact us at 6454 8769. Thank you.
 
+**Web Link**<br>
+[https://www.moe.gov.sg/news/press-releases/arrangements-for-schools-and-institutes-of-higher-learning-at-the-end-of-circuit-breaker](https://www.moe.gov.sg/news/press-releases/arrangements-for-schools-and-institutes-of-higher-learning-at-the-end-of-circuit-breaker)
+
+**Attachment**<br>
+[Letter\_to\_Parents\_on\_Arrangement\_for\_School\_After\_Circuit\_Breaker\_\_21\_May\_2020\_.pdf (232.52 KB)](https://drive.google.com/file/d/1KPTYXLJ7w5W53riHSCNfKRKOvTV8LnqD/view?usp=sharing)
 
 ##### From Us to You: Stay Home, Stay Safe, Stay Curious!
+Dear Parent/Guardian, Unlike previous mid-year holidays, your children will be spending their holiday at home. In case you're wondering how you can occupy them, we've pulled together some activities that you can do as a family while staying home during the May holidays. Take this chance to strengthen bonds, have fun and keep on learning! We have uploaded an SLS lesson package (titled: "From Us to You: Stay Home, Stay Safe, Stay Curious!") that is specially curated by our TGPS teachers to encourage your children to be meaningfully engaged during the mid-year school holidays. Do log in to the SLs and try out some of the fun and interesting activities with your children. We are very sure that you will enjoy it too. In addition, we have also attached the Parent Kit (School Holiday Edition) that is prepared by MOE, for more ideas on what your family could do together during the holidays. Take care and we'll see you soon.
 
+[parent-kit---school-holiday-edition.pdf](https://drive.google.com/file/d/1Ji_6kD536qorhwnl5sAwQzSGPipwnAsJ/view?usp=sharing)
 
 ##### Updates on End-of-Semester & Mid-Year Holidays Matters
+Dear Parents/Guardians, Warm greetings from all of us in TGPS. We hope you and everyone at home have been staying safe and healthy during the circuit breaker. As we have brought the mid-year holidays forward, we would like to share some updates with you (please refer to attached letter). It has not been an easy year so far, but we would like to reassure you that we are fully committed to support all our students in their learning and well-being. If you need any clarifications, you can email us or call us at 64548769, and we will be happy to address them. Till we meet in Term 3, please continue to stay home, stay safe and stay healthy.
 
+Sincerely,<br>
+Mr. Wong Jia Wang<br>
+Principal
+
+[Letter to Parents (2020-05-04) (P1-5).pdf](https://drive.google.com/file/d/1xl4BkyMalmAT32fraBAFqUvqlUr7n5Ly/view?usp=sharing)
 
 ##### Updates on End-of-Semester & Mid-Year Holidays Matters (Primary 6)
+Dear Parents/Guardians, Warm greetings from all of us in TGPS. We hope you and everyone at home have been staying safe and healthy during the circuit breaker. As we have brought the mid-year holidays forward, we would like to share some updates with you (please refer to attached letter). It has not been an easy year so far, but we are fully committed to support all our P6 students to be adequately prepared for the PSLE. The support that we will be providing during the mid-year holidays for your child/ward is detailed in the letter as well. If you need any clarifications, you can email us or call us at 64548769, and we will be happy to address them. Till we meet in Term 3, please continue to stay home, stay safe and stay healthy. Sincerely,<br>
+Mr. Wong Jia Wang<br>
+Principal
 
+[Letter to Parents (2020-05-04) (P6)\_final.pdf](https://drive.google.com/file/d/1HhjIGg-Gi4daPBI_KjxvYqm5sspcbo_f/view?usp=sharing)
 
 ##### Supporting Parents in Home-based Learning
 
