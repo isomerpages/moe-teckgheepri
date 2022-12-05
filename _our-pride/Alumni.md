@@ -69,10 +69,14 @@ TGPS also helped build my character. In primary 5/6, a few of us were selected t
 **Conclusion**<br>
 At the end of my first year of university, as I look back, there have been many experiences and people that I’m extremely grateful for – including my primary school teachers. To Mrs Lydia Lye, Ms Lee Li Min, Ms Priscilla Pan, Mr Tan Kian Tee, Ms Michelle Ng, Ms Chee Qiu Xia at Teck Ghee Primary, and all other teachers who have taught me, thank you for inspiring me, for believing in me and for nurturing and shaping me into the person that I am today.
 
+<br clear="left">
+
 <img src="/images/alumni5.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 **Nur Afiqah Bte Ahmad**<br>
 Afiqah is a pupil with exceptional grit. In spite of her family's financial difficulty, she continued to explore different ways to learn, without any tuition. She made it a point to learn on her own.
+
+<br clear="left">
 
 She visited the bookstore daily to read Math questions from the assessment books, visualized her answers and cross-checked them with the answers found at the back of the books. She was able to stay focus at all times, even when she needed to help out with family chores. She was also able to balance her intensive choir practices and her studies.
 
