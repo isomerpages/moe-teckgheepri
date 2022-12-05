@@ -306,88 +306,428 @@ For a summary of the procedure, please see attached and refer to the SEAB websit
 [Annex QO for Parents.pdf](
 
 ##### T4 P6 Matters: Updates to SMM, Study Break and PSLE Matters
+Dear Parents / Guardians
 
+The Ministry of Education (MOE) has announced additional precautionary measures for primary schools on 18 September 2021. This is a follow-up and updates on some of the measure that we will be taking in TGPS.
+
+Please refer to the attachments for details of these measures, including what students need to do before returning to school for PSLE examinations on Thursday, 30 September (for P6 students) and continuation of the term on 7 October for the rest of the levels.
+
+Information about the P6 study break and PSLE written exam can also be found in the attachments.
+
+Should there be any further updates, we will communicate with you via Parents Gateway (PG). We seek your support to rely on official sources of information and not to circulate any unconfirmed information. If you have any queries, please contact us at 6454 8769.
+
+Take care and stay safe.
+
+Yours sincerely,<br>
+Mr Wong Jia Wang<br>
+Principal
+
+File Attachments:<br>
+[P6 Matters_PSLE_Study Break_2021.pdf]<br>
+[P6 Matters_Annex 1 PSLE Exam Timetable.pdf]
 
 ##### T4: Updates to SMM, HBL and Exam Matters
+Dear Parents / Guardians
 
+The Ministry of Education (MOE) has announced additional precautionary measures for primary schools on 18 September 2021. This is a follow-up and updates on some of the measure that we will be taking in TGPS.
+
+Please refer to the attachments for details of these measures, including what students need to do before returning to school for PSLE examinations on Wed, 30 September (for P6 students) and continuation of the term on 7 October for the rest of the levels.
+
+We have also included the schedule for HBL, as well as the dates and contents covered for the end of year examinations.
+
+Should there be any further updates, we will communicate with you via Parents Gateway (PG). We seek your support to rely on official sources of information and not to circulate any unconfirmed information. If you have any queries, please contact us at 6454 8769.
+
+Take care and stay safe.
+
+Yours sincerely,<br>
+Mr Wong Jia Wang<br>
+Principal
+
+File attachments<br>
+[Letter to Parents - Additional Precautionary Measures and HBL for P1-5 2021-09-22 Final.pdf]
+
+HBL Schedules<br>
+[P1_2 HBL schedule_27 Sept 2021.pdf]<br>
+[P3_4 HBL schedule_27 Sept 2021.pdf]<br>
+[P5 HBL schedule_27 Sept 2021.pdf]
+
+End-of-Year Examination Schedules and Topics
+[P3 EYE schedules and topics 2021.pdf]<br>
+[P4 EYE schedules and topics 2021.pdf]<br>
+[P5 EYE schedule and topics 2021.pdf]
 
 ##### 2021 Term 4 Parents' Letter
+Dear Parents/Guardians
 
+Please refer to the attachments for the 2021 Term 4 Parents' Letter dated 13 Sep 2021.
+
+We are sharing some details regarding the keeping of school safe and PSLE matters.
+
+Should you required any clarifications, please do not hesitate to contact your child's/ward's Form Teachers.
+
+Thank you.
+
+Mr. Wong Jia Wang<br>
+Principal
+
+[Parent Letter - Term 4 Letter 13 Sep 2021.pdf]
+[Stronger Together - Reminders on Ring-Fencing Measures.pdf]
 
 ##### Teachers' Day Celebrations 2021
+Dear Parents & Guardians,
 
+We will be celebrating Teachers' Day on 2 September (Thursday). Students will be dismissed earlier that day and according to the following staggered dismissal timings:
+
+1000: P1, School bus, Student Care  
+1005: P2  
+1010: P3 & P4  
+1015: P5 & P6
+
+We have created a virtual 'Tributes to our TGPS Teachers' platform for students and our alumni to send their appreciation and well-wishes in the form of messages, photos or videos to their teachers. We would also like to extend an invitation to you, our partners in education, to send your words of encouragements and appreciation to our teachers via this channel too. The link to this platform is provided below.
+
+Gentle reminder that 2 September (Thursday) will the last day of the term as 3 September (Friday) is the Teachers' Day school holiday. We will welcome students back to school in Term 4 on 13 September.
+
+Thank you!
+
+Mr. Wong Jia Wang<br>
+Principal<br>
+Web Link<br>
+Virtual 'Tributes to Our TGPS Teachers'<br>
+[https://padlet.com/tgps\_tr\_tribute/nx4zgg5j437a2ssu](https://padlet.com/tgps_tr_tribute/nx4zgg5j437a2ssu)
 
 ##### National Day Celebrations
+Dear parents and guardians,
 
+We will be having our National Day celebrations on Friday, 6 August. Students are strongly encouraged to wear a red t-shirt if possible. Please take note of the staggered dismissal timing for the students for that day:
+
+1030: P1, School bus, Student Care  
+1035: P2  
+1040: P3 and P4  
+1045: P5 and P6
+
+Gentle reminder that students do not need to come to school on Monday, 9 Aug (Public holiday) and Tuesday, 10 Aug (School holiday). We will welcome students back to school on Wednesday, 11 August.
+
+Stay safe everyone!
 
 ##### Term 3 Letter to Parents (P1, P2, and P4)
+Dear Parents/Guardians,
 
+We hope you are well and safe.
+
+Please refer to the attachment for the 2021 Term 3 Parents’ Letter dated 7 July 2021.
+
+Should you require any clarifications, please do not hesitate to contact your child’s/ward’s form teachers.
+
+Thank you.
+
+File attachments<br>
+[Parent Letter - Term 3 Letter (7 Jul 2021).pdf (523.42 KB)](https://drive.google.com/file/d/1TL9hzTMoqKsilVMj1yTo92usO-UQI76_/view?usp=sharing)
 
 ##### Term 3 Letter to Parents (P3)
+Dear Parents/Guardians,
 
+We hope you are well and safe.
+
+Please refer to the attachment for the 2021 Term 3 Parents’ Letter dated 7 July 2021. Information of the Term 3 WA is also attached in this announcement for your reference.
+
+Should you require any clarifications, please do not hesitate to contact your child’s/ward’s form teachers.
+
+Thank you.
+
+File attachments
+[Parent Letter - Term 3 Letter (7 Jul 2021).pdf (523.42 KB)](https://drive.google.com/file/d/1TL9hzTMoqKsilVMj1yTo92usO-UQI76_/view?usp=sharing)<br>
+[P3 Weighted Assessment for Term 3 2021.pdf (182.34 KB)](https://drive.google.com/file/d/1OGvM1BFoQkZo12H-tMQBA5Zc5B9YVNUn/view?usp=sharing)
 
 ##### Term 3 Letter to Parents (P5)
+Dear Parents/Guardians,
 
+We hope you are well and safe.
+
+Please refer to the attachment for the 2021 Term 3 Parents’ Letter dated 7 July 2021. Information of the Term 3 WA is also attached in this announcement for your reference.
+
+Should you require any clarifications, please do not hesitate to contact your child’s/ward’s form teachers.
+
+Thank you.
+
+File attachments
+[Parent Letter - Term 3 Letter (7 Jul 2021).pdf (523.42 KB)](https://drive.google.com/file/d/1TL9hzTMoqKsilVMj1yTo92usO-UQI76_/view?usp=sharing)<br>
+[P5 Standard Subjects Weighted Assessment for Term 3.pdf (189 KB)](https://drive.google.com/file/d/1u3mRX1oh9MUMGyjFw6VU8kcefITr8oHI/view?usp=sharing)
 
 ##### Term 3 Letter to Parents (P6)
+Dear Parents/Guardians,
 
+We hope you are well and safe.
+
+Please refer to the attachment for the 2021 Term 3 Parents’ Letter dated 7 July 2021. The P6 Preliminary Examination schedule is also attached in this announcement for your reference.
+
+Should you require any clarifications, please do not hesitate to contact your child’s/ward’s form teachers.
+
+Thank you.
+
+File attachments  
+[Parent Letter - Term 3 Letter (7 Jul 2021).pdf (523.42 KB)](https://drive.google.com/file/d/1TL9hzTMoqKsilVMj1yTo92usO-UQI76_/view?usp=sharing)<br>
+[P6 Prelims exam schedule and topics 2021\_final.pdf (654.79 KB)](https://drive.google.com/file/d/1Lu4j63C7MIul-bmgmZFkJt7dUeW3GXH6/view?usp=sharing)
 
 ##### 2021 Term 3 School Reopens Matters (Primary 1 to Primary 3)
+Dear Parents/ Guardians,
 
+All Primary 1 to Primary 3 students will start school on Tuesday, 6 July 2021 (Monday, 5 July, being School Holiday, in lieu of Youth Day).
+
+All students are to report to school by 7.30am in their half-uniform or PE attire. Students are to bring a small bag with the following items: Personal digital thermometer, TraceTogther token, pencil case with stationery, extra mask, empty Ziploc bag to store the mask during recess, and water-bottle.
+
+To ensure the safety of staff and students, do take note of the following Safe Management Measures:
+
+1\. Masks should be worn at all times except when eating or drinking. Masks should be of high filtration (BFE >95%) eg surgical mask or reusable masks of equivalent effectiveness.<br>
+2\. TraceTogether token<br>
+Students to bring along their TT-token to school daily. Do request for a new token at any Community Club if it is lost Do request for a replacement token if the battery is flat or if it is spoilt.<br>
+3\.  Health matters<br>
+Students who are unwell should not come to school. Do bring your child to the doctor immediately if he/she is unwell. Students with household members who have flu-like symptoms should stay away from school. These unwell household members should see a doctor and be tested.
+
+Do inform the school immediately if you or any household member has been scheduled for mandatory testing, or are serving any form of quarantine order (QO/SHN/LOA).
+
+Looking forward to welcoming your child/ward back to TGPS on Tuesday, 6 July 2021.
+
+Thank you.
 
 ##### Resumption Of School Health And Dental Service Programmes In Primary Schools During Phase 3 (Heightened Alert)
-
+Please see the attached for more information.<br>
+[RESUMPTION OF SCHOOL HEALTH AND DENTAL SERVICE PROGRAMMES - PHASE 3 HA.pdf (473.39 KB)](https://drive.google.com/file/d/1_F8wrD4mF-RpWqbvZbC63-B_btzrL3wq/view?usp=sharing)
 
 ##### 2021 Term 3 School Reopens Matters (Primary 4 to Primary 6)
+Dear Parents/ Guardians,
 
+All Primary 4 to Primary 6 students will start school on Monday, 28 June 2021.
+
+All students are to report to school by 7.30am in their half-uniform or PE attire. Students are to bring a small bag with the following items: Personal digital thermometer, tracetogther token, pencil case with stationery, extra mask, empty Ziploc bag to store the mask during recess, and water-bottle.
+
+To ensure the safety of staff and students, do take note of the following Safe Management Measures:<br>
+1\.  Masks should be worn at all times except when eating or drinking. Masks should be of high filtration (BFE 95%) eg surgical mask or reusable masks of equivalent effectiveness.<br>
+2\.  TraceTogether token Students to bring along their TT-token to school daily. Do request for a new token at any Community Club if it is lost Do request for a replacement token if the battery is flat or if it is spoilt.<br>
+3\.  Health matters Students who are unwell should not come to school. Do bring your child to the doctor immediately if he/she is unwell. Students with household members who have flu-like symptoms should stay away from school. These unwell household members should see a doctor and be tested.
+
+Do inform the school immediately if you or any household member has been scheduled for mandatory testing, or are serving any form of quarantine order (QO/SHN/LOA).
+
+Looking forward to welcoming your child/ward back to TGPS on Monday, 28 June 2021.
+
+Thank you.
 
 ##### 2021 Term 3 School FHBL Matters (Primary 1 to Primary 3)
+Dear Parents/ Guardians,
 
+All Primary 1 to Primary 3 students will continue with home-based learning (HBL) from June 28 to July 2 when Term 3 begins on Monday, 28 June 2021.
+
+The schedule for the one-week home-based learning is attached.
+
+All Primary 1 to Primary 3 students will return to school on Tuesday, July 6, as Monday is a school holiday. We look forward to welcoming your child/ward back to TGPS.
+
+Thank you.
+
+[P1 and P2 Term 3 HBL Schedule.pdf (284.2 KB)](https://drive.google.com/file/d/11ZuAYJigISc-9HicqA2ODrzgAQvXrASd/view?usp=sharing)<br>
+[2021 FHBL schedule for P3 pupils\_Term 3.pdf (195.83 KB)](https://drive.google.com/file/d/1llTdpncVUQdTwsZcr7w9C0skaD-FwZ1N/view?usp=sharing)
 
 ##### P6 Calendar of Events - reference for Vaccination Appointments
+Dear Parents/Guardians,
 
+All eligible P6 students aged 12 and above before 8 June 2021 will be invited for vaccination from 4 June 2021
+
+You may receive the SMS invites from 4 June onwards to schedule your child’s vaccination appointments through the National Appointment System to secure a desired timeslot and location.  To facilitate the scheduling of the vaccination, you may take reference of the P6 level calendar of events listed below.
+
+**Dates to avoid**
+
+|  |  |
+|---|---|
+| 29 & 30 July | School-based Preliminary Oral Exams |
+| 12 & 13 August | PSLE Oral - English and Mother Tongue |
+| 16 to 26 August | School-based Preliminary LC & Written Exams |
+| 17 September | PSLE Listening Comprehension Exam |
+| 30 September to 6 October | PSLE Written Exams |
+|
+
+May we suggest that you ensure that there is a gap of at least 5-7 days from the dates listed above so that your child may have the time and space to recuperate from the effects of the vaccination, if any.
+
+While the COVID-19 vaccination is not mandatory, we would strongly encourage all medically eligible students to be vaccinated when the vaccine is made available to them and to register for a vaccination slot early.
+
+Do consult your child’s/ward’s doctor if your child/ward has underlying medical conditions that might affect their medical eligibility. 
+
+Thank you.
 
 ##### Full Home-based Learning (FHBL) from 19 May 2021 to 28 May 2021
+Dear Parents/Guardians,
 
+The Ministry of Education (MOE) has announced that schools will shift into full Home-Based Learning (FHBL) starting from 19 May 2021 till the end of the term on 28 May 2021.
+
+Please find attached the parent letter with regards to the details for the implementation of FHBL. We are also sharing the slides on FHBL Briefing for Students for your reference too.
+
+Thank you for your support and understanding all these while. We will overcome this together. Stay safe.
+
+Mr. Wong Jia Wang  
+Principal
+
+[Letter to Parents (2021-05-18) - Full HBL (P1 and P2)](https://drive.google.com/file/d/1Rk8Q79NkTSO-NLw8pTQAgSMGGzx3Uhlt/view?usp=sharing)<br>
+[Letter to Parents (2021-05-18) - Full HBL (P3 and P5)](https://drive.google.com/file/d/1NrokWmsTwdtUDraDNki9bwOjQUWNF9Rc/view?usp=sharing)<br>
+[Letter to Parents (2021-05-18) - Full HBL (P4 and P6)](https://drive.google.com/file/d/14U2v_3v-oXsReSJ_v4Q8bVnDm-ArKNq9/view?usp=sharing)<br>
+[FHBL Briefing for Students](https://drive.google.com/file/d/12HGeHIGSVf0Tv7XfX_JzXaxMfoBMYGgW/view?usp=sharing)
 
 ##### Important announcement for parents
+Dear parents, following MOE's press release this evening, please note that:
 
+1\. School will operate as usual on Monday, 17 May, and Tuesday, 18 May.<br>
+2\. P4 & P6 English and Maths SA1 exams scheduled on these 2 days will carry on as planned. Mother  Tongue Languages as well as Science exams will be postponed. WA for other levels will be suspended.<br>
+3\. There will be no face-to-face CCA on Monday, 17 May. Instead, all CCAs will be carried out online.<br>
+4\. We will be releasing details of the FHBL by Tuesday, 18 May, latest.
+
+Stay healthy and safe!
 
 ##### 2021 P3 to P6 Level Letter (Term 2)
+Dear Parents/Guardians,
 
+Please refer to the attachments for the P3 to P6 Level Letters (Term 2) dated 16 April 2021. Should you require any clarifications, please do not hesitate to contact your child’s/ward’s form teachers.
+
+Thank you.
+
+Regards,<br>
+Ms Soh Shi Ting<br>
+Year Head
+
+[P3 Level letter](https://drive.google.com/file/d/1njea66kLt1o4kqnVYdzEFrUUjEdcFs94/view?usp=sharing)<br>
+[P4 Level letter](https://drive.google.com/file/d/19my-z3dBVNWQE37Z8Qm47FFQiL0W0w2M/view?usp=sharing)<br>
+[P5 Level letter](https://drive.google.com/file/d/14pHIInLcDx3Zus3F3uexjAdO7Cw5CxET/view?usp=sharing)<br>
+[P6 Level letter](https://drive.google.com/file/d/1p7i1-PC9tRoo33lBOOR9o8i9MYa9Dpap/view?usp=sharing)
 
 ##### 2021 Term 2 Parents' Letter
+Dear Parents/Guardians,
 
+Please find attached the Parent’s Letter for Term 2 and a copy of our healthy meal’s guide for our students as well.
+
+Do feel free to contact us at 6454 8769 if you have any queries pertaining to the content in the letter.
+
+Thank you.
+
+Yours sincerely,<br>
+Mr Jet Tan Chuan Yang<br>
+Vice Principal (Admin)
+
+[Term 2 Parents Letter (22 Mar 2021).pdf](https://drive.google.com/file/d/1bSm0Z1Ij5bYyFXADB185ZQRSK_MtVQXk/view?usp=sharing)<br>
+[Healthy Meals in School.pdf](https://drive.google.com/file/d/10dcLydSnTtIdD6nPdMlSOLRCI_CcsFOU/view?usp=sharing)
 
 ##### 2021 Term 1 Parents' Letter
+Dear Parents/Guardians,
 
+Welcome to the new school year in 2021 and on behalf of the TGPS Family, I would like to wish all parents and students good health and a wonderful year of joyful learning ahead.
+
+The Term 1 Parents' Letter is attached to keep you updated on some start-of-school matters. Please feel free to contact us at 64548769 if you have any queries pertaining to the content in the letter.
+
+Yours sincerely,
+
+Mr. Wong Jia Wang<br>
+Principal
+
+[2021 Term 1 Parents Letter (5 Jan 2021).pdf (795.06 KB)](https://drive.google.com/file/d/1i_1IAh9zpcjFv7Lg_W9Jw4OoS2ZtPH1V/view?usp=sharing)
 
 ##### 2021 Term 1 Parents' Letter
+Dear Parent/Guardian,<br>
+MOH has advised Singapore residents to defer all travel overseas, with the exception of travel to an evolving list of countries, where COVID-19 is under control and the risk of importation is low. To ensure schools continue to be a healthy and safe environment for all, we require parents/guardians to make a travel declaration only if your child/ward intends to travel for the year-end holidays. NIL returns are not required. To make your travel declaration via Parents' Gateway, go to \[SERVICE > DECLARE TRAVELS\]. Please declare your child/ward’s travel plans, indicating both the country and city of travel, and any city of transit, by 30 Oct (Friday). Only one parent is required to declare. In planning your travel, please refer to the attached advisory on travelling. If there is a change of travel plans after declaration, please inform the school directly rather than through Parents’ Gateway.  
+A hard-copy form was issued to students whose parents are not onboard Parents' Gateway.  
+Thank you for your partnership and support to keep our school safe.
 
+Tan Chuan Yang, Jet<br>
+Vice-Principal (Admin)
+
+[Advisory on Travel Plans and Health Protocol for Students](https://drive.google.com/file/d/17nLZ0WAHare6TCSuuSGb0Vzw3bewId9s/view?usp=sharing)
+
+[Travel Declaration for Year-End Holidays\_Student](https://drive.google.com/file/d/1zBFBgkt-ZbO5PXJjZWojK_5FVqGrcX7S/view?usp=sharing)
+
+Dear Parents/Guardians of International Students, please take note of the additional requirements for re-entry to Singapore if you intend to travel outbound during the year-end holidays: [Information on year-end travel and application for re-entry into Singapore for International Students.pdf](https://drive.google.com/file/d/1HC7gZXvgM56XY473LlH8lRjQtTgj3nzH/view?usp=sharing)
 
 ##### Travel Declaration for Year-End Holidays
+Dear Parents/Guardians, 
 
+Please find attached the parents letter for Term 4. 
+
+Thank you.
+
+[Term 4 Parent Letter (P1\_2\_6) - 16 Sep 2020](https://drive.google.com/file/d/1Jz6fhPgwm6kMCSuLtKT8g20o9gAsu8u8/view?usp=sharing)<br>
+[Term 4 Parent Letter (P3) - 16 Sep 2020](https://drive.google.com/file/d/1ILq7rSr50TFvVHQxT3m4HKc7HbSmwQz_/view?usp=sharing)<br>
+[Term 4 Parent Letter (P4) - 16 Sep 2020](https://drive.google.com/file/d/1lyLE-D83y6L-SUOeXbvjaTEo15sWnSr3/view?usp=sharing)<br>
+[Term 4 Parent Letter (P5) - 16 Sep 2020](https://drive.google.com/file/d/1-xFKTf6YGBlU_o1DXc6Z9IiosHnpGxc2/view?usp=sharing)
 
 ##### Term 4 Parents Letter
+Dear parents / guardians
 
+Please refer to the school calendar of events for Term 4 attached for your forward planning.  
+Wishing you and your child / ward a restful September break. Stay safe!
+
+Regards<br>
+Raps Azrinah<br>
+Vice Principal
+
+[School Calendar of Events for Term 4 2020 (15.01kb)](https://drive.google.com/file/d/13n4NEOl_2buOhkxu1NrF6AY1RGbjF9nN/view?usp=sharing)
 
 ##### TGPS Schedule of Events for Term 4
+Dear Parents/Guardians,<br>
+TGPS will be celebrating Teachers’ Day on Thursday, 3 September 2020. Kindly take note of the following:
 
+1\. Students will be dismissed at 9.00 am on that day;  
+2\. For students taking school buses, transport arrangements have been made accordingly.  
+3\. 4 September 2020 (Friday) is a school holiday as it is Teachers’ Day.
+
+Please make the necessary care arrangements for that day, and encourage your child to go home straight after dismissal if he/she is going back by him/herself.  
+Thank you.
+
+Mr. Wong Jia Wang<br>
+Principal<br>
+Teck Ghee Primary School
 
 ##### Early Dismissal on 3 September 2020 – Teachers’ Day Celebration
+Dear Parents/Guardians,<br>
+We are coming to the end of the first part of Term 3 and we will be starting the 1-week mid-term break from 20 – 26 Jul 2020. We would like to take this opportunity to provide an update on some key activities and programmes for the rest of Term 3 (Weeks 8 – 13). Please refer to the attached letter for details.  
+Thank you and keep safe.
 
+Mr. Wong Jia Wang<br>
+Principal<br>
+Teck Ghee Primary School
+
+[Parent\_Letter\_-\_Mid-Term\_3\_Updates\_\_15\_Jul\_2020\_.pdf (502.66 KB)](https://drive.google.com/file/d/1gCzCXIaXTQVOqWD6Hk-k0OjuCb-7xyPs/view?usp=sharing)
 
 ##### Mid-Term 3 Updates
+Dear Parents/Guardians,<br>
+Teck Ghee Primary School has been designated as a polling and counting station on Polling Day, 10 July 2020 (Friday). As directed by the Elections Department, preparation work will start on 9 July 2020 (Thursday) and school operations will need to cease by 2 pm that afternoon. Kindly take note that school dismissal time on 9 July (Thursday) will still remain the same at 1.30pm. Please refer to further details in the attached letter.  
+Thank you.
 
+Mr. Wong Jia Wang<br>
+Principal<br>
+Teck Ghee Primary School
+
+[Parent\_Letter\_-\_Arrangement\_of\_School\_on\_Eve\_of\_Polling\_Day\_\_final\_.pdf (465.8 KB)](https://drive.google.com/file/d/1H6KCJjV8LnMmmwxVho2dheWIRLjnxCZd/view?usp=sharing)
 
 ##### Arrangement of School on Eve of Polling Day
+Dear Parents/Guardians, MOE has announced on 17 Jun 2020 that as Singapore transits into Phase Two of post-Circuit Breaker, students from all levels will return to school daily from 29 June 2020 (Monday). As such, the current weekly rotation cycle of Home-Based-Learning and face-to-face lessons in school will end on 26 Jun 2020 for P1 to P5 students. Please be assured that we will continue to remain vigilant and adhere to the safe management measures that have been shared in our previous announcements. Kindly refer to the attached letter for the detailed updates and reminders. Take care and stay safe.
 
+Mr. Wong Jia Wang<br>
+Principal Teck Ghee Primary School
+
+[Parent\_Letter\_-\_Arrangement\_of\_School\_from\_29\_Jun\_2020.pdf (484.38 KB)](https://drive.google.com/file/d/1gluwso8WfSqjZzQxUSCE4C5Z1uaZZlgY/view?usp=sharing)
 
 ##### Arrangement of Schools from 29 Jun 2020
+Dear Parents/ Guardians,<br>
+With the end of the Circuit Breaker on 1 Jun 2020, we enter the phase of safe opening. 2 Jun 2020 marks the beginning of a brand new school term. This new term with new arrangements and routines will be a new normal for all of us. To help you understand the arrangements in school better and to support you in preparing your child/ward to be ready for school, we are sharing with you two Parent Kits: 1) TGPS Parent Information Kit for Term 3 (attached in this announcement) 2) MOE Parent Kit (to be sent in a separate PG announcement) In TGPS, we are working behind the scenes to prepare our school to ensure the safety our students so that learning can continue when school re-opens. We look forward to welcoming our students back in school!
 
+**Web Link**<br>
+[go.gov.sg/pg-back-to-school-video](https://go.gov.sg/pg-back-to-school-video)
+
+**Attachments**<br>
+[Parent\_Information\_Kit\_for\_Term\_3.pdf (1.14 MB)](https://drive.google.com/file/d/1ENG31c_ANssn7HWs3TXWBjXJMM4jjkuK/view?usp=sharing)<br>
+[Resource\_Kit\_-\_Parent\_Kit\_-\_Back\_to\_School.pdf (675.69 KB)](https://drive.google.com/file/d/1_lsC5XtrLXK2ZTQnF0Sgu8BxMxfgtsJv/view?usp=sharing)
 
 ##### [Parent Kit] Transitioning Back to School - It's a New Normal for Us.
+Dear Parents/Guardians,<br>
+With the end of the Circuit Breaker period on 1 June 2020, we will progressively bring students back to school from 2 June 2020, in a careful and safe manner. From 2 June 2020, our graduating students and students who need additional support will return to school daily. The other levels will rotate weekly between Home-Based Learning (HBL) and returning to school for lessons. The school will ensure that safe management measures are in place to keep our students safe. Click on the attachment for more details on the measures and arrangements. Our teachers will continue to monitor the progress of your child and be in regular contact with you and your child to provide support during this transition. MOE will continue to closely monitor the COVID-19 situation. We urge you to rely on official sources of information and not to circulate any unconfirmed information. If you have any further queries, please contact us at 6454 8769. Thank you.
 
+**Web Link**<br>
+[https://www.moe.gov.sg/news/press-releases/arrangements-for-schools-and-institutes-of-higher-learning-at-the-end-of-circuit-breaker](https://www.moe.gov.sg/news/press-releases/arrangements-for-schools-and-institutes-of-higher-learning-at-the-end-of-circuit-breaker)
+
+**Attachment**<br>
+[Letter\_to\_Parents\_on\_Arrangement\_for\_School\_After\_Circuit\_Breaker\_\_21\_May\_2020\_.pdf (232.52 KB)](https://drive.google.com/file/d/1KPTYXLJ7w5W53riHSCNfKRKOvTV8LnqD/view?usp=sharing)
 
 ##### Arrangement for School After Circuit Breaker
 
