@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Character & Citizenship Edu/.keep
       - Information Communication Technology.md
       - Arts Education/.keep
       - National Education/National Education.md
