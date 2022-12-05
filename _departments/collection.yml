@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - NE Gallery.md
       - Total Defence Day.md
       - International Friendship Day.md
       - Racial Harmony Day.md
