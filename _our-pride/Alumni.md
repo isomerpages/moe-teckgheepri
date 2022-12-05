@@ -45,3 +45,11 @@ Thanks to the wonderful job done by the teachers in TGPS, providing me with vari
 2013 to 2016: the School of Science and Technology, Singapore (SST)<br>
 2017 to 2018: Raffles Institution (Junior College)<br>
 Since 2019: just completed Year 1 @ National University of Singapore, Yong Loo Lin School of Medicine
+
+<br clear="left">
+
+<img src="/images/alumni4.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+Lynette Tan is one of the pride and joy in Teck Ghee's fruits of labour.
+
+Read all about Lynette’s experiences and perspective about Teck Ghee Primary and find out more about her current status and achievement.
