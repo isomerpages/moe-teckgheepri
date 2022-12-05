@@ -28,7 +28,17 @@ description: ""
 
 #### **Student Development Team**
 
-
+|  |  |
+|---|---|
+| **Head of Department (HOD)**<br>Student Management | **Mr Mohamed Fadzil**<br>[mohamed_fadzil_mustapha@moe.edu.sg](mohamed_fadzil_mustapha@moe.edu.sg) |
+| **Head of Department (HOD)**<br>Character & Citizenship Education (CCE) | **Ms Anushia Devi**<br>[anushia_devi_balachandran@moe.edu.sg](anushia_devi_balachandran@moe.edu.sg) |
+| **Subject Head (Covering)**<br>Student Well-Being | **Mdm Nurhedayu**<br>[nurhedayu_a@moe.edu.sg](nurhedayu_a@moe.edu.sg) |
+| **Year Head (YH)**<br>Primary 1 & 2 | **Ms Soh Shi Ting**<br>[soh_shi_ting@moe.edu.sg](soh_shi_ting@moe.edu.sg) |
+| **Year Head (YH)**<br>Primary 3 & 4 | **Mrs Anna Koh**<br>[anna_wang_siew_peng@moe.edu.sg](anna_wang_siew_peng@moe.edu.sg) |
+| **Year Head (YH)**<br>Primary 5 & 6 | **Mrs Lydia Lye**<br>[goh_sio_noi_lydia@moe.edu.sg](goh_sio_noi_lydia@moe.edu.sg) |
+| **Assistant Year Head (AYH)**<br>Primary 1 & 2 | **Mrs Valerie Heng**<br>[tan_sock_tze@moe.edu.sg](tan_sock_tze@moe.edu.sg) |
+| **Assistant Year Head (AYH)**<br>Primary 5 & 6 | **Mr Brandon Lee**<br>[lee_chin_eng@moe.edu.sg](lee_chin_eng@moe.edu.sg) |
+|
 
 #### **Subject Heads**
 
