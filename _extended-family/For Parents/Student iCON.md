@@ -31,16 +31,16 @@ Please refer to the attached Student iCON Onboarding guide for the list of defau
 	
 **Q5. What is the password requirement?**<br>
 Please follow the password requirements below:<br>
- -\ Password must be at least 8 character(s) long.<br>
-  -\ Password must contain at least 1 lowercase letter(s).<br>
-  -\ Password must contain at least 1 numeric character(s).<br>
-  -\ Password must contain at least 1 uppercase letter(s).<br>
-  -\ Password must contain at least 2 alphabetic character(s).<br>
-  -\ Password must not be longer than 24 character(s).<br>
-  -\ Password must not be one of 3 previous passwords.<br>
-  -\ Password must not match or contain first name.<br>
-  -\ Password must not match or contain last name.<br>
-  -\ Password must not match or contain user ID.
+ - Password must be at least 8 character(s) long.<br>
+  - Password must contain at least 1 lowercase letter(s).<br>
+  - Password must contain at least 1 numeric character(s).<br>
+  - Password must contain at least 1 uppercase letter(s).<br>
+  - Password must contain at least 2 alphabetic character(s).<br>
+  - Password must not be longer than 24 character(s).<br>
+  - Password must not be one of 3 previous passwords.<br>
+  - Password must not match or contain first name.<br>
+  - Password must not match or contain last name.<br>
+  - Password must not match or contain user ID.
 	
 **Q6. I have encountered one of the following problems:**<br>
 1\.  Error AADSTS900561 given by the Google website.<br>
@@ -54,3 +54,6 @@ b\) If the above does not work, use&nbsp;Incognito mode&nbsp;on your browser to 
 c\) Inform your form teacher.<br>
 d\) Submit your query to us via this&nbsp;[FormSG](https://form.gov.sg/#!/609de16fb3fce000127e3ffe)
 
+**7.  I receive the following message: Your account is temporarily locked to prevent unauthorized use. What should I do?**<br>
+a) Inform Form Teacher.<br>
+b) Contact us via this [FormSG](https://form.gov.sg/#!/609de16fb3fce000127e3ffe)
