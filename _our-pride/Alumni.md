@@ -68,3 +68,40 @@ TGPS also helped build my character. In primary 5/6, a few of us were selected t
 
 **Conclusion**<br>
 At the end of my first year of university, as I look back, there have been many experiences and people that I’m extremely grateful for – including my primary school teachers. To Mrs Lydia Lye, Ms Lee Li Min, Ms Priscilla Pan, Mr Tan Kian Tee, Ms Michelle Ng, Ms Chee Qiu Xia at Teck Ghee Primary, and all other teachers who have taught me, thank you for inspiring me, for believing in me and for nurturing and shaping me into the person that I am today.
+
+<img src="/images/alumni5.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+**Nur Afiqah Bte Ahmad**<br>
+Afiqah is a pupil with exceptional grit. In spite of her family's financial difficulty, she continued to explore different ways to learn, without any tuition. She made it a point to learn on her own.
+
+She visited the bookstore daily to read Math questions from the assessment books, visualized her answers and cross-checked them with the answers found at the back of the books. She was able to stay focus at all times, even when she needed to help out with family chores. She was also able to balance her intensive choir practices and her studies.
+
+Finally, Afiqah aced her examinations and emerged as the top Malay pupil in school for 2013 Primary School Leaving Examinations. Because of her exceptional performance, she was placed into the Integrated Programme (IP) of Cedar Girls’ Secondary School.
+
+Her ‘can-do’ spirit and grit has shown us that all things are possible.
+
+<br clear="left">
+
+<img src="/images/alumni6.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+**Nur Amirah Nabilah Mohd Hidir**<br>
+Life is not easy for any of us. But what’s of that? We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something and that this thing must be attained - Marie Curie '
+
+10 year-old Amirah, then a primary 5 student found herself in a totally new environment. After being taken care of by her paternal grandmother, Amirah was uprooted and placed in the care of her mother and transferred from Ahmad Ibrahim Primary School to Tech Ghee Primary School. Adapting to the new environment proved to be quite difficult. Amirah the eldest of the 7 children stayed in a one room flat. She had to make new friends, learn new rules and learn from new teachers. For many, the noisy neighbour who loved to play loud music at any time of the day and the one room flat may be factors that made studying a challenge. Not to Amirah.
+
+The year she took her PSLE, her mother and stepfather separated. It was a real test to her for it happened when PSLE was just around the corner. Despite the struggle, she aced it and made it to Anderson Secondary School.
+
+In secondary school, she excelled in public speaking. The year she took her O’level, she shifted to her father’s place, in Bukit Batok. That did not deter her. She travelled despite the distance and it paid off. In 2014, she was enrolled into Victoria Junior College where she excelled in the debate team.
+
+While her personal life is not a bed of roses, she continues to press on in school. What kept her going? Her reply was, “Even amidst the darkness, there is a horizon that awaits me. There will be obstacles along the way and I will fall. But I will always remember to get back up. I will never give up because nobody really cares if I choose to whine and stay where I fall. I must make that decision to get up.”
+
+<br clear="left">
+
+<img src="/images/alumni7.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+**Chen Hui Zhu**<br>
+The sky's the limit - that is the motto that Chen Hui Zhu lives by. Having to overcome setbacks and the absence of a mother-figure in her life has never deterred Hui Zhu from excelling in her studies. In fact, she has never failed to set yet a new target for her to keep challenging herself. She is source of inspiration to others.
+
+Without tuition and having to face personal issues, she took it upon herself to seek and expand her skills beyond the textbooks. Her resourcefulness in using available resources and those to recommended to her is exemplary. Very often, she is willing to share her new-found knowledge which is an extension of classroom learning humbly with others.
+
+She found solace in writing her inner thoughts and this was where she honed her flair in writing. As a senior prefect, she was able to sharpen her leadership skills. Having earned excellent results in the PSLE in 2011, she is currently in the Integrated Programme Junior College. Despite the hectic schedule, she is coping remarkably well, and most importantly, she is equipped with the right attitude, values and mental strength to bring her goals to greater heights. Being 'average' is never in her vocabulary.
