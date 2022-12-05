@@ -42,6 +42,20 @@ description: ""
 
 #### **Subject Heads**
 
-
+|  |  |
+|---|---|
+| **Level Head (LH)**<br>English Language | **Mrs Melissa Seah**<br>[wong_rui_ye_melissa@moe.edu.sg]() |
+| **Subject Head (SH)**<br>Mathematics | **Ms Eunice Lim**<br>[lim_zhi_ying_eunice@moe.edu.sg]() |
+| **Subject Head (SH)**<br>Science | **Mrs Alia Koh**<br>[alia_aziz_alkaff@moe.edu.sg]() |
+| **Subject Head (SH)**<br>Chinese Language | **Ms Kelly Ng**<br>[ng_minlin_kelly@moe.edu.sg]() |
+| **Level Head (LH)**<br>Information & Communication Technology (ICT) | **Ms Alexis Tung**<br>[tung_ying_zhu_alexis@moe.edu.sg]() |
+|
 
 #### **School Administrative Team**
+
+|  |  |
+|---|---|
+| **Administration Manager** | **Mr Garry Tan Wei Min**<br>[tan_wei_min_garry@moe.edu.sg]() |
+| **Administration Manager** | **Miss Ang Hui Mieng**<br>[ang_hui_mieng@moe.edu.sg]() |
+| **Operations Manager** | **Mr Lee Cheng Koon**<br>[lee_cheng_koon@moe.edu.sg]() |
+|
