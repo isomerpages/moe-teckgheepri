@@ -21,12 +21,12 @@ You can refer to the FAQ page [here](https://pg.moe.edu.sg/faq).
 3\.  Tap on 'Push Notifications'<br>
 4\.  If 'Push Notifications' is 'OFF', tap 'Turn On' to enable it
 
-<img src="/images/pushnotification.jpg" style="width:65%">
+<img src="/images/pushnotification.jpg" style="width:85%">
 
 #### **After-School Schedule**
 The schedule for after school programmes for 2022 is reflected below for your reference
 
-<img src="/images/aftschschedule.jpg" style="width:65%">
+<img src="/images/aftschschedule.jpg" style="width:85%">
 
 #### **Gate Operating Hours**
 ##### **Gate A**
