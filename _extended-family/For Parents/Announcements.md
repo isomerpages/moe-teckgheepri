@@ -35,7 +35,7 @@ Yours sincerely,<br>
 Jet Tan<br>
 Vice Principal (Admin)
 
-[2022 Term 4 Parents Letter 15 Nov 2022.pdf]
+[2022 Term 4 Parents Letter 15 Nov 2022.pdf](files/announcements3.pdf)
 
 ##### **Enhancement to Ministry of Education Financial Assistance Scheme**
 Dear Sir/Madam<br>
@@ -58,7 +58,7 @@ MOE FAS e-application<br>
 [https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)
 
 **File attachments**<br>
-[GGAS_MOE FAS Application Form.pdf]
+[GGAS_MOE FAS Application Form.pdf](files/announcements4.pdf)
 
 ##### **Primary 3 End-of-Year Examination Schedule**
 Dear Parents/Guardians,<br>
@@ -69,7 +69,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P3 EYE schedules and topics 2022.docx.pdf]
+[P3 EYE schedules and topics 2022.docx.pdf](files/announcements5.pdf)
 
 ##### **Primary 4 End-of-Year Examination Schedule**
 Dear Parents/Guardians,<br>
@@ -80,7 +80,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P4 EYE schedules and topics 2022.docx.pdf]()
+[P4 EYE schedules and topics 2022.docx.pdf](files/announcements6.pdf)
 
 ##### **Primary 5 End-of-Year Examination Schedule**
 Dear Parents/Guardians,<br>
@@ -91,7 +91,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P5 EYE schedule and topics 2022.docx 1.pdf]()
+[P5 EYE schedule and topics 2022.docx 1.pdf](files/announcements7.pdf)
 
 ##### P5** Weighted Assessment 2 (WA2) Matters 2022**
 Dear Parents/Guardians,<br>
@@ -102,7 +102,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[2022 Schedule for P5 Weighted Assessment_Term 3.docx.pdf]()
+[2022 Schedule for P5 Weighted Assessment_Term 3.docx.pdf](files/announcements8.pdf)
 
 ##### **P3 Weighted Assessment 2 (WA2) Matters 2022**
 Dear Parents/Guardians,<br>
@@ -113,7 +113,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[2022 Term 3 Parents Letter 29 Jun 2022.pdf]()
+[2022 Term 3 Parents Letter 29 Jun 2022.pdf](files/announcements9.pdf)
 
 ##### **2022 Term 3 Parents' Letter**
 Dear Parents/Guardians,<br>
@@ -127,7 +127,7 @@ Yours sincerely,<br>
 Jet Tan<br>
 Vice Principal (Admin)
 
-[2022 Term 3 Parents Letter 29 Jun 2022.pdf]()
+[2022 Term 3 Parents Letter 29 Jun 2022.pdf](files/announcements10.pdf)
 
 ##### **2022 P1 Registration Exercise**
 Dear Parents / Guardians<br>
@@ -152,7 +152,7 @@ Thank you.
 regards,<br>
 Instructional Programme Heads
 
-[P6 assessment letter 2022.pdf]()
+[P6 assessment letter 2022.pdf](files/announcements11.pdf)
 
 ##### **P5 WEIGHTED ASSESSMENT 1 (WA1) MATTERS 2022**
 Dear Parents/Guardians,<br>
@@ -163,7 +163,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P5 assessment letter 2022.pdf]()
+[P5 assessment letter 2022.pdf](files/announcements12.pdf)
 
 ##### **P4 MID-YEAR EXAMINATION (MYE) MATTERS 2022**
 Dear Parents/Guardians,<br>
@@ -174,7 +174,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P4 assessment letter 2022.pdf]()
+[P4 assessment letter 2022.pdf](files/announcements13.pdf)
 
 ##### **P3 WEIGHTED ASSESSMENT 1 (WA1) MATTERS 2022**
 Dear Parents/Guardians,<br>
@@ -185,7 +185,7 @@ Thank you.
 Regards,<br>
 Instructional Programme Heads
 
-[P3 assessment letter 2022.pdf]()
+[P3 assessment letter 2022.pdf](files/announcements14.pdf)
 
 ##### **2022 Term 2 Parents' Letter**
 Dear Parents/Guardians<br>
@@ -199,7 +199,7 @@ Yours sincerely,<br>
 Jet Tan<br>
 Vice Principal (Admin)
 
-[2022 Term 2 Parents Letter_23 Mar 2022.pdf]()
+[2022 Term 2 Parents Letter_23 Mar 2022.pdf](files/announcements15.pdf)
 
 ##### **Assessment Matters**
 Dear Parents/Guardians,<br>
@@ -210,11 +210,11 @@ Thank you.
 Regards,<br>
 Instructional Programmes KPs
 
-[P1_2 assessment letter.pdf](
-[P3 assessment letter.pdf](
-[P4 assessment letter.pdf]()
-[P5 assessment letter.pdf](
-[P6 assessment letter.pdf](
+[P1_2 assessment letter.pdf](files/announcements16.pdf)<br>
+[P3 assessment letter.pdf](files/announcements17.pdf)<br>
+[P4 assessment letter.pdf](files/announcements18.pdf)<br>
+[P5 assessment letter.pdf](files/announcements19.pdf)<br>
+[P6 assessment letter.pdf](files/announcements20.pdf)
 
 ##### **2022 Term 1 Parents' Letter**
 Dear Parents/Guardians,<br>
@@ -226,7 +226,7 @@ Yours sincerely,
 Mr Wong Jia Wang
 Principal
 
-[2022 Term 1 Parents Letter 5 Jan 2022 final.pdf]
+[2022 Term 1 Parents Letter 5 Jan 2022 final.pdf](files/announcements21.pdf)
 
 ##### **Celebration of Learning 2021**
 Dear Parents and Guardians,<br>
@@ -283,7 +283,7 @@ If your child is not able to take any of the papers, the school will assist you 
 
 For a summary of the procedure, please see attached and refer to the SEAB website. If you need any clarification regarding the QO leave application, please reach out to your child’s school.
 
-[Annex QO for Parents.pdf](
+[Annex QO for Parents.pdf](files/announcements22.pdf)
 
 ##### **T4 P6 Matters: Updates to SMM, Study Break and PSLE Matters**
 Dear Parents / Guardians<br>
@@ -302,8 +302,8 @@ Mr Wong Jia Wang<br>
 Principal
 
 File Attachments:<br>
-[P6 Matters_PSLE_Study Break_2021.pdf]<br>
-[P6 Matters_Annex 1 PSLE Exam Timetable.pdf]
+[P6 Matters_PSLE_Study Break_2021.pdf](files/announcements23.pdf)<br>
+[P6 Matters_Annex 1 PSLE Exam Timetable.pdf](files/announcements24.pdf)
 
 ##### **T4: Updates to SMM, HBL and Exam Matters**
 Dear Parents / Guardians<br>
@@ -322,17 +322,17 @@ Mr Wong Jia Wang<br>
 Principal
 
 File attachments<br>
-[Letter to Parents - Additional Precautionary Measures and HBL for P1-5 2021-09-22 Final.pdf]
+[Letter to Parents - Additional Precautionary Measures and HBL for P1-5 2021-09-22 Final.pdf](files/announcements25.pdf)
 
 HBL Schedules<br>
-[P1_2 HBL schedule_27 Sept 2021.pdf]<br>
-[P3_4 HBL schedule_27 Sept 2021.pdf]<br>
-[P5 HBL schedule_27 Sept 2021.pdf]
+[P1_2 HBL schedule_27 Sept 2021.pdf](files/announcements26.pdf)<br>
+[P3_4 HBL schedule_27 Sept 2021.pdf](files/announcements27.pdf)<br>
+[P5 HBL schedule_27 Sept 2021.pdf](files/announcements28.pdf)
 
 End-of-Year Examination Schedules and Topics
-[P3 EYE schedules and topics 2021.pdf]<br>
-[P4 EYE schedules and topics 2021.pdf]<br>
-[P5 EYE schedule and topics 2021.pdf]
+[P3 EYE schedules and topics 2021.pdf](files/announcements29.pdf)<br>
+[P4 EYE schedules and topics 2021.pdf](files/announcements30.pdf)<br>
+[P5 EYE schedule and topics 2021.pdf](files/announcements31.pdf)
 
 ##### **2021 Term 4 Parents' Letter**
 Dear Parents/Guardians<br>
@@ -347,8 +347,8 @@ Thank you.
 Mr. Wong Jia Wang<br>
 Principal
 
-[Parent Letter - Term 4 Letter 13 Sep 2021.pdf]
-[Stronger Together - Reminders on Ring-Fencing Measures.pdf]
+[Parent Letter - Term 4 Letter 13 Sep 2021.pdf](files/announcements32.pdf)<br>
+[Stronger Together - Reminders on Ring-Fencing Measures.pdf](files/announcements33.pdf)
 
 ##### **Teachers' Day Celebrations 2021**
 Dear Parents & Guardians,<br>
