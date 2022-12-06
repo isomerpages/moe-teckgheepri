@@ -26,10 +26,11 @@ You can refer to the following table for guidance on the Operating Systems/brows
 	
 | Browser |  |  |  | Operating System |  |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Chrome** | **Windows 10** | **Chrome OS** | **Mac OS** | **iOS** | **iPadOS** | **Android** |
-| **Firefox** |  |  |  |  |  |  |
-| **Microsoft Edge** |  |  |  |  |  |  |
-| **Safari** |  |  |  |  |  |  |
+|  | **Windows 10** | **Chrome OS** | **Mac OS** | **iOS** | **iPadOS** | **Android** |
+| **Chrome** | Yes | Yes | Yes | Yes | Yes | **Not available until after mass rollout** |
+| **Firefox** | Yes | Yes | Yes | Yes | Yes | Yes |
+| **Microsoft Edge** | Yes | **Not supported** | Yes | Yes | **Not supported** | Yes |
+| **Safari** | **Not Supported** | **Not Supported** | Yes | Yes | Yes | **Not Supported** |
 |
 	
 **Q4. What are the default Google applications available for each level?**
