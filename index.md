@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Tech Ghee Primary School
+title: Teck Ghee Primary School
 description: Brief site description here
 image: /images/teckgheepri.jpg
 permalink: /
@@ -37,3 +37,4 @@ sections:
       button: click here
       url: /contact-us/feedback-and-enquiries/
 ---
+
