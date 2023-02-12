@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Teck Ghee Primary School
-description: Brief site description here
+description: Nurturing Tomorrow's Leaders, Today
 image: /images/teckgheepri.jpg
 permalink: /
 notification: ""
@@ -18,3 +18,4 @@ sections:
           description: ""
           url: /ez-links/
 ---
+
