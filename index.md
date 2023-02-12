@@ -13,9 +13,8 @@ sections:
       key_highlights:
         - title: What's New
           description: ""
-          url: /extended-family/for-parents/briefing-slides/
+          url: /whatsnew/
         - title: EZ-Links
           description: ""
           url: /ez-links/
 ---
-
