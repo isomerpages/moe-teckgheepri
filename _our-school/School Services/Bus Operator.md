@@ -8,6 +8,6 @@ third_nav_title: School Services
 
 | Name of company: | Hong Yun Bus Services Transport |
 |---|---|
-| Person i/c: | Mr Pan Ting / Mr Tan Swee Huat |
-| Contact: | 9008 2750 / 9831 5851 |
+| Person i/c: | Mr Tan Swee Huat |
+| Contact: | 9831 5851 |
 |
