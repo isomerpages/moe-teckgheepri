@@ -21,6 +21,6 @@ contacts:
   - content:
       - phone: +65 6454 8769
       - email: tgps@moe.edu.sg
-      - other: Any text here <i>including HTML</i>
+      - other: ""
     title: General Enquiries & Feedback
 ---
