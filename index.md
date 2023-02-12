@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Teck Ghee Primary School
       subtitle: Nurturing Tomorrow's Leaders, Today
-      background: /images/hero-banner.png
+      background: /images/temptoppage2.jpg
       key_highlights:
         - title: What's New
           description: ""
