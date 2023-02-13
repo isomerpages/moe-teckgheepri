@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### **Sports**
-
 #### **Basketball**
 Basketball (Boys and Girls) CCA provides ample opportunities for pupils to learn the fundamental skills of basketball in a fun and engaging way. Professional and experienced coaches are employed to coach the pupils.
 
