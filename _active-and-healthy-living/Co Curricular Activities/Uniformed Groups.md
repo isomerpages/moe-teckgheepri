@@ -5,12 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### **Uniformed Groups**
-#### **Uniformed Groups CCA Schedule 2021**
-[Scouts, P3 and P4](https://drive.google.com/file/d/1X8FjjcDqZ8MPZ7WozFDSOv4IO25s7Dct/view?usp=sharing)<br>
-[Scouts, P5 and P6](https://drive.google.com/file/d/12PH4xNNZ6LST6Vvwiz8XlEQohoRx7xA7/view?usp=sharing)
-
-[Brownies, P3 and P4](https://drive.google.com/file/d/1Jt1Zlu6vWH5clUGe1BrHIPGIOlp6eymR/view?usp=sharing)<br>
-[Brownies, P5 and P6](https://drive.google.com/file/d/1Sur31Nc8p52Bf600wkpvvXgvk5elvRby/view?usp=sharing)
 
 #### **Girl Guides (Brownies)**
 Girl Guides (Brownies) CCA is a uniformed group for young girls in the Primary Schools. It is under Girl Guides, an educational youth Movement.  It provides opportunities for girls to develop leadership and decision-making as well as life skills through activities such as games, crafts work and learning journeys.
