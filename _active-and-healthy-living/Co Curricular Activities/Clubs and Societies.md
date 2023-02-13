@@ -5,19 +5,6 @@ description: ""
 third_nav_title: Co Curricular Activities
 ---
 ### **Clubs and Societies**
-#### **Clubs and Societies CCA Schedule 2021**
-[Robotics Club P3, P4, and P5](https://drive.google.com/file/d/109ZVp0jV5uiivN9h3R6jyWsZrJlHg8JQ/view?usp=sharing)<br>
-[Robotics Club P6](https://drive.google.com/file/d/116lMeh_UVnPQPxPAl4pDvRTzSrvkdpwO/view?usp=sharing)
-
-[Infocomm Tech Club, P3 and P4](https://drive.google.com/file/d/1ieoQBI7fmnE1M-7Qt5-gZbhZMnLMB80v/view?usp=sharing)<br>
-[Infocomm Tech Club, P5 and P6](https://drive.google.com/file/d/15yQtjnbX2iS6-Wf82Go48WRo4FPdshen/view?usp=sharing)
-
-[Environmental Science Club, P3 and P4](https://drive.google.com/file/d/1y9TXgOLpfMDvjnnnwF3z4z_5-NHV7md1/view?usp=sharing)<br>
-[Environmental Science Club, P5 and P6](https://drive.google.com/file/d/1_H1e1LBACDWMNZGGkBhlC_YTGEY46QxO/view?usp=sharing)
-
-[Art Club, P3 and P4](https://drive.google.com/file/d/15yQtjnbX2iS6-Wf82Go48WRo4FPdshen/view?usp=sharing)<br>
-[Art Club, P5 and P6](https://drive.google.com/file/d/1oBWZgxv1ZxBpmLYfl5QCDNCeGDeaV0RL/view?usp=sharing)
-
 #### **Art and Crafts**
 In Art and Crafts, pupils are exposed to creative thinking skills and various art forms. They are also given opportunities to visit art museums and exhibitions, and also learn from professional artists.
 
