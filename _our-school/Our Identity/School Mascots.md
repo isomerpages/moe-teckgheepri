@@ -4,7 +4,7 @@ permalink: /our-school/Our-Identity/schoolmascots/
 description: ""
 third_nav_title: Our Identity
 ---
-##### School Mascots
+## School Mascots
 
 ![](/images/NoMask_TGPS%20Mascots_031221.png)
 *From Left: Taufik, Gracie, Priya, and Sunny*
