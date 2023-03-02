@@ -13,7 +13,7 @@ locations:
         time: 7.30am to 5.30pm
         description: Closed on Sat, Sun, Public Holidays
       - days: Eve of major public holiday
-        time: .370am - 12.00pm
+        time: 7.30am - 12.00pm
         description: ""
     maps_link: ""
     title: School Location
