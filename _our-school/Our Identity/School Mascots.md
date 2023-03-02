@@ -13,14 +13,13 @@ third_nav_title: Our Identity
 
 ![](/images/NoMask_Taufik_HandUp.png)
 
-**** A role model for Taufik ****
+#### **A Role Model for Taufik**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-11ULaAeo3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
-Taufik was born in a small kampung in the olden days of Singapore.
 
-Mdm Amina, Taufik’s mother, was one of the most helpful person in her kampung.  Everyone would go to her when they faced any challenges. She would always be the first person to try and solve the problems for others and get people together.
 
-Watching her doing things for the kampung and keeping the kampung spirit together, Taufik grew up to be like his mum.
 
 
 
