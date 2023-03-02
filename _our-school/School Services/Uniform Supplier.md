@@ -13,4 +13,5 @@ third_nav_title: School Services
 | Opening Hours: | 9am to 3pm  |
 |
 
-**\*Enhanced Safe Management Matters during Covid 19 Situation:** Should you need to purchase school books/uniforms for your children, you may enter the school between 2pm – 3.30pm to visit the bookshop.
+
+Should you need to purchase school books/uniforms for your children, you may enter the school between 2pm – 3.30pm to visit the bookshop.
