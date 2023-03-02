@@ -3,5 +3,5 @@ title: What's New
 permalink: /whatsnew/
 description: ""
 ---
-* [Assessment Matters](/extended-family/for-parents/announcements/)
-* [Term 1 Parents' Letter](/extended-family/for-parents/announcements/)
+* [2023 HPB Annual Health Screening Exercise](/extended-family/for-parents/announcements/)
+* [Travel Declaration for 2023 March School Holiday](/extended-family/for-parents/announcements/)
