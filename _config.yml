@@ -3,7 +3,7 @@ url: https://teckgheepri.moe.edu.sg
 favicon: /images/teckgheepri.jpg
 colors:
   primary-color: "#40542e"
-  secondary-color: "#ffffff"
+  secondary-color: "#f5a623"
   media-colors:
     - title: media-color-one
       color: "#49759a"
