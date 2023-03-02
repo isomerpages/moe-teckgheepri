@@ -7,8 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Teck Ghee Primary School
-      subtitle: Nurturing Tomorrow's Leaders, Today
       background: /images/temptoppage2.jpg
       key_highlights:
         - title: What's New
