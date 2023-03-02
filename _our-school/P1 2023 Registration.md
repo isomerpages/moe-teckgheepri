@@ -3,7 +3,7 @@ title: P1 2023 Registration
 permalink: /our-school/p1-2023-registration/
 description: ""
 ---
-### **P1 2023 Registration**
+### **P1 2024 Registration**
 
 #### **Getting to Know TGPS**
 
@@ -17,13 +17,16 @@ description: ""
 | <a href="https://drive.google.com/file/d/1sBJITk0kM1AzHhaRGHfb6No9aJyn42x0/view"><img style="width:250px;height:150px;" src="/images/gettingtoknowtgps7.jpg">TGPS Virtual School Tour</a><br><br>Our TGStars will take you on a virtual<br>school tour to different parts of the school<br>compound. They will share with you how<br>learning and playing take place in the<br>various locations. | <a href="https://teckgheepri.moe.edu.sg/qql/slot/u513/P1/Transition%20to%20Primary%201.mp4"><img style="width:250px;height:150px;" src="/images/gettingtoknowtgps8.jpg">The TGPS Experience - Transiting to Primary 1</a><br><br>Stepping up from preschool to primary<br>school is filled with changes. Here in TGPS,<br>we do our best to help our young TGStars<br>make the transition. Let one of our Primary<br>2 TGStar share her experience on transiting<br>to Primary 1. |
 |
 
-#### **P1 Registration Information**
-<p>P1 registration is conducted over several phases. These registration phases apply to children who Singapore Citizens and Singapore Permanent Residents born between 2 January 2017 and 1 January 2018 (both dates inclusive). The 2023 P1 Registration Exercise will be conducted fully online. Similar to last year, there will not be any in-person registration at schools.</p> 
+#### P1 Registration Information
 
-<p>There are 2 modes for online registration depending on the phase:</p>
-<ul>
-<li>Online application form for Phases 1, 2A and 2B. For parents registering their younger child under Phase 1, the primary school will provide you with the registration details by April. You should submit the online form upon receiving instructions from the school. If you have not received it, please contact the school. For Phases 2A and 2B, the link to the online form and user guide will be available on MOE website during the registration periods of the respective phases.</li>
-<li>The Primary One Internet System (P1-IS) for Phases 2C and 2C Supplementary.</li>
-</ul>
 
-<p>Please refer to the MOE website at <a href="https://www.moe.gov.sg/primary/p1-registration" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for more information on P1 Registration exercise, phases and key dates.</p>
+**P1 2024 Registration**
+
+P1 registration is conducted over several phases. These registration phases apply to children who Singapore Citizens and Singapore Permanent Residents born between 2 January 2017 and 1 January 2018 (both dates inclusive). The 2023 P1 Registration Exercise will be conducted fully online. Similar to last year, there will not be any in-person registration at schools.
+
+There are 2 modes for online registration depending on the phase:
+
+*   Online application form for Phases 1, 2A and 2B. For parents registering their younger child under Phase 1, the primary school will provide you with the registration details by April. You should submit the online form upon receiving instructions from the school. If you have not received it, please contact the school. For Phases 2A and 2B, the link to the online form and user guide will be available on MOE website during the registration periods of the respective phases.
+*   The Primary One Internet System (P1-IS) for Phases 2C and 2C Supplementary.
+
+Please refer to the MOE website at [https://www.moe.gov.sg/primary/p1-registration](https://www.moe.gov.sg/primary/p1-registration) for more information on P1 Registration exercise, phases and key dates.
