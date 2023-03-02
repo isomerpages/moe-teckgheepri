@@ -20,7 +20,7 @@ description: ""
 
 |  |  |
 |---|---|
-| **Teacher Aide(s)** | **Mdm Doris Law Kia Luan**<br>**Shirley Ng Oi Yin**|
+| **Teacher Aide(s)** | **Mdm Doris Law Kia Luan**<br>**Mdm Shirley Ng Oi Yin**|
 | **Lab Assistant** | **Mdm Surianah Bte Sari** |
 | **Library Assistant** | **Mdm Nurdiyana Binte Samseri**<br>[nurdiyana.samseri@staff.spydus.com.sg](nurdiyana.samseri@staff.spydus.com.sg) |
 | **Desktop Engineer(s)** | **Mr Melvin Tang**<br>[melvintang@ncs.com.sg](melvintang@ncs.com.sg) <br>**Mr Imran Bin Aminuddin**<br>[imran.aminuddin@ncs.com.sg](imran.aminuddin@ncs.com.sg)|
