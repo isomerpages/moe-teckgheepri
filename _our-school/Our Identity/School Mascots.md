@@ -16,3 +16,7 @@ third_nav_title: Our Identity
 #### **A Role Model for Taufik**
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/-11ULaAeo3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+#### **The Story of Gracious Gracie**
+
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/-11ULaAeo3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
