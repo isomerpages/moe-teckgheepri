@@ -39,8 +39,9 @@ You may approach the staff at our general office for guidance on how to apply fo
 In the meantime, you could also read up about it [here](https://www.imda.gov.sg/neupc).
 
 ##### **How do I apply to be a parent volunteer in your school?**
-In order to qualify as a parent volunteer for registration at Phase 2B of the 2018 Primary One (P1) Registration Exercise, you would have to be registered as a parent volunteer with the school not later than 1 July 2017 and given at least 40 hours of voluntary service to the school by 30 June 2018.
-You can approach the general office during office hours to enquire about their parent volunteer scheme.
+In order to qualify as a parent volunteer for registration at Phase 2B of the 2023 Primary One (P1) Registration Exercise, you would have to be registered as a parent volunteer with the school not later than 31 May 2022 and given at least 40 hours of voluntary service to the school by 30 June 2023.
+
+You can approach or contact the general office during office hours to enquire about the parent volunteer scheme.
 
 **[Click here to download the Parent Volunteer Registration Form](/files/TGPS%20PV%20Registration%20form.pdf)**
 
