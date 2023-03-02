@@ -12,6 +12,4 @@ third_nav_title: For Parents
 | 2 | SEd Opt Out Form  |
 | 3 | Application for Financial Assistance  |
 | 4 | [Application for Student Care Centre](/files/form1.pdf)  |
-| 5 | [Consent for Immunisation and Dental Services (Pri 1 Only)](/files/form2.pdf) |
-| 6  | [Consent for Secondary School Dental Programme (Pri 6 Only)](/files/form3.pdf) |
 |
