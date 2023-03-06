@@ -12,7 +12,11 @@ As tomorrow’s leaders, students need to be skilled communicators. At TGPS, we 
 *   To acquire skills to **create** and **present**
 *   To develop an interest in exploring different forms of **multimedia tools** such as digital doodling and drawing, animation, videography, and photo art,
 *   To possess values, dispositions and skills to **listen actively** to different perspectives and **be empathetic** ; communicate **confidently** and **effectively**
-*   To develop awareness and better understanding of the communities they live in and take an active part in bettering lives around them
+*   To develop awareness and better understanding of the communities they live in and take an active part in bettering lives around them.
+
+<div class="bp-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/3dFta5bL3nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ![](/images/LLP%206.jpeg)
 ![](/images/LLP%207.jpeg)
