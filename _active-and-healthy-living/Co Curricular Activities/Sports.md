@@ -12,7 +12,7 @@ third_nav_title: Co Curricular Activities
 
 Basketball (Boys and Girls) CCA provides ample opportunities for pupils to learn the fundamental skills of basketball in a fun and engaging way. Professional and experienced coaches are employed to coach the pupils.
 
-&nbsp;**Aims:**
+**Aims:**
 
 * To equip students with the basic skills of basketball so that they can engage in lifelong pursuit of playing basketball as a sport.
 
