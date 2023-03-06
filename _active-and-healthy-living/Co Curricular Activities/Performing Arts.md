@@ -9,9 +9,10 @@ third_nav_title: Co Curricular Activities
 #### **Chinese Dance**
 The Chinese Dance Club engages professional dance instructors to coach the dancers.
 
-**Aim:**
+![](/images/chinese%20dance%201.jpg)
+![](/images/chinese%20dance%202.jpg)
 
-<img src="/images/performingarts1.jpg" style="width:35%;margin-left:15px;" align = "right">
+**Aim:**
 
 *   To develop leadership skills and acquire positive values like team spirit, graciousness, perseverance, self-discipline and commitment.
 *   To learn the fundamental skills of Chinese Dance and develop grace, flexibility, balance and coordination.
@@ -29,19 +30,31 @@ Dance techniques for efficient movement execution and expressive performance
 |
 
 **Teachers in charge :**<br>
-Ms Chee Qiu Xia (I/C), Mdm Lim Siew Yee
+Ms Chee Qiu Xia (I/C), Mrs Wong-Ngoo Ing Choo (2nd I/C)
 
 **Commitment Level :**<br>
-There will be an extra 1 hour dance practice if we need to prepare for competitions and performances. 
+There will be an extra 1 hour dance practice if we need to prepare for competitions and performances.&nbsp;
 
-**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm 
+**Training Frequency (Day and Time):** Every Monday, 2.30 pm – 4.30 pm&nbsp;
  
 **Progression**
 
-|  | Stage 1 | Stage 2 | Stage 3 | Stage 4 |
-|---|---|---|---|---|
-| **Stages** | Appreciating Stage | Creating Stage | Presenting Stage | Responding and Evaluating Stage |
-|
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="623" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td><td style="width:180.0pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="240"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Beginner</span></b></p></td><td style="width:238.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="318"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">Stages</span></p></td><td style="width:78.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="104"><p class="MsoNormal"><span lang="EN">Appreciating Stage : Enjoyment and appreciation of different forms of dances.</span></p></td><td style="width:102.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="136"><p class="MsoNormal"><span lang="EN">Creating Stage:</span></p><p class="MsoNormal"><span lang="EN">Understand and practice the simple dance movements</span></p></td><td style="width:116.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="155"><p class="MsoNormal"><span lang="EN">Presenting Stage: Express and present<span style="mso-spacerun:yes">&nbsp; </span>in structured dance forms</span></p></td><td style="width:122.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="163"><p class="MsoNormal"><span lang="EN">Responding and Evaluating Stage : Improve dance movements upon feedback and conduct self evaluation after performances.</span></p><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr height="0"><td style="border:none" width="65"></td><td style="border:none" width="104"></td><td style="border:none" width="136"></td><td style="border:none" width="155"></td><td style="border:none" width="163"></td></tr></tbody></table>
 
 **Performances, Competitions and Past Achievements**<br>
 Our Chinese Dancers have the opportunities to put up performances in various school events, public performances and competitions.
@@ -57,7 +70,7 @@ Our Chinese Dancers have the opportunities to put up performances in various sch
 #### **Choir**
 The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as French, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the crime prevention campaign, exchange programme with other schools prior to the SYF presentation and the Speech Day concert.
 
-<img src="/images/performingarts2.jpg" style="width:65%">
+<img style="width:65%" src="/images/performingarts2.jpg">
 
 The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
@@ -75,16 +88,16 @@ The main objectives of the choir CCA serves to develop an appreciation for the A
 | **Self-discipline** | Players will be self-disciplined to come for practices punctually and to take ownership of their learning by practising at home. |
 |
 
-**Teachers in charge:** Mdm Lynn Yeo (I/C) , Ms June Tan, Mdm Rumaizah 
+**Teachers in charge:** Mdm Lynn Yeo (I/C) , Ms June Tan, Mdm Rumaizah&nbsp;
 
 **Commitment Level:** Students will undergo an audition to be selected and grouped in the singing section. Students are expected to come regularly, every Monday 2.00pm to 4.00pm.
 
 **Training Frequency (Day and Time):** Every Monday, 2.00pm – 4.00pm
   
 **Performances and Past Achievements**<br>
-The school choir has participated in various external celebrations and events such as the Teck Ghee CC National Day Observance Ceremony, Racial Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall, Crime Prevention Campaign.  
+The school choir has participated in various external celebrations and events such as the Teck Ghee CC National Day Observance Ceremony, Racial Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall, Crime Prevention Campaign.&nbsp;&nbsp;
 
-In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Park. They had the opportunity to perform for our residents and Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir members.   
+In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Park. They had the opportunity to perform for our residents and Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir members.&nbsp; &nbsp;
 
 **Vocal Productions**<br>
 Some choir members were also involved in the vocal production and presentation for the Green Carpet Award theme song by National Geographic, commemorating "50 years of Greening Singapore". They also had the opportunity to participate in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism and the Sanden theme song for the Sanden 40th Anniversary Dinner.
@@ -94,9 +107,9 @@ Modern Dance aims to teach its members the skills and techniques of dancing as w
 
 **Aim:**
 
-<img src="/images/performingarts3.jpg" style="width:35%;margin-left:25px;" align = "right">
+<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts3.jpg">
 
-*   To equip pupils with the skills and techniques of dancing  
+*   To equip pupils with the skills and techniques of dancing&nbsp;&nbsp;
 *   To develop pupils’ ability to communicate and express themselves through movement
 *   To provide opportunities for talents to represent the school in the Singapore Youth Festival competitions as well as performances
 *   To inculcate pupils’ appreciation for dance
@@ -148,7 +161,7 @@ Professional and experienced instructors are engaged to guide members in the acq
 
 **Aim:**
 
-<img src="/images/performingarts4.jpg" style="width:35%;margin-left:25px;" align = "right">
+<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts4.jpg">
 
 *   To provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng
 *   To develop greater sense of team spirit and responsibilities in members.
@@ -195,7 +208,7 @@ The Percussion Club is established with the intention to provide ample opportuni
 
 **Aim:**
 
-<img src="/images/performingarts5.jpg" style="width:35%;margin-left:25px;" align = "right">
+<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts5.jpg">
 
 *   To equip pupils with the skills of playing various percussion instruments.
 *   To inculcate in pupils an understanding and appreciation of music and rhythm.
@@ -208,7 +221,7 @@ The Percussion Club is established with the intention to provide ample opportuni
 | **Self-discipline** | Members will be motivated to come for training and to improve on their individual skills. |
 |
 
-**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm 
+**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm&nbsp;
 
 **Teachers in charge:** Mrs Madeline Lee (I/C) , Mr Lee Joon Ann
 
