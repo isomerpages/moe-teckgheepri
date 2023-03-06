@@ -35,10 +35,11 @@ In Teck Ghee Primary School, learning the language is fun! The process of deep l
 #### **LAF@TGPS (Literary Arts Festival)**
 
 Literary Arts Festival @ TGPS aims to make learning English more fun and inculcate the love for English Language in our students. This annual festival includes a range of activities, from language games to spelling bee to creative writing which allow the students to apply their language skills.
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/co1Kv0lVu24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-<img src="/images/deeplearningeng2.jpg" style="width:65%">
 
 **Let’s Get it Right!**
 
 Conducted by the teachers during morning assembly, Let’s Get it Right is a programme to address some of the misconceptions on grammar and teach the students right pronunciation of commonly mispronounced words.
-
