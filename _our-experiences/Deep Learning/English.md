@@ -44,7 +44,8 @@ Literary Arts Festival @ TGPS aims to make learning English more fun and inculca
 <iframe width="560" height="315" src="https://www.youtube.com/embed/co1Kv0lVu24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-<img src="/images/read.jpg" style="width:65%"><img src="/images/spell.jpg" style="width:65%">
+
+<img src="/images/read.jpg" style="width:50%"><img src="/images/spell.jpg" style="width:50%">
 
 
 **Let’s Get it Right!**
