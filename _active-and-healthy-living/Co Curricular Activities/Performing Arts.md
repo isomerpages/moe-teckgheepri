@@ -104,7 +104,6 @@ The choir had a tremendously fruitful SYF preparation in the last Presentation i
 
 The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
-        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
 **Aims:**
 
@@ -160,6 +159,22 @@ The main objectives of the choir CCA serve to develop an appreciation for the Ar
 
 **Training Frequency (Day and Time) :** Monday, 2:30pm - 4:30pm
 
+![](/images/choir%202.jpg)
+![](/images/choir%203.jpg)
+
+**Performances and Past Achievements**
+
+The school choir has participated in various external celebrations and events such as the Teck Ghee CC National Day Observance Ceremony, Racial Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall, Crime Prevention Campaign. 
+
+In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Park. They had the opportunity to perform for our residents and Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir members.
+
+![](/images/choir%204.jpg)
+
+**Vocal Productions**
+
+Some choir members were also involved in the vocal production and presentation for the Green Carpet Award theme song by National Geographic, commemorating "50 years of Greening Singapore". They also had the opportunity to participate in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism and the Sanden theme song for the Sanden 40th Anniversary Dinner.
+
+Some choir members had the opportunity to be involved in the recording of the bright spot songs that are still being played through the PA system daily.
 
 #### **Guzheng Ensemble**
 Professional and experienced instructors are engaged to guide members in the acquisition of relevant skills. Members have staged countless performances in school and at national platforms.
