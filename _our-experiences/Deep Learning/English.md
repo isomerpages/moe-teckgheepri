@@ -19,10 +19,14 @@ In Teck Ghee Primary School, learning the language is fun! The process of deep l
 *   MRL / NLB Activities; Book Buzz and Thematic Displays etc
 *   Supplementary Reading Materials; What's up and Little Red Dot
 
+![](/images/read.jpg)
+
 #### **Write@TGPS**
 *   Creative Writing with 6 Traits of Writing
 *   WOW (Wonders of Writing using colourful semantics)
 *   Journaling
+
+![](/images/spell.jpg)
 
 #### **Speak@TGPS**
 *   Book Talk
