@@ -176,6 +176,10 @@ Some choir members were also involved in the vocal production and presentation f
 
 Some choir members had the opportunity to be involved in the recording of the bright spot songs that are still being played through the PA system daily.
 
+#### **Modern Dance**
+
+
+
 #### **Guzheng Ensemble**
 Professional and experienced instructors are engaged to guide members in the acquisition of relevant skills. Members have staged countless performances in school and at national platforms.
 
