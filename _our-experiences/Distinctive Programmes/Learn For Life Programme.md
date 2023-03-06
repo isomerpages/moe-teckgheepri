@@ -18,8 +18,8 @@ As tomorrow’s leaders, students need to be skilled communicators. At TGPS, we 
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/3dFta5bL3nY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-![](/images/LLP%206.jpeg)
-![](/images/LLP%207.jpeg)
-![](/images/LLP%203.jpeg)
-![](/images/LLP%204.jpeg)
-![](/images/LLP%205.jpeg)
+<img src="/images/LLP%206.jpeg" style="width:65%">
+<img src="/images/LLP%207.jpeg" style="width:65%">
+<img src="/images/LLP%203.jpeg" style="width:65%">
+<img src="/images/LLP%204.jpeg" style="width:65%">
+<img src="/images/LLP%205.jpeg" style="width:65%">
