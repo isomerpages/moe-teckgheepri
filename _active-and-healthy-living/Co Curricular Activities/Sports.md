@@ -133,17 +133,17 @@ Rope Skipping CCA provides pupils with an opportunity to learn and develop rope 
 
 **Aims:**
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To equip pupils with the basic and advanced rope skipping skills with an emphasis on speed and precision to ensure that pupils strive towards self-improvement.
+* To equip pupils with the basic and advanced rope skipping skills with an emphasis on speed and precision to ensure that pupils strive towards self-improvement.
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To provide opportunities for talented pupils to represent the school as a team in Zonal and National Competitions
+* To provide opportunities for talented pupils to represent the school as a team in Zonal and National Competitions
 
 **Essential skills to be taught**:
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Level 1 to Level 3 creative skills
+* Level 1 to Level 3 creative skills
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Speed
+* Speed
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Accuracy
+* Accuracy
 
   
 
@@ -166,7 +166,7 @@ Rope Skipping CCA provides pupils with an opportunity to learn and develop rope 
 
 **Commitment Level**:&nbsp; The Rope Skipping members will train once a week (Fridays) for 2 hours each session.
 
-&nbsp; **Training Frequency (Day and Time):**
+**Training Frequency (Day and Time):**
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="578" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
@@ -265,27 +265,27 @@ The Sports and Wellness Club welcomes anyone who is keen to take part in sports 
 
 **Aims:**
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To encourage club members to lead an active lifestyle through regular exercise and healthy diet choices
+* To encourage club members to lead an active lifestyle through regular exercise and healthy diet choices
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To impart basic skills in some sports and games through a modular system
+* To impart basic skills in some sports and games through a modular system
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To mould the character and reinforce the school values in every member through sports and games
+* To mould the character and reinforce the school values in every member through sports and games
 
-●&nbsp;&nbsp;&nbsp;&nbsp; To encourage members to promote healthy living to their family members and peers
+* To encourage members to promote healthy living to their family members and peers
 
 Every term, the CCA will offer one/two sports modules for the pupils to learn a new sport or game. In addition, we will share various lessons on healthy living; helping pupils to practically start living an active and healthy lifestyle.
 
 **Training Frequency (Day and Time):**
 
-●&nbsp;&nbsp;&nbsp;&nbsp; Every Monday, 2.30pm – 4.30pm
+* Every Monday, 2.30pm – 4.30pm
 
 **Commitment Level**:
 
-●&nbsp;&nbsp;&nbsp;&nbsp; All members are expected to demonstrate the school values at all times
+* All members are expected to demonstrate the school values at all times
 
-●&nbsp;&nbsp;&nbsp;&nbsp; All members must be willing to learn new skills in a variety of sports and games
+* All members must be willing to learn new skills in a variety of sports and games
 
-●&nbsp;&nbsp;&nbsp;&nbsp; All members must do their best to attend all sessions (Face-to-Face or eCCA)
+* All members must do their best to attend all sessions (Face-to-Face or eCCA)
 
 **Teachers in charge:** Mr Vivek Nair (I/C) , Mr Donovan Teo (2nd I/C) , Mr Sridhar Naidu , Mr Lui Zhenyu
 
