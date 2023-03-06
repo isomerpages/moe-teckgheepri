@@ -38,158 +38,135 @@ There will be an extra 1 hour dance practice if we need to prepare for competiti
 **Training Frequency (Day and Time):** Every Monday, 2.30 pm – 4.30 pm&nbsp;
  
 **Progression**
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="623" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td width="65" valign="top" style="width:48.75pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td><td width="240" colspan="2" valign="top" style="width:180.0pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN">Beginner</span></b></p></td><td width="318" colspan="2" valign="top" style="width:238.5pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.0pt"><td width="65" valign="top" style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Stages</span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
+ cell-none;mso-border-insidev:cell-none" width="623" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td><td style="width:180.0pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="240"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Beginner</span></b></p></td><td style="width:238.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="318"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">Stages</span></p></td><td style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Appreciating Stage : Enjoyment and appreciation of different forms of dances.</span></p></td><td width="136" valign="top" style="width:102.0pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="104"><p class="MsoNormal"><span lang="EN">Appreciating Stage : Enjoyment and appreciation of different forms of dances.</span></p></td><td style="width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Creating Stage:</span></p><p class="MsoNormal"><span lang="EN">Understand and practice the simple dance movements</span></p></td><td width="155" valign="top" style="width:116.25pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="136"><p class="MsoNormal"><span lang="EN">Creating Stage:</span></p><p class="MsoNormal"><span lang="EN">Understand and practice the simple dance movements</span></p></td><td style="width:116.25pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Presenting Stage: Express and present<span style="mso-spacerun:yes">&nbsp; </span>in structured dance forms</span></p></td><td width="163" valign="top" style="width:122.25pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="155"><p class="MsoNormal"><span lang="EN">Presenting Stage: Express and present<span style="mso-spacerun:yes">&nbsp; </span>in structured dance forms</span></p></td><td style="width:122.25pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Responding and Evaluating Stage : Improve dance movements upon feedback and conduct self evaluation after performances.</span></p><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr height="0"><td width="65" style="border:none"></td><td width="104" style="border:none"></td><td width="136" style="border:none"></td><td width="155" style="border:none"></td><td width="163" style="border:none"></td></tr></tbody></table>
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="163"><p class="MsoNormal"><span lang="EN">Responding and Evaluating Stage : Improve dance movements upon feedback and conduct self evaluation after performances.</span></p><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr height="0"><td style="border:none" width="65"></td><td style="border:none" width="104"></td><td style="border:none" width="136"></td><td style="border:none" width="155"></td><td style="border:none" width="163"></td></tr></tbody></table>
 
 **Performances, Competitions and Past Achievements**<br>
 Our Chinese Dancers have the opportunities to put up performances in various school events, public performances and competitions.
 
        
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="600" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="600" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN">2022</span></b></p></td><td style="width:373.5pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">SYF Arts Presentation (Chinese Dance)</span></p></td></tr><tr style="mso-yfti-irow:1;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td width="102" valign="top" style="width:76.5pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2022</span></b></p></td><td width="498" valign="top" style="width:373.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><span lang="EN">SYF Arts Presentation (Chinese Dance)</span></p></td></tr><tr style="mso-yfti-irow:1;height:24.0pt"><td width="102" valign="top" style="width:76.5pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN">2018</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2018</span></b></p></td><td width="498" valign="top" style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2018</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN">2016</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2018</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td width="102" valign="top" style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2016</span></b></p></td><td width="498" valign="top" style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2016</span></p></td></tr><tr style="mso-yfti-irow:3;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN">2014</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2016</span></p></td></tr><tr style="mso-yfti-irow:3;height:24.0pt"><td width="102" valign="top" style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2014</span></b></p></td><td width="498" valign="top" style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Distinction in SYF Arts Presentation 2014</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
-  normal"><span lang="EN">2012</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><span lang="EN">Certificate of Distinction in SYF Arts Presentation 2014</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:24.0pt"><td width="102" valign="top" style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2012</span></b></p></td><td width="498" valign="top" style="width:373.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
-  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Silver Award in SYF Central Judging (Chinese Dance )2012</span></p></td></tr></tbody></table>
-|
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt"><span lang="EN">Silver Award in SYF Central Judging (Chinese Dance )2012</span></p></td></tr></tbody></table>
 
 #### **Choir**
-The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as French, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the crime prevention campaign, exchange programme with other schools prior to the SYF presentation and the Speech Day concert.
 
-<img src="/images/performingarts2.jpg" style="width:65%">
+The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as Korean, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the National Day Observance Ceremony and exchange programmes with other schools over the years.
+
+The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Participation during the Singapore Youth Festival Arts Presentation in 2022.
+
+![](/images/choir%201.jpg)
 
 The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
-**Aims:**<br>
-The main objectives of the choir CCA serves to develop an appreciation for the Arts and to maximize students’ potential in Performing Arts. Furthermore, through the various platforms of performances, students with promising abilities are given opportunities to develop to their personal best.
+        <!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0cm; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:612.0pt 792.0pt; margin:72.0pt 72.0pt 72.0pt 72.0pt; mso-header-margin:36.0pt; mso-footer-margin:36.0pt; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
 
-**Essential skills to be taught :**<br>
+**Aims:**
+
+The main objectives of the choir CCA serve to develop an appreciation for the Arts and to maximize students’ potential in Performing Arts. Furthermore, through the various platforms of performances, students with promising abilities are given opportunities to develop to their personal best.
+
+**Essential skills to be taught**:
+
 \- singing techniques/ voice projection/ musicality through correct phrasing and melodic contours
 
-| Core Values |  |
-|---|---|
-| **Team Spirit** | Players will learn to work together to sing in harmony. Students of the various sections will sing and secure their parts. |
-| **Graciousness** | Players will learn to develop good listening skills and to humbly receive any feedback on areas of improvement. |
-| **Perseverance** | Players will have to persevere as the intensity of practices increases nearing performance or competition dates. |
-| **Self-discipline** | Players will be self-disciplined to come for practices punctually and to take ownership of their learning by practising at home. |
-|
+**Progression:**
 
-**Teachers in charge:** Mdm Lynn Yeo (I/C) , Ms June Tan, Mdm Rumaizah&nbsp;
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="658" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:21.0pt"><td style="width:113.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="151"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Stages</span></b></p></td><td style="width:380.25pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:21.0pt" valign="top" width="507"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Description</span></b></p></td></tr><tr style="mso-yfti-irow:1;height:21.0pt"><td style="width:113.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:21.0pt" valign="top" width="151"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Introductory</span></b><span lang="EN"></span></p></td><td style="width:380.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="507"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Members are introduced to basic breathing techniques to prepare them for accurate singing.</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:21.0pt"><td style="width:113.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:21.0pt" valign="top" width="151"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td><td style="width:380.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:21.0pt" valign="top" width="507"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><span lang="EN">Members who show talent in the specific sections will be introduced to more advanced musical skills with correct diction.</span></p></td></tr></tbody></table>
 
-**Commitment Level:** Students will undergo an audition to be selected and grouped in the singing section. Students are expected to come regularly, every Monday 2.00pm to 4.00pm.
+&nbsp;**Core Values:**
 
-**Training Frequency (Day and Time):** Every Monday, 2.00pm – 4.00pm
-  
-**Performances and Past Achievements**<br>
-The school choir has participated in various external celebrations and events such as the Teck Ghee CC National Day Observance Ceremony, Racial Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall, Crime Prevention Campaign.&nbsp;&nbsp;
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="660" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:38.0pt"><td style="width:90.75pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="121"><p style="line-height:150%" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Team Spirit</span></b></p></td><td style="width:404.25pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="539"><p style="line-height:150%" class="MsoNormal"><span lang="EN">Students will learn to work together to sing in harmony. Students of the various sections will sing and secure their parts.</span></p></td></tr><tr style="mso-yfti-irow:1;height:38.0pt"><td style="width:90.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="121"><p style="line-height:150%" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Graciousness</span></b></p></td><td style="width:404.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="539"><p style="line-height:150%" class="MsoNormal"><span lang="EN">Students<b style="mso-bidi-font-weight:normal"> </b>will learn to develop good listening skills and to humbly receive any feedback on areas of improvement.</span></p></td></tr><tr style="mso-yfti-irow:2;height:38.0pt"><td style="width:90.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="121"><p style="line-height:150%" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Perseverance</span></b></p></td><td style="width:404.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="539"><p style="line-height:150%" class="MsoNormal"><span lang="EN">Students will have to persevere as the intensity of practices increases nearing performance or competition dates.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:38.0pt"><td style="width:90.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="121"><p style="line-height:150%" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Self-discipline</span></b></p></td><td style="width:404.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="539"><p style="line-height:150%" class="MsoNormal"><span lang="EN">Students will be self-disciplined to come for practices punctually and to take ownership of their learning by practising at home.</span></p></td></tr></tbody></table>
 
-In 2019, students performed for the Teck Ghee Passion Arts Festival in Bishan Park. They had the opportunity to perform for our residents and Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir members.&nbsp; &nbsp;
+**Teachers in charge:** Mdm Rumaizah (I/C) and&nbsp; Ms Angie Neo (2nd I/C)
 
-**Vocal Productions**<br>
-Some choir members were also involved in the vocal production and presentation for the Green Carpet Award theme song by National Geographic, commemorating "50 years of Greening Singapore". They also had the opportunity to participate in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism and the Sanden theme song for the Sanden 40th Anniversary Dinner.
+**Commitment Level**: Students will undergo an audition to be selected and grouped in the singing section. Students are expected to come regularly, every Monday.
 
-#### **Modern Dance**
-Modern Dance aims to teach its members the skills and techniques of dancing as well as inculcate their appreciation for dance. Through various performances and competitions, pupils learn the importance of teamwork and perseverance. Professional dancers are engaged to teach the pupils a repertoire of dances ranging from ballet to hip-hop, lyrical jazz, contemporary and modern dance.
+**Training Frequency (Day and Time) :** Monday, 2:30pm - 4:30pm
 
-**Aim:**
-
-<img src="/images/performingarts3.jpg" style="width:35%;margin-left:25px;" align="right">
-
-*   To equip pupils with the skills and techniques of dancing&nbsp;&nbsp;
-*   To develop pupils’ ability to communicate and express themselves through movement
-*   To provide opportunities for talents to represent the school in the Singapore Youth Festival competitions as well as performances
-*   To inculcate pupils’ appreciation for dance
-
-**Essential skills to be taught:** Basic techniques of different genres of dance (ballet, hip-hop, lyrical jazz, contemporary and modern dance)
-
-| Core Values: |  |
-|---|---|
-| **Team Spirit** | Dancers will learn to work together as a group |
-| **Graciousness** | Dancers will learn to be humble when they win and to accept defeat graciously |
-| **Perseverance** | Dancers will have to persevere as training increases in intensity |
-| **Self-discipline** | Dancers will be self-disciplined to come for training and to improve on their individual skills and techniques |
-|
-
-**Teachers in charge:** Mdm Angelina Boey (I/C), Mdm Joy Lim
-
-**Commitment Level:** The pupils will train once a week on Monday afternoons for 2 hours. Pupils who are selected for SYF and other performances and competitions will be informed of any additional afternoon trainings, if required.
-
-**Training Frequency (Day and Time):**
-
-| All Dancers |  |
-|---|:---|
-| Every Monday | 2 – 4pm (2 hours each) |
-|
-
-**Progression**
-
-|  | Level 1 | Level 2 | Level 3 | Level 4 |
-|---|---|---|---|---|
-| **Remarks** | Enjoyment and appreciation of rhythm and rhythmic movements | Understand elements of rhythm and rhythmic movements in structured dance forms | Express and communicate ideas through rhythm and rhythmic movements in structured dance forms | Use of body as instruments of communication and self – expression through rhythm and rhythmic movements in structured dance forms |
-|
-
-**Competition and Past Achievements**
-
-|  |  |
-|---|---|
-| **2019** | Performed at Teck Ghee CC National Day Observance Ceremony 2019, Teachers’ Day Concert, Year End Concert |
-| **2018** | Performed at Year End Concert, Teachers’ Day Concert, Teck Ghee Edusave Education Merit Award Ceremony 2018 |
-| **2018** | SYF Arts Presentation (International Dance) – Certificate of Commendation |
-| **2017** | Performed at Year End Concert, Teachers’ Day Concert |
-| **2017** | Special Prize in Hit The Mark Dance Competition 2017 |
-| **2016** | Participated in Teck Ghee National Day Street Parade |
-| **2016** | SYF Arts Presentation (International Dance) – Certificate of Commendation |
-| **2016** | Participated in Dance Showcase by Distinct Creative Arts |
-|
 
 #### **Guzheng Ensemble**
 Professional and experienced instructors are engaged to guide members in the acquisition of relevant skills. Members have staged countless performances in school and at national platforms.
 
 **Aim:**
 
-<img src="/images/performingarts4.jpg" style="width:35%;margin-left:25px;" align="right">
+<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts4.jpg">
 
 *   To provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng
 *   To develop greater sense of team spirit and responsibilities in members.
@@ -236,7 +213,7 @@ The Percussion Club is established with the intention to provide ample opportuni
 
 **Aim:**
 
-<img src="/images/performingarts5.jpg" style="width:35%;margin-left:25px;" align="right">
+<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts5.jpg">
 
 *   To equip pupils with the skills of playing various percussion instruments.
 *   To inculcate in pupils an understanding and appreciation of music and rhythm.
