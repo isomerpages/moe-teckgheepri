@@ -38,39 +38,67 @@ There will be an extra 1 hour dance practice if we need to prepare for competiti
 **Training Frequency (Day and Time):** Every Monday, 2.30 pm – 4.30 pm&nbsp;
  
 **Progression**
-
-
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="623" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="623" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td><td style="width:180.0pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="240"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Beginner</span></b></p></td><td style="width:238.5pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" colspan="2" width="318"><p style="text-align:center" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.0pt"><td style="width:48.75pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="65"><p class="MsoNormal"><span lang="EN">Stages</span></p></td><td style="width:78.0pt;border-top:none;border-left:
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td width="65" valign="top" style="width:48.75pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td><td width="240" colspan="2" valign="top" style="width:180.0pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN">Beginner</span></b></p></td><td width="318" colspan="2" valign="top" style="width:238.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" align="center" style="text-align:center"><b style="mso-bidi-font-weight:normal"><span lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:38.0pt"><td width="65" valign="top" style="width:48.75pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Stages</span></p></td><td width="104" valign="top" style="width:78.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="104"><p class="MsoNormal"><span lang="EN">Appreciating Stage : Enjoyment and appreciation of different forms of dances.</span></p></td><td style="width:102.0pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Appreciating Stage : Enjoyment and appreciation of different forms of dances.</span></p></td><td width="136" valign="top" style="width:102.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="136"><p class="MsoNormal"><span lang="EN">Creating Stage:</span></p><p class="MsoNormal"><span lang="EN">Understand and practice the simple dance movements</span></p></td><td style="width:116.25pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Creating Stage:</span></p><p class="MsoNormal"><span lang="EN">Understand and practice the simple dance movements</span></p></td><td width="155" valign="top" style="width:116.25pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="155"><p class="MsoNormal"><span lang="EN">Presenting Stage: Express and present<span style="mso-spacerun:yes">&nbsp; </span>in structured dance forms</span></p></td><td style="width:122.25pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Presenting Stage: Express and present<span style="mso-spacerun:yes">&nbsp; </span>in structured dance forms</span></p></td><td width="163" valign="top" style="width:122.25pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="163"><p class="MsoNormal"><span lang="EN">Responding and Evaluating Stage : Improve dance movements upon feedback and conduct self evaluation after performances.</span></p><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr height="0"><td style="border:none" width="65"></td><td style="border:none" width="104"></td><td style="border:none" width="136"></td><td style="border:none" width="155"></td><td style="border:none" width="163"></td></tr></tbody></table>
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt"><p class="MsoNormal"><span lang="EN">Responding and Evaluating Stage : Improve dance movements upon feedback and conduct self evaluation after performances.</span></p><p class="MsoNormal"><span lang="EN">&nbsp;</span></p></td></tr><tr height="0"><td width="65" style="border:none"></td><td width="104" style="border:none"></td><td width="136" style="border:none"></td><td width="155" style="border:none"></td><td width="163" style="border:none"></td></tr></tbody></table>
 
 **Performances, Competitions and Past Achievements**<br>
 Our Chinese Dancers have the opportunities to put up performances in various school events, public performances and competitions.
 
-|  |  |
-|---|---|
-| **2018** | Certificate of Accomplishment in SYF Arts Presentation 2018 |
-| **2016** | Certificate of Accomplishment in SYF Arts Presentation 2016 |
-| **2014** | Certificate of Distinction in SYF Arts Presentation 2014 |
-| **2012** | Silver Award in SYF Central Judging (Chinese Dance )2012 |
+       
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="600" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2022</span></b></p></td><td style="width:373.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">SYF Arts Presentation (Chinese Dance)</span></p></td></tr><tr style="mso-yfti-irow:1;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2018</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2018</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2016</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Accomplishment in SYF Arts Presentation 2016</span></p></td></tr><tr style="mso-yfti-irow:3;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2014</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Certificate of Distinction in SYF Arts Presentation 2014</span></p></td></tr><tr style="mso-yfti-irow:4;mso-yfti-lastrow:yes;height:24.0pt"><td style="width:76.5pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="102"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">2012</span></b></p></td><td style="width:373.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="498"><p style="margin-top:0cm;margin-right:8.0pt;margin-bottom:
+  0cm;margin-left:8.0pt;margin-bottom:.0001pt" class="MsoNormal"><span lang="EN">Silver Award in SYF Central Judging (Chinese Dance )2012</span></p></td></tr></tbody></table>
 |
 
 #### **Choir**
 The children have been exposed to a wide array of songs ranging from classical, baroque to modern familiar pieces. On top of that, the children learn to sing songs from different languages such as French, Japanese to Latin American. A professional and experienced choir conductor will conduct the sessions. The weekly trainings serve to provide opportunities for talented students to represent the school in the Singapore International Choral Festival or the Singapore Youth Festival Presentation. The choir had the opportunity to perform in the crime prevention campaign, exchange programme with other schools prior to the SYF presentation and the Speech Day concert.
 
-<img style="width:65%" src="/images/performingarts2.jpg">
+<img src="/images/performingarts2.jpg" style="width:65%">
 
 The choir had a tremendously fruitful SYF preparation in the last Presentation in SOTA. Students toiled and learnt what it meant to work with team spirit and perseverance. Students had achieved the Certificate of Accomplishment during the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
@@ -107,7 +135,7 @@ Modern Dance aims to teach its members the skills and techniques of dancing as w
 
 **Aim:**
 
-<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts3.jpg">
+<img src="/images/performingarts3.jpg" style="width:35%;margin-left:25px;" align="right">
 
 *   To equip pupils with the skills and techniques of dancing&nbsp;&nbsp;
 *   To develop pupils’ ability to communicate and express themselves through movement
@@ -161,7 +189,7 @@ Professional and experienced instructors are engaged to guide members in the acq
 
 **Aim:**
 
-<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts4.jpg">
+<img src="/images/performingarts4.jpg" style="width:35%;margin-left:25px;" align="right">
 
 *   To provide interested pupils with exposure and experience in learning and mastering the skills of Guzheng
 *   To develop greater sense of team spirit and responsibilities in members.
@@ -208,7 +236,7 @@ The Percussion Club is established with the intention to provide ample opportuni
 
 **Aim:**
 
-<img align="right" style="width:35%;margin-left:25px;" src="/images/performingarts5.jpg">
+<img src="/images/performingarts5.jpg" style="width:35%;margin-left:25px;" align="right">
 
 *   To equip pupils with the skills of playing various percussion instruments.
 *   To inculcate in pupils an understanding and appreciation of music and rhythm.
