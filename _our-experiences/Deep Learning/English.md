@@ -35,6 +35,8 @@ In Teck Ghee Primary School, learning the language is fun! The process of deep l
 
 <img src="/images/deeplearningeng1.jpg" style="width:65%">
 
+### **Signature Programmes**
+
 #### **LAF@TGPS (Literary Arts Festival)**
 
 Literary Arts Festival @ TGPS aims to make learning English more fun and inculcate the love for English Language in our students. This annual festival includes a range of activities, from language games to spelling bee to creative writing which allow the students to apply their language skills.
