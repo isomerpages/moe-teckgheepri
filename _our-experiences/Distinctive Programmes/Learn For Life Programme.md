@@ -14,5 +14,8 @@ As tomorrow’s leaders, students need to be skilled communicators. At TGPS, we 
 *   To possess values, dispositions and skills to **listen actively** to different perspectives and **be empathetic** ; communicate **confidently** and **effectively**
 *   To develop awareness and better understanding of the communities they live in and take an active part in bettering lives around them
 
-<img src="/images/llp1.jpg" style="width:65%">
-<img src="/images/llp2.jpg" style="width:65%">
+![](/images/LLP%206.jpeg)
+![](/images/LLP%207.jpeg)
+![](/images/LLP%203.jpeg)
+![](/images/LLP%204.jpeg)
+![](/images/LLP%205.jpeg)
