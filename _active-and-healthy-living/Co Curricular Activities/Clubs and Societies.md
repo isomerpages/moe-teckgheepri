@@ -117,66 +117,19 @@ Each session lasts 2 hours.
   12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Collaboration with Artist Yip Yew Chong in his community wall mural project at the AMK Town Council building.</span></p></td></tr></tbody></table>
 
 #### **Information Technology (Media Production)**
-Information Technology (Media Production) is established to enable students who are interested in photography and videography to be equipped with sufficient skills to capture the images and the skills to do post photography editing and video editing. Students who display potential will have the opportunity to represent the school in competitions. Students will also have ample chances to practice their skills during various events and celebrations in the school throughout the year.
 
-**Aim:**
+Infocomm Technology (Media Production) is established to enable students who are interested in photography and videography to be equipped with sufficient skills to capture the images and the skills to do post photography editing and video editing. Students will also have ample opportunities to learn more about communication through voice projection, facial expressions and even script writing.
 
-<img align="right" style="width:35%;margin-left:15px;" src="/images/clubsandsocieties2.jpg">
-
-*   To equip pupils with the skills of capturing photographs that tells a story.
-*   To equip pupils with the skills of videography and video editing.
-*   To equip pupils with knowledge of cyber wellness and to be an ambassador to the whole school in cyber wellness.
-
-| Core Values: |  |
-|---|---|
-| **Team Spirit** | Members will perform as a team. |
-| **Graciousness** | Members will share their knowledge with each other when they perform tasks in a team. |
-| **Perseverance** | Members will persevere as they learn and improve their photography/videography skills. |
-| **Self-discipline** | Members will learn to complete each task assigned within the time given. |
-|
-
-#### **Media Club - Journalism**
-Media Club - Journalism aims to promote the use of English and provide pupils with opportunities to use English purposefully in various platforms. Ample opportunities are provided to help pupils learn about communication through voice projection and facial expressions, to script writing as well as news creation and broadcasting.
-
-In line with our Learning for Life programme, English Club aims to develop confident communicators through various means such as doing a writeup or presenting in front of a group of audience and responding to different characters and themes in dramatic English texts through verbal and nonverbal means.
+Students who display potential will have the opportunity to represent the school in competitions and present in front of a group of audience through news creation and broadcasting. Students will also have ample chances to practice their skills during various events and celebrations in the school throughout the year.
 
 **Aims:**
 
-<img align="right" style="width:35%;margin-left:15px;" src="/images/clubsandsocieties3.jpg">
+* To equip pupils with the skills of capturing photographs that tell a story.
+* To equip pupils with the skills of videography and video editing.
+* To cultivate a love and appreciation for journalism.
+* To equip pupils with presentation skills such as voice projection, space awareness, facial expressions and body movements in front of the camera
 
-* To develop confident communicators
-* To cultivate a love and appreciation for journalism
-* To equip pupils with acting skills such as voice projection, space awareness, facial expressions, body movements, articulation and presentation in front of the camera
 
-**Essential Skills to be taught:**
-* Basic individual skills of voice projection
-* Fluid body movements and facial expressions
-* Basic writing skills
-
-| Core Values: |  |
-|---|---|
-| **Team Spirit** | Pupils will learn to work together as a team in order to think deeply about a given topic. |
-| **Graciousness** | Pupils will learn to give positive feedback to their peers. |
-| **Perseverance** | Pupils will persevere in their acting and storytelling skills so as to be a competent communicator. |
-| **Self-discipline** | Pupils will be self-disciplined to explore different forms of multimedia tools to present a story. |
-|
-
-**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm&nbsp;
-
-**Teachers in charge:**&nbsp;<br>
-Mr Soh YJ (I/C) , Ms Wee Poh Lin, Mr Charles Ng, Mrs Melissa Seah,&nbsp; Mdm Neo Chaw Tee
-
-**Progression:** At the end of their CCA journey, they should become confident communicators and lifelong learners.
-
-**Performances Participated and Past Achievements**
-
-|  |  |
-|---|---|
-| **2018** | - End-Of-Year Concert |
-| **2017** | - School Digital Media Awards Competition<br>- End-Of-Year Concert<br>- Ang Mo Kio South NPC Crime Prevention Video Competition |
-| **2016** | - Storytelling for PCF Kindergarten Learning Journey<br>- School Digital Media Awards Competition<br>- End-Of-Year Concert<br>- Awarded 3rd place in Ang Mo Kio South NPC Crime Prevention Video Competition |
-| **2015** | - Storytelling for PCF Kindergarten Learning Journey<br>- School Digital Media Awards Competition<br>- End-Of-Year Concert<br>- Ang Mo Kio South NPC Crime Prevention Video Competition |
-|
 
 #### **Robotics**
 The Robotics CCA is one that provides opportunities for pupils to learn the fundamental skills of programming and robot construction and foster collaborations amongst students. The teachers in charge will train the pupils.
