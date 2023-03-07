@@ -6,58 +6,122 @@ third_nav_title: Co Curricular Activities
 ---
 ### **Clubs and Societies**
 #### **Art and Crafts**
-In Art and Crafts, pupils are exposed to creative thinking skills and various art forms. They are also given opportunities to visit art museums and exhibitions, and also learn from professional artists.
+###### **‘_SYF Art Exhibition 2019’_ @ National Museum - Category A and B**
+![](/images/art%20club%202.png)
+![](/images/art%20club%201.png)
 
-<figure>
-<img src="/images/clubsandsocieties1.jpg" style="width:65%">
-<figcaption> ‘SYF Art Exhibition 2019’ @ National Museum - Category A and B	
-</figcaption>
-</figure>
+###### **Art Club seniors at work - 2021**
+![](/images/art%20club%203.png)
 
-**Aim:**
+###### **Artist Yip Yew Chong in collaboration with the art club members**
+###### **‘AMK Town Council Wall Mural Painting 2018’** 
+
+![](/images/art%20club%204.png)
+
+
+In the Art Club, pupils are exposed to creative thinking skills and various art forms. They are also given opportunities to visit art museums and exhibitions, and also learn from professional artists.
+
+**Aims**:
+
 * To develop their self-confidence through art making and exploration of different art mediums.
+
 * To equip pupils with the skills to be confident communicators and critical thinkers through Art docentship.
 
-**Fundamental Art elements:**
-* 2D and 3D art forms
+Fundamental Art elements:
+
+* 2D art forms - Drawing, Painting
+* 3D art forms - Clay moulding, Mixed media
+* Digital art forms - digital doodling, animation
 * Art appreciation through learning journeys (i.e. museums, exhibitions, attachments with professional artists)
 
-| Core Values: |  |
-|---|---|
-| **Team Spirit** | Pupils will learn to create art works together as a team |
-| **Graciousness** | Pupils will learn to share various art materials, accept ideas from group mates and work together |
-| **Perseverance** | Pupils will have to persevere as artmaking takes patience, time and effort |
-| **Self-discipline** | Pupils will be self-disciplined to make continual progress on their artwork to achieve their final piece |
-|
+**Core Values:**
 
-**Teachers in charge:** Mdm Lilian Song (I/C), Ms Shena Chan, Mrs Sharon Jones
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="592" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Team Spirit</span></b></p></td><td style="width:348.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span lang="EN">Pupils will learn to create art works together as a team</span></p></td></tr><tr style="mso-yfti-irow:1;height:41.25pt"><td style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:41.25pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Graciousness</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:41.25pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="background:white;mso-highlight:
+  white" lang="EN">Pupils will learn to share various art materials, accept ideas from group mates and work together</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Perseverance</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:24.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="background:white;mso-highlight:
+  white" lang="EN">Pupils will have to persevere as artmaking takes patience, time and effort</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:37.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Self-discipline</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:37.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span style="background:
+  white;mso-highlight:white" lang="EN">Pupils will be self-disciplined to make continual progress on their artwork to achieve their final piece</span></p></td></tr></tbody></table>
 
-**Commitment Level:** The pupils will attend art club sessions on every Monday.<br>
-Each session lasts 2 hours. 
+**Teachers in charge:** Mrs Sharon Jones (I/C), Ms Ayu (2nd I/C), Ms Lin Kaili and Ms Oh How Ling
 
-**Art Club session (Day and Time):** Every Monday, 2.00 pm – 4.00 pm
+**Commitment Level**: The pupils will attend art club sessions every Monday.
+
+Each session lasts 2 hours.
+
+**Art Club session (Day and Time):** Every Monday, 2.30 pm – 4.30 pm&nbsp;
 
 **Progression**
 
-|  | Primary 3 and 4 | Primary 5 and 6 |
-|---|---|---|
-| **Remarks** | Members will learn basic art making skills and techniques. They will also be exposed to docentship and curatorial skills (setting up of in-house art exhibitions). Selection and grooming of promising CCA leaders. | Intermediate art skills mentorship by art trained teachers and portfolio development for interested members. Advanced training and grooming of CCA leaders on docentship and curatorial skills. Opportunities will be given to potential docents in school exhibitions. |
-|
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="588" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:107.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="143"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td style="width:159.75pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="213"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#222222" lang="EN">Beginner</span></b></p></td><td style="width:174.0pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="232"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#222222" lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:51.0pt"><td style="width:107.25pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="143"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Remarks</span></p></td><td style="width:159.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="213"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Members will learn basic art making skills and techniques. They will also be exposed to docentship and curatorial skills (setting up of in-house art exhibitions). Selection and grooming of promising CCA leaders.</span></p></td><td style="width:174.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="232"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Intermediate art skills mentorship by art trained teachers and portfolio development for interested members. Advanced training and grooming of CCA leaders on docentship and curatorial skills. Opportunities will be given to potential docents in school exhibitions.</span></p></td></tr></tbody></table>
 
 **Competition and Past Achievements**
 
-|  |  |
-|---|---|
-| **2019** | Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was exhibited at the National Museum in the SYF Art Exhibition 2019.<br>Art Club docents have the great opportunity to present in the Teck Ghee year end art exhibition (@Art Gallery) and at the National Museum in the SYF Art Exhibition 2019. <br>All SYF artworks (Category A, B, C) are exhibited in the school premise.     (@ exhibition space outside school hall) |
-| 2018 | Collaboration with Artist Yip Yew Chong in his community wall mural project at the AMK Town Council building. |
-|
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="592" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2021</span></b></p></td><td style="width:388.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was selected for SYF islandwide digital exhibition.</span></p></td></tr><tr style="mso-yfti-irow:1;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2019</span></b></p></td><td style="width:388.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was exhibited at the National Museum in the SYF Art Exhibition 2019.</span></p><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Art Club docents have the great opportunity to present in the Teck Ghee year end art exhibition (@Art Gallery) and at the National Museum in the SYF Art Exhibition 2019.</span></p><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">All SYF artworks (Category A, B, C) are exhibited in the school premise.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>(@ exhibition space outside school hall)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2018</span></b></p></td><td style="width:388.5pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Collaboration with Artist Yip Yew Chong in his community wall mural project at the AMK Town Council building.</span></p></td></tr></tbody></table>
 
 #### **Information Technology (Media Production)**
 Information Technology (Media Production) is established to enable students who are interested in photography and videography to be equipped with sufficient skills to capture the images and the skills to do post photography editing and video editing. Students who display potential will have the opportunity to represent the school in competitions. Students will also have ample chances to practice their skills during various events and celebrations in the school throughout the year.
 
 **Aim:**
 
-<img src="/images/clubsandsocieties2.jpg" style="width:35%;margin-left:15px;" align = "right">
+<img align="right" style="width:35%;margin-left:15px;" src="/images/clubsandsocieties2.jpg">
 
 *   To equip pupils with the skills of capturing photographs that tells a story.
 *   To equip pupils with the skills of videography and video editing.
@@ -78,7 +142,7 @@ In line with our Learning for Life programme, English Club aims to develop confi
 
 **Aims:**
 
-<img src="/images/clubsandsocieties3.jpg" style="width:35%;margin-left:15px;" align = "right">
+<img align="right" style="width:35%;margin-left:15px;" src="/images/clubsandsocieties3.jpg">
 
 * To develop confident communicators
 * To cultivate a love and appreciation for journalism
@@ -97,10 +161,10 @@ In line with our Learning for Life programme, English Club aims to develop confi
 | **Self-discipline** | Pupils will be self-disciplined to explore different forms of multimedia tools to present a story. |
 |
 
-**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm 
+**Training Frequency (Day and Time):** Every Monday, 2pm – 4pm&nbsp;
 
-**Teachers in charge:** <br>
-Mr Soh YJ (I/C) , Ms Wee Poh Lin, Mr Charles Ng, Mrs Melissa Seah,  Mdm Neo Chaw Tee
+**Teachers in charge:**&nbsp;<br>
+Mr Soh YJ (I/C) , Ms Wee Poh Lin, Mr Charles Ng, Mrs Melissa Seah,&nbsp; Mdm Neo Chaw Tee
 
 **Progression:** At the end of their CCA journey, they should become confident communicators and lifelong learners.
 
@@ -118,8 +182,8 @@ Mr Soh YJ (I/C) , Ms Wee Poh Lin, Mr Charles Ng, Mrs Melissa Seah,  Mdm Neo Cha
 The Robotics CCA is one that provides opportunities for pupils to learn the fundamental skills of programming and robot construction and foster collaborations amongst students. The teachers in charge will train the pupils.
 
 **Aim:**
-*   To equip pupils with the basic skills of robot programming and construction so that they can engage in learning and exploring their area of interest. 
-*    To provide opportunities for selected pupils to represent the school as a team in Robotics competitions.
+*   To equip pupils with the basic skills of robot programming and construction so that they can engage in learning and exploring their area of interest.&nbsp;
+*   &nbsp;To provide opportunities for selected pupils to represent the school as a team in Robotics competitions.
 
 Robotics members training to achieve stipulated missions assigned by the teachers.
 
@@ -164,13 +228,13 @@ Selected P5 and P6 pupils will represent school to compete in competitions.
 |
 
 #### **Environmental Science**
-The Environmental Science Club is involved in a diversity of programmes aimed at promoting environmental consciousness and protecting the environment. Members will contribute by providing creative ideas on how to initiate and organise programmes in line with the Club's objectives as well as in participating in hands-on "green" and Science activities. 
+The Environmental Science Club is involved in a diversity of programmes aimed at promoting environmental consciousness and protecting the environment. Members will contribute by providing creative ideas on how to initiate and organise programmes in line with the Club's objectives as well as in participating in hands-on "green" and Science activities.&nbsp;
 
 The Environmental Science Club is a CCA that teaches pupils to be environmentally friendly through reducing, reusing and recycling. Pupils can learn about the various biodiversity around them and what they can do to conserve them. ICT and Multimedia is integrated in the activities when pupils are expected to do projects based on environmental issues.
 
 The club also provides opportunities for the pupils to experience first-hand the process of exploring, investigating and discovering new knowledge in Science. Furthermore, pupils also create products using recycled materials through upcycling projects.
 
-<img src="/images/clubsandsocieties4.jpg" style="width:45%">
+<img style="width:45%" src="/images/clubsandsocieties4.jpg">
 
 The Science and Environmental Club members had opportunities to go for learning journeys to Singapore Botanic Gardens, the Bishan-AMK Park and MacRitchie Reservoir to observe flora and fauna while learning how to preserve the environment. Pupils also get to complete Young Scientists cards to address the issues like climate change, and water and energy conservation.
 
