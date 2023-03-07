@@ -36,31 +36,31 @@ Fundamental Art elements:
 
 **Core Values:**
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="592" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="592" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Team Spirit</span></b></p></td><td style="width:348.0pt;border:solid black 1.0pt;
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td width="128" valign="top" style="width:96.0pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Team Spirit</span></b></p></td><td width="464" valign="top" style="width:348.0pt;border:solid black 1.0pt;
   border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span lang="EN">Pupils will learn to create art works together as a team</span></p></td></tr><tr style="mso-yfti-irow:1;height:41.25pt"><td style="width:96.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:41.25pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Graciousness</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  height:24.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN">Pupils will learn to create art works together as a team</span></p></td></tr><tr style="mso-yfti-irow:1;height:41.25pt"><td width="128" valign="top" style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:41.25pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Graciousness</span></b></p></td><td width="464" valign="top" style="width:348.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:41.25pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="background:white;mso-highlight:
-  white" lang="EN">Pupils will learn to share various art materials, accept ideas from group mates and work together</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Perseverance</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  height:41.25pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="background:white;mso-highlight:
+  white">Pupils will learn to share various art materials, accept ideas from group mates and work together</span></p></td></tr><tr style="mso-yfti-irow:2;height:24.0pt"><td width="128" valign="top" style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Perseverance</span></b></p></td><td width="464" valign="top" style="width:348.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:24.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="background:white;mso-highlight:
-  white" lang="EN">Pupils will have to persevere as artmaking takes patience, time and effort</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:37.0pt"><td style="width:96.0pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.0pt" valign="top" width="128"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Self-discipline</span></b></p></td><td style="width:348.0pt;border-top:none;border-left:
+  height:24.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="background:white;mso-highlight:
+  white">Pupils will have to persevere as artmaking takes patience, time and effort</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:37.0pt"><td width="128" valign="top" style="width:96.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.0pt"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">Self-discipline</span></b></p></td><td width="464" valign="top" style="width:348.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:37.0pt" valign="top" width="464"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span style="background:
-  white;mso-highlight:white" lang="EN">Pupils will be self-disciplined to make continual progress on their artwork to achieve their final piece</span></p></td></tr></tbody></table>
+  height:37.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN" style="background:
+  white;mso-highlight:white">Pupils will be self-disciplined to make continual progress on their artwork to achieve their final piece</span></p></td></tr></tbody></table>
 
 **Teachers in charge:** Mrs Sharon Jones (I/C), Ms Ayu (2nd I/C), Ms Lin Kaili and Ms Oh How Ling
 
@@ -72,49 +72,49 @@ Each session lasts 2 hours.
 
 **Progression**
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="588" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="588" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td style="width:107.25pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="143"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td style="width:159.75pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="213"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#222222" lang="EN">Beginner</span></b></p></td><td style="width:174.0pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt" valign="top" width="232"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#222222" lang="EN">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:51.0pt"><td style="width:107.25pt;border:solid black 1.0pt;
-  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="143"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Remarks</span></p></td><td style="width:159.75pt;border-top:none;border-left:
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:24.0pt"><td width="143" valign="top" style="width:107.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="color:#222222"><span style="mso-spacerun:yes">&nbsp;</span></span></p></td><td width="213" valign="top" style="width:159.75pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="color:#222222">Beginner</span></b></p></td><td width="232" valign="top" style="width:174.0pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:24.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><b style="mso-bidi-font-weight:normal"><span lang="EN" style="color:#222222">Intermediate</span></b></p></td></tr><tr style="mso-yfti-irow:1;mso-yfti-lastrow:yes;height:51.0pt"><td width="143" valign="top" style="width:107.25pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="color:#222222">Remarks</span></p></td><td width="213" valign="top" style="width:159.75pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="213"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Members will learn basic art making skills and techniques. They will also be exposed to docentship and curatorial skills (setting up of in-house art exhibitions). Selection and grooming of promising CCA leaders.</span></p></td><td style="width:174.0pt;border-top:none;border-left:
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="color:#222222">Members will learn basic art making skills and techniques. They will also be exposed to docentship and curatorial skills (setting up of in-house art exhibitions). Selection and grooming of promising CCA leaders.</span></p></td><td width="232" valign="top" style="width:174.0pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt" valign="top" width="232"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><span style="color:#222222" lang="EN">Intermediate art skills mentorship by art trained teachers and portfolio development for interested members. Advanced training and grooming of CCA leaders on docentship and curatorial skills. Opportunities will be given to potential docents in school exhibitions.</span></p></td></tr></tbody></table>
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:51.0pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><span lang="EN" style="color:#222222">Intermediate art skills mentorship by art trained teachers and portfolio development for interested members. Advanced training and grooming of CCA leaders on docentship and curatorial skills. Opportunities will be given to potential docents in school exhibitions.</span></p></td></tr></tbody></table>
 
 **Competition and Past Achievements**
 
-<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="592" style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
  mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
- cell-none;mso-border-insidev:cell-none" width="592" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
-  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2021</span></b></p></td><td style="width:388.5pt;border:solid black 1.0pt;
-  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was selected for SYF islandwide digital exhibition.</span></p></td></tr><tr style="mso-yfti-irow:1;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
+ cell-none;mso-border-insidev:cell-none"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:37.5pt"><td width="74" valign="top" style="width:55.5pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><b style="mso-bidi-font-weight:normal"><span lang="EN">2021</span></b></p></td><td width="518" valign="top" style="width:388.5pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was selected for SYF islandwide digital exhibition.</span></p></td></tr><tr style="mso-yfti-irow:1;height:37.5pt"><td width="74" valign="top" style="width:55.5pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2019</span></b></p></td><td style="width:388.5pt;border-top:none;border-left:
+  height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><b style="mso-bidi-font-weight:normal"><span lang="EN">2019</span></b></p></td><td width="518" valign="top" style="width:388.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was exhibited at the National Museum in the SYF Art Exhibition 2019.</span></p><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Art Club docents have the great opportunity to present in the Teck Ghee year end art exhibition (@Art Gallery) and at the National Museum in the SYF Art Exhibition 2019.</span></p><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">All SYF artworks (Category A, B, C) are exhibited in the school premise.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>(@ exhibition space outside school hall)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:37.5pt"><td style="width:55.5pt;border:solid black 1.0pt;
+  height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN">Artwork from Category B was awarded the ‘Certificate of Recognition’ and the artwork was exhibited at the National Museum in the SYF Art Exhibition 2019.</span></p><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN">Art Club docents have the great opportunity to present in the Teck Ghee year end art exhibition (@Art Gallery) and at the National Museum in the SYF Art Exhibition 2019.</span></p><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN">All SYF artworks (Category A, B, C) are exhibited in the school premise.<span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp; </span>(@ exhibition space outside school hall)</span></p></td></tr><tr style="mso-yfti-irow:2;mso-yfti-lastrow:yes;height:37.5pt"><td width="74" valign="top" style="width:55.5pt;border:solid black 1.0pt;
   border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:37.5pt" valign="top" width="74"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2018</span></b></p></td><td style="width:388.5pt;border-top:none;border-left:
+  height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm"><b style="mso-bidi-font-weight:normal"><span lang="EN">2018</span></b></p></td><td width="518" valign="top" style="width:388.5pt;border-top:none;border-left:
   none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
   mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
-  height:37.5pt" valign="top" width="518"><p style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
-  12.0pt;margin-left:0cm;line-height:150%" class="MsoNormal"><span lang="EN">Collaboration with Artist Yip Yew Chong in his community wall mural project at the AMK Town Council building.</span></p></td></tr></tbody></table>
+  height:37.5pt"><p class="MsoNormal" style="margin-top:12.0pt;margin-right:0cm;margin-bottom:
+  12.0pt;margin-left:0cm;line-height:150%"><span lang="EN">Collaboration with Artist Yip Yew Chong in his community wall mural project at the AMK Town Council building.</span></p></td></tr></tbody></table>
 
 #### **Information Technology (Media Production)**
 
@@ -127,7 +127,163 @@ Students who display potential will have the opportunity to represent the school
 * To equip pupils with the skills of capturing photographs that tell a story.
 * To equip pupils with the skills of videography and video editing.
 * To cultivate a love and appreciation for journalism.
-* To equip pupils with presentation skills such as voice projection, space awareness, facial expressions and body movements in front of the camera
+* To equip pupils with presentation skills such as voice projection, space awareness, facial expressions and body movements in front of the camera.
+
+![](/images/infocomm%201.png)
+![](/images/infocomm%202.png)
+![](/images/infocomm%203.png)
+
+
+**Core Values:**
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="661" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:28.0pt"><td style="width:117.0pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:28.0pt" valign="top" width="156"><p style="margin-left:5.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Team Spirit</span></b></p></td><td style="width:378.75pt;border:solid black 1.0pt;
+  border-left:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:28.0pt" valign="top" width="505"><p style="margin-left:5.0pt" class="MsoNormal"><span lang="EN">Members will perform as a team.</span></p></td></tr><tr style="mso-yfti-irow:1;height:39.0pt"><td style="width:117.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:39.0pt" valign="top" width="156"><p style="margin-left:5.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Graciousness</span></b></p></td><td style="width:378.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:39.0pt" valign="top" width="505"><p style="margin-left:5.0pt" class="MsoNormal"><span lang="EN">Members will share their knowledge with each other when they perform tasks in a team.</span></p></td></tr><tr style="mso-yfti-irow:2;height:38.0pt"><td style="width:117.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="156"><p style="margin-left:5.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Perseverance</span></b></p></td><td style="width:378.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:38.0pt" valign="top" width="505"><p style="margin-left:5.0pt" class="MsoNormal"><span lang="EN">Members will persevere as they learn and improve their photography/videography skills.</span></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;height:33.0pt"><td style="width:117.0pt;border:solid black 1.0pt;
+  border-top:none;padding:5.0pt 5.0pt 5.0pt 5.0pt;height:33.0pt" valign="top" width="156"><p style="margin-left:5.0pt" class="MsoNormal"><b style="mso-bidi-font-weight:
+  normal"><span lang="EN">Self-discipline</span></b></p></td><td style="width:378.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:33.0pt" valign="top" width="505"><p style="margin-left:5.0pt" class="MsoNormal"><span lang="EN">Members will learn to complete each task assigned within the time given.</span></p></td></tr></tbody></table>
+
+**Training Frequency (Day and Time):** Every Monday, 2:30pm – 4:30pm
+
+**Teachers in charge:**
+
+Mr Soh YJ (I/C), Mdm Jennifer Ong (2nd I/C) and Ms Pang Shi Yun
+
+**Progression:** At the end of their CCA journey, they should become confident communicators and lifelong learners.
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-border-alt:solid black 1.0pt;mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:1.0pt solid black;mso-border-insidev:1.0pt solid black" width="666" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:56.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="75"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">&nbsp;</span></b></p></td><td style="width:141.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="188"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Photography</span></b></p></td><td style="width:149.25pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="199"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Videography</span></b></p></td><td style="width:153.0pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="204"><p style="text-align:center;line-height:normal;
+  mso-pagination:none" align="center" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Communication</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:56.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="75"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Level 1</span></b></p></td><td style="width:141.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="188"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Photography skills 1 (rule of odds, symmetry etc.)</span></b></p><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Creation of Photostory</span></b></p></td><td style="width:149.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="199"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Use of video editing tools to edit/compile videos</span></b></p><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Cinematic shots for capturing videos 1</span></b></p></td><td style="width:153.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="204"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Learning and applying PAVES</span></b></p><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Creation of Photostory</span></b></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:56.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="75"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Level 2</span></b></p></td><td style="width:141.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="188"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l0 level1 lfo5" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Photography skills 2 (angle, perspective etc.)</span></b></p></td><td style="width:149.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="199"><p style="margin-left:18.0pt;text-indent:-13.5pt;line-height:
+  normal;mso-pagination:none;mso-list:l2 level1 lfo9" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Cinematic shots for capturing videos 2</span></b></p><p style="margin-left:18.0pt;text-indent:-13.5pt;line-height:
+  normal;mso-pagination:none;mso-list:l2 level1 lfo9" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Capture footage to present a journalism story</span></b></p></td><td style="width:153.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="204"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l6 level1 lfo4" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Planning a storyboard</span></b></p><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l6 level1 lfo4" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Creation and presentation of script</span></b></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes"><td style="width:56.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="75"><p style="line-height:normal;mso-pagination:none" class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Level 3</span></b></p></td><td style="width:141.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="188"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l5 level1 lfo11" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Photography skills 3 (use of DSLR)</span></b></p></td><td style="width:149.25pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="199"><p style="margin-left:36.0pt;text-indent:-31.5pt;line-height:
+  normal;mso-pagination:none;mso-list:l1 level1 lfo10" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Cinematic shots for capturing videos 3</span></b></p><p style="margin-left:36.0pt;text-indent:-31.5pt;line-height:
+  normal;mso-pagination:none;mso-list:l1 level1 lfo10" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Creation of final video</span></b></p></td><td style="width:153.0pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="204"><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l1 level1 lfo10" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Interviewing skills</span></b></p><p style="margin-left:22.5pt;text-indent:-18.0pt;line-height:
+  normal;mso-pagination:none;mso-list:l1 level1 lfo10" class="MsoNormal"><span style="color:#202124" lang="EN"><span style="mso-list:Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><b style="mso-bidi-font-weight:normal"><span style="color:#202124" lang="EN">Creation and presentation of news/ report</span></b></p></td></tr></tbody></table>
+
+**Performances Participated and Past Achievements**
+
+<table style="border-collapse:collapse;mso-table-layout-alt:fixed;border:none;
+ mso-yfti-tbllook:1536;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ cell-none;mso-border-insidev:cell-none" width="592" cellpadding="0" cellspacing="0" border="1" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:36.0pt"><td style="width:38.25pt;border:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:36.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2022</span></b></p></td><td style="width:405.75pt;border:solid black 1.0pt;
+  border-left:none;mso-border-left-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:36.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l3 level1 lfo2" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Participated in Our School Our Story (OSOS) 2022</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l3 level1 lfo2" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Participated in National Primary School Photography Competition</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l3 level1 lfo2" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Produced TGCares ‘22 video</span></p></td></tr><tr style="mso-yfti-irow:1;height:36.0pt"><td style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:36.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2021</span></b></p></td><td style="width:405.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:36.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l4 level1 lfo1" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">TDD sharing</span></p></td></tr><tr style="mso-yfti-irow:2;height:36.0pt"><td style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:36.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2018</span></b></p></td><td style="width:405.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:36.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l7 level1 lfo8" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">End-Of-Year Concert</span></p></td></tr><tr style="mso-yfti-irow:3;height:45.0pt"><td style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:45.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2017</span></b></p></td><td style="width:405.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:45.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l9 level1 lfo6" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">School Digital Media Awards Competition</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l9 level1 lfo6" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">End-Of-Year Concert</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l9 level1 lfo6" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Ang Mo Kio South NPC Crime Prevention Video Competition</span></p></td></tr><tr style="mso-yfti-irow:4;height:45.0pt"><td style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt;
+  height:45.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2016</span></b></p></td><td style="width:405.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt;height:45.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l10 level1 lfo3" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Storytelling for PCF Kindergarten Learning Journey</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l10 level1 lfo3" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">School Digital Media Awards Competition</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l10 level1 lfo3" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">End-Of-Year Concert</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l10 level1 lfo3" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Awarded 3<sup>rd</sup> place in Ang Mo Kio South NPC Crime Prevention Video Competition</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:38.25pt;border:solid black 1.0pt;
+  border-top:none;mso-border-top-alt:solid black 1.0pt;padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="51"><p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span lang="EN">2015</span></b></p></td><td style="width:405.75pt;border-top:none;border-left:
+  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
+  mso-border-top-alt:solid black 1.0pt;mso-border-left-alt:solid black 1.0pt;
+  padding:5.0pt 5.0pt 5.0pt 5.0pt" valign="top" width="541"><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l8 level1 lfo7" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Storytelling for PCF Kindergarten Learning Journey</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l8 level1 lfo7" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">School Digital Media Awards Competition</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l8 level1 lfo7" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">End-Of-Year Concert</span></p><p style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+  l8 level1 lfo7" class="MsoNormal"><span lang="EN"><span style="mso-list:
+  Ignore">●<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span lang="EN">Ang Mo Kio South NPC Crime Prevention Video Competition</span></p></td></tr></tbody></table>
 
 
 
@@ -187,7 +343,7 @@ The Environmental Science Club is a CCA that teaches pupils to be environmentall
 
 The club also provides opportunities for the pupils to experience first-hand the process of exploring, investigating and discovering new knowledge in Science. Furthermore, pupils also create products using recycled materials through upcycling projects.
 
-<img style="width:45%" src="/images/clubsandsocieties4.jpg">
+<img src="/images/clubsandsocieties4.jpg" style="width:45%">
 
 The Science and Environmental Club members had opportunities to go for learning journeys to Singapore Botanic Gardens, the Bishan-AMK Park and MacRitchie Reservoir to observe flora and fauna while learning how to preserve the environment. Pupils also get to complete Young Scientists cards to address the issues like climate change, and water and energy conservation.
 
