@@ -4,4 +4,4 @@ permalink: /contact-us/feedback-and-enquiries/
 description: ""
 ---
 ### **Feedback & Enquiries**
-This Electronic Form (e-Form) you are accessing is temporarily unavailable.
+Please click [here](https://form.gov.sg/639ad410a13efc0012db36c8) for feedback/enquiries.
