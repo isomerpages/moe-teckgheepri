@@ -4,7 +4,7 @@ permalink: /our-school/our-tgps-philosophy/
 description: ""
 ---
 ### **Our TGPS Philosophy**
-<img src="/images/tgpsphilosophy.jpg" style="width:65%">
+<img src="/images/NoMask_TGPS%20Mascots_031221.png" style="width:65%">
 
 #### **Vision**
 Nurturing Tomorrow's Leaders, Today.
