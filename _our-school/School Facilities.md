@@ -21,7 +21,9 @@ description: ""
 #### **Creativity and Innovation**
 <img src="/images/facilities3.png" style="width:100%">
 <img src="/images/tinkeringspace2.png" style="width:65%">
-
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Mby0AUghpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>	
+</div>
 
 #### **Outdoor Education**
 <img src="/images/facilities4.png" style="width:100%">
