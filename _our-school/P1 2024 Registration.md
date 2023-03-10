@@ -3,7 +3,7 @@ title: P1 2024 Registration
 permalink: /our-school/p1-2023-registration/
 description: ""
 ---
-### **P1 2023 Registration**
+### **P1 2024 Registration**
 #### **Getting to know TGPS**
 <center>Click on the thumbnails below to find out more about the various programmes.</center>
 
