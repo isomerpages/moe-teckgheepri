@@ -13,6 +13,6 @@ In TGPS, students are engaged in the learning process as they are given greater 
 
 |  |  |
 |:---:|:---:|
-| <a href="https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/deep-learning/english/"><img style="width:220px;height:150px;" src="/images/deeplearning1.jpg">English</a> | <a href="https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/deep-learning/mother-tongue/"><img style="width:220px;height:150px;" src="/images/deeplearning2.jpg">Mother Tongue</a> |
-| <a href="https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/deep-learning/mathematics/"><img style="width:220px;height:150px;" src="/images/deeplearning3.jpg">Mathematics</a> | <a href="https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/deep-learning/science/"><img style="width:220px;height:150px;" src="/images/deeplearning4.jpg">Science</a> |
+| <a href="/our-experiences/deep-learning/english/"><img style="width:220px;height:150px;" src="/images/deeplearning1.jpg">English</a> | <a href="/our-experiences/deep-learning/mother-tongue/"><img style="width:220px;height:150px;" src="/images/deeplearning2.jpg">Mother Tongue</a> |
+| <a href="/our-experiences/deep-learning/mathematics/"><img style="width:220px;height:150px;" src="/images/deeplearning3.jpg">Mathematics</a> | <a href="/our-experiences/deep-learning/science/"><img style="width:220px;height:150px;" src="/images/deeplearning4.jpg">Science</a> |
 |
