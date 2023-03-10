@@ -2,7 +2,7 @@ collections:
   extended-family:
     output: true
     order:
-      - For Parents/Sexuality Education.md
+      - For Parents/.keep
       - For Parents/For Parents.md
       - For Parents/Announcements.md
       - For Parents/P1 2024 Registration.md
@@ -11,8 +11,8 @@ collections:
       - For Parents/Teaching & Learning.md
       - For Parents/Student iCON.md
       - For Parents/Information for Parents.md
+      - For Parents/Sexuality Education.md
       - For Parents/Useful Links.md
-      - For Parents/.keep
       - Parent Support Group.md
       - School Advisory Committee.md
       - External Partners.md
