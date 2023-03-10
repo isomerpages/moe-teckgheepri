@@ -22,4 +22,4 @@ by creating a positive and caring learning community; and working in partnership
 Team Spirit, Graciousness, Perseverance, Self-Discipline
 
 #### **Motto**
-**'Aspire and Achieve"** urges teachers and pupils to step into the knowledge world and to work towards a common goal.
+**'Aspire and Achieve'** urges teachers and pupils to step into the knowledge world and to work towards a common goal.
