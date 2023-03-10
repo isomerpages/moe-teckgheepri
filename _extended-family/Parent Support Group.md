@@ -11,11 +11,12 @@ Our School recognizes parents as partners for all collaborative efforts. The Par
 
 The parent’s involvement in the school sends a clear signal to the pupils our deep concern for them. This will in turn encourage them to adopt positive attitudes towards learning. In the PSG, parents support and learn from each other. When school personnel and parents work together, they complement each other’s strengths and gain a common vision towards improving the school – all for the betterment of our pupils’ education. The three pairs of hands in the logo symbolizes the strong partnership between the school and parents in the interest of the pupils in the school.
 
-#### **2020 PSG Core Members**
-<img src="/images/psg2.jpg" style="width:85%">
+#### **2023 PSG Core Members**
+<img src="/images/PSG%20Core%20Members.jpg" style="width:85%">
 
-#### **2020 PSG Liaison for Learning Journey**
-<img src="/images/psg3.jpg" style="width:85%">
+
+#### **2023 PSG Liaison for Learning Journey**
+<img src="/images/PSG%20LJ.jpg" style="width:85%">
 
 #### **PSG@Work**
 Helping out in  Food from the Heart Donation Drive
