@@ -10,7 +10,7 @@ third_nav_title: For Parents
 You can download it from the [App Store](https://itunes.apple.com/sg/app/parents-gateway/id1267198708) or from [Google Play](https://play.google.com/store/apps/details?id=com.moe.pgp).
 
 **Who can I contact if I am having issues with the Parents' Gateway app?**<br>
-You can contact [moe\_parents\_gateway@moe.gov.sg](https://teckgheepri.moe.edu.sg/extended-family/for-parents/mailto=moe_parents_gateway@moe.gov.sg)
+You can contact [moe\_parents\_gateway@moe.gov.sg](mailto=moe_parents_gateway@moe.gov.sg)
 
 **Where can I get more information on the Parents' Gateway app?**<br>
 You can refer to the FAQ page [here](https://pg.moe.edu.sg/faq).
