@@ -36,7 +36,6 @@ I could still remember how at the end of my P6 journey, the teachers and parent 
 Thanks to the wonderful job done by the teachers in TGPS, providing me with various platforms and opportunities to develop and show my potential, I continued performing well in my secondary school. I joined the student council and took part in projects and competitions from various fields. Although not all have outstanding results, I really enjoyed myself every single time and made the most out of each experience, just like what I did in primary school. The teachers in TGPS have left a huge impact in my life, always showering me with support and encouragement even when I have already graduated since, and for that, I am always grateful to them. Till now, I still return to TGPS every Teachers’ Day with my old friends to visit the teachers that have taught me and watched me grow in the 6 years I was there.
 
 **Thank you, TGPS!**<br>
-[https://teckgheepri.moe.edu.sg/our-pride/alumni#cassidyStory8](https://teckgheepri.moe.edu.sg/our-pride/alumni#cassidyStory8) nothing appears when clicked
 
 <img src="/images/alumni3.jpg" style="width:30%;margin-right:15px;" align = "left">
 
