@@ -13,4 +13,5 @@ description: ""
 | Mr Lim Chun Wei Edmund | **Senior Teacher**<br>Physical Education | [lim_chun_wei_edmund@moe.edu.sg](lim_chun_wei_edmund@moe.edu.sg) |
 | Mrs Philip Muthiah | **Senior Teacher**<br>Tamil Language | [muthiah_philip_j_j@moe.edu.sg](muthiah_philip_j_j@moe.edu.sg) |
 | Mdm Lim Puay Hoon | **Senior Teacher**<br>Mathematics / Science (Covering) | [lim_puay_hoon@moe.edu.sg](lim_puay_hoon@moe.edu.sg) |
+| Mdm Nurazeela Abdullah| **Senior Teacher**<br>English | [nurazeela_abdullah@moe.edu.sg](nurazeela_abdullah@moe.edu.sg) |
 |
