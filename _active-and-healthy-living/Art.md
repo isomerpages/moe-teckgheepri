@@ -18,7 +18,8 @@ The aims of art education in TGPS are to enable every child to: 
 *   **communicate visually**, and
 *   **make meaning** through **connecting with society and culture.**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/sD6lGUBgrpU" title="Pupils talking about their pinch pot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="700" height="350" src="https://www.youtube.com/embed/sD6lGUBgrpU" title="Pupils talking about their pinch pot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </div>
 
 #### **Art Syllabus Framework**
 
@@ -34,4 +35,5 @@ In TGPS, we follow the Art Syllabus Framework above. Some broad learning areas t
 
 <br clear="left">
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/ukRMDhuibGY" title="P6 photography art project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="bp-youtube">
+<iframe width="700" height="350" src="https://www.youtube.com/embed/ukRMDhuibGY" title="P6 photography art project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
