@@ -18,6 +18,6 @@ In case the clinic is closed, pupils who require dental treatment can contact th
 | School Dental Clinic | Contact Number |
 | --- | --- |
 | Ang Mo Kio Primary School | 8764 5842  
-| Catholic |High Primary School | 8764 6507 |
+| Catholic High Primary School | 8764 6507 |
 | Townsville Primary School | 8940 0243   |
 | Ai Tong Dental Clinic | 8764 5447 |
