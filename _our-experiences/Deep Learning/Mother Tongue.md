@@ -41,13 +41,15 @@ The Mother Tongue Department aims to nurture Critical thinkers and Confident com
 Let's see how our students demonstrate their learning!
 
 <center><b>Chinese Language</b></center>
-
+<div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Chinese" src="https://www.youtube.com/embed/fNcrorbGLG4" height="400" width="800"></iframe>
-
+</div>
 <center><b>Malay Language</b></center>
-
+<div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="Haziq ML COL" src="https://www.youtube.com/embed/thN3Eu_jK9U" height="400" width="800"></iframe>
+</div>
 
 <center><b>Tamil Language</b></center>
-
+<div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="4A Tamil COL" src="https://www.youtube.com/embed/u3uOSk1BvPM" height="400" width="800"></iframe>
+</div>
