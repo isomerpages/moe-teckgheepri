@@ -21,10 +21,9 @@ Gate B<br>
 Mondays to Fridays<br>
 Monday:   
 6.30 am to 7.40 am <br>
-1.30 pm to 2 pm <br>  
-2.30 pm to 3 pm  <br> 
+1.30 pm to 2 pm <br>  2.30 pm to 3 pm  <br> 
   
-Tuesday to Friday  
+Tuesdays to Fridays  
 6.30 am to 7.40 am<br>
 1.30 pm to 2 pm<br> 
 Gate B will be locked at 7.45am daily. <br>Please proceed to Gate A after 7.45am. <br>
