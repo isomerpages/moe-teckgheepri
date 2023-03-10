@@ -8,7 +8,6 @@ third_nav_title: For Parents
 #### **Here are some useful links**
 *   [Student Learning Space (SLS)](http://learning.moe.edu.sg/)
 *   [Google Classroom](https://workspace.google.com/dashboard)
-*   [HBL Matters](https://sites.google.com/moe.edu.sg/tgps-hbl/home)  
 *   [TGPS Facebook](https://m.facebook.com/teckgheepri/)
 *   [TGPS Instagram](https://www.instagram.com/teckgheepri/)
 *   [Sexuality Education](/extended-family/For-Parents/sexuality-education/)
