@@ -33,7 +33,10 @@ In Teck Ghee Primary School, learning the language is fun! The process of deep l
 *   PAVES
 *   The Art of Communication through Multimedia
 
-<img src="/images/deeplearningeng1.jpg" style="width:65%">
+|   |   | 
+|  - | - | 
+| ![](/images/deeplearningeng1.jpg)     | ![](/images/deeplearningeng2.jpg)    | 
+|   |  | 
 
 ### **Signature Programmes**
 
@@ -44,10 +47,10 @@ Literary Arts Festival @ TGPS aims to make learning English more fun and inculca
 <iframe width="560" height="315" src="https://www.youtube.com/embed/co1Kv0lVu24" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+|   |   | 
+|  - | - | 
+| ![](/images/read.jpg)     | ![](/images/spell.jpg)    | 
+|   |  | 
 
-<img src="/images/read.jpg" style="width:50%"><img src="/images/spell.jpg" style="width:50%">
-
-
-**Let’s Get it Right!**
-
+**Let’s Get it Right!**</br>
 Conducted by the teachers during morning assembly, Let’s Get it Right is a programme to address some of the misconceptions on grammar and teach the students right pronunciation of commonly mispronounced words.
