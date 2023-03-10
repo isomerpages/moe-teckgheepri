@@ -13,11 +13,11 @@ As futurist and philosopher Alvin Toffler once wrote: "**_The illiterate of the 
 Indeed, while we cannot accurately ‘predict’ the future, what we are well-positioned to do today is to prepare our children to acquire the right values, attitudes and dispositions to **_learn for life and throughout life_**.  It is through learning that they can make sense of the connected but complex world where they have to navigate around emerging trends and learn to how to self-organise to anticipate and respond to problems.
 
 In TGPS, we take pride in **Nurturing Tomorrow’s Leaders, Today**! We do this by:<br>
-* _Cultivating the Joy of Learning_ through [Deep Learning](https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/deep-learning/)<br>
-* _Building Resilience & Strengthening Relationships_ through [Positive Education](https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/positive-education/)<br>
-* _Achieving Well-Balanced Development_ through [Active and Healthy Living](https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/active-and-healthy-living/cca/sports/)<br>
-* _Making Learning Come Alive_ through [Distinctive Programmes](https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/distinctive-programmes/)<br>
-* _Developing Servant Leaders_ through [Student Leadership](https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/student-leadership/vie/)
+* _Cultivating the Joy of Learning_ through [Deep Learning](/our-experiences/deep-learning/)<br>
+* _Building Resilience & Strengthening Relationships_ through [Positive Education](/our-experiences/positive-education/)<br>
+* _Achieving Well-Balanced Development_ through [Active and Healthy Living](/our-experiences/active-and-healthy-living/cca/sports/)<br>
+* _Making Learning Come Alive_ through [Distinctive Programmes](/our-experiences/distinctive-programmes/)<br>
+* _Developing Servant Leaders_ through [Student Leadership](/our-experiences/student-leadership/vie/)
 
 ![](/images/principal2.jpg)
 
