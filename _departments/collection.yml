@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - English/English.md
-      - English/Reading Programme.md
       - English/.keep
       - Mother Tongue.md
       - Mathematics.md
