@@ -15,10 +15,11 @@ Our P6 students are involved in the Code for Fun Programme as part of their Post
 <iframe width="700" height="350" src="https://www.youtube.com/embed/reIGP2x9Oeg" title="CFF 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Maker Programmes**
-During recess, students are able to go to the iSpace room to try out different maker activities and learn about innovation.
+During recess, students are able to go to the Tinkering Space to try out different maker activities and learn about innovation.
 
-<img src="/images/innovationintgps1.jpg" style="width:49%" align=left>
-<img src="/images/innovationintgps2.jpg" style="width:49%" align=right>
+<div class="bp-youtube">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/9Mby0AUghpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 <br clear="left">
 
