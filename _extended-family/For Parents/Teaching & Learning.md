@@ -9,7 +9,7 @@ third_nav_title: For Parents
 Click [here](/files/teachingandlearning1.pdf) for more information.
 
 #### **Sexuality Education**
-Click [here](https://staging.d3od0h9ii8slt3.amplifyapp.com/departments/cce/sex-edu/) to find out more about Sexuality Education in MOE as well as in TGPS.
+Click [here](/departments/cce/sex-edu/) to find out more about Sexuality Education in MOE as well as in TGPS.
 
 #### **Student Learning Space**
 You can find out about how to set up your child/ward's account and frequently asked questions in the student guide [here.](https://drive.google.com/file/d/1E6SgTDoE86y-YRvt0jUjXIBmU-dvxJpq/view?usp=sharing)  
