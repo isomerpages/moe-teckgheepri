@@ -23,8 +23,8 @@ In TGPS, we take pride in **Nurturing Tomorrow’s Leaders, Today**! We do this
 
 Through our various holistic programmes and activities that are thoughtfully curated by our team of dedicated teachers and staff, we are confident that all our students will, by the end of their six-year journey with us, become TGStars - students who will be well-positioned to serve and lead in whichever capacity that they so wish to in future when they have the opportunity to contribute to our society both locally and globally.
 
-We have just celebrated our 20th anniversary (TG20) in 2022 and beyond TG20, we aspire that:</br>
-●	Our TGStars will always be the pride of our community and nation - where they will always find meaningful ways to give back and serve in whichever capacity that their passion and interest will take them in their lives;</br>
+We have just celebrated our 20th anniversary (TG20) in 2022 and beyond TG20, we aspire that:
+</br>●	Our TGStars will always be the pride of our community and nation - where they will always find meaningful ways to give back and serve in whichever capacity that their passion and interest will take them in their lives;</br>
 ●	TGPS will always be the school for the community - where we will always endeavor to Nurture Tomorrow’s Leaders, Today. 
 
 This is our promise and commitment to all our TGStars, stakeholders and partners, and to Singapore!
