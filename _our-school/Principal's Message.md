@@ -21,6 +21,8 @@ In TGPS, we take pride in **Nurturing Tomorrow’s Leaders, Today**! We do this
 
 ![](/images/principal2.jpg)
 
+<!-- /\* Font Definitions \*/ @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:-536869121 1107305727 33554432 0 415 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin:0in; line-height:115%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Arial",sans-serif; mso-fareast-font-family:Arial; mso-ansi-language:EN;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Arial",sans-serif; mso-ascii-font-family:Arial; mso-fareast-font-family:Arial; mso-hansi-font-family:Arial; mso-bidi-font-family:Arial; mso-ansi-language:EN;} .MsoPapDefault {mso-style-type:export-only; line-height:115%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} -->
+
 Through our various holistic programmes and activities that are thoughtfully curated by our team of dedicated teachers and staff, we are confident that all our students will, by the end of their six-year journey with us, become TGStars - students who will be well-positioned to serve and lead in whichever capacity that they so wish to in future when they have the opportunity to contribute to our society both locally and globally.
 
 We have just celebrated our 20th anniversary (TG20) in 2022 and beyond TG20, we aspire that:
