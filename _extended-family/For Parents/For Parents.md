@@ -7,7 +7,7 @@ third_nav_title: For Parents
 ### **For Parents**
 ##### **Click on the links below to find out more.**
 * [Announcements](/extended-family/for-parents/announcements/)
-* [P1 2023 Registration](/our-school/p1-2023-registration/)
+* [P1 2024 Registration](/our-school/p1-2023-registration/)
 * [Letters & Forms](/extended-family/for-parents/forms/)
 * [Briefing Slides](/extended-family/for-parents/briefing-slides/)
 * [Teaching &Learning](/extended-family/for-parents/teaching-and-learning/)
