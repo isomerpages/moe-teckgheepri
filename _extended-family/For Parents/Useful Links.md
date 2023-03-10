@@ -11,6 +11,5 @@ third_nav_title: For Parents
 *   [HBL Matters](https://sites.google.com/moe.edu.sg/tgps-hbl/home)  
 *   [TGPS Facebook](https://m.facebook.com/teckgheepri/)
 *   [TGPS Instagram](https://www.instagram.com/teckgheepri/)
-*   [Sexuality Education](https://teckgheepri.moe.edu.sg/departments/character-n-citizenship-education/sexuality-education-programme)
+*   [Sexuality Education](/extended-family/For-Parents/sexuality-education/)
 *   [SchoolBag](http://schoolbag.sg/)
-*   [Health Promotion Board Parents Newsletter - Edition 1 (2021).pdf] **file greater than 5mb**
