@@ -2,7 +2,7 @@ collections:
   extended-family:
     output: true
     order:
-      - For Parents/Example Title.md
+      - For Parents/Sexuality Education.md
       - For Parents/For Parents.md
       - For Parents/Announcements.md
       - For Parents/P1 2024 Registration.md
