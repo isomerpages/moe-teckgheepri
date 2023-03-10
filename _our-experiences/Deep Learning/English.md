@@ -10,7 +10,7 @@ Vision: learn it. Love it. Live it.
 
 Our mission is to provide learning opportunities for all, to balance rigour with joy of learning and empower our students to acquire effective English language and communication skills for their social, academic and professional lives.
 
-#### **Key Programmes:**
+#### **Key Programmes**
 In Teck Ghee Primary School, learning the language is fun! The process of deep learning can take place when English is taught in a non-threatening environment. Then, the love for the language will grow and with it, greater self-esteem and confidence. When students are confident in using the language, they will be able to embrace English as part of their everyday life.
 
 #### **Read@TGPS**
