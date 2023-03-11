@@ -9,16 +9,10 @@ sections:
   - hero:
       background: /images/tgpshomepage.gif
       key_highlights:
-        - title: "                  "
-          description: ""
-          url: ""
         - title: What's New
           description: ""
           url: /whatsnew/
         - title: EZ-Links
           description: ""
           url: /ez-links/
-        - title: "                                      "
-          description: ""
-          url: ""
 ---
