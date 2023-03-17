@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/tgpshomepage.gif
+      background: /images/teckgheepribanner.gif
       key_highlights:
         - title: What's New
           description: ""
