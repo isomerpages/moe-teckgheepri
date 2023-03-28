@@ -2,11 +2,46 @@
 title: FAQ
 permalink: /faq/
 ---
-
 ### **FAQ**
+##### **What are the school hours?**
+![](/images/school%20hours%202023.png)
 
-1. Interdum et malesuada fames ac ante ipsum primis in faucibus. In sagittis ut nisl eget suscipit. Morbi lorem ligula, tincidunt et viverra et, gravida sit amet velit. Duis posuere mi lectus, molestie viverra metus consectetur quis. Fusce dignissim arcu enim, id faucibus felis dignissim ut. Suspendisse potenti. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Phasellus blandit sem sit amet neque fringilla cursus. Ut semper imperdiet dolor ac vulputate. Phasellus in accumsan urna. Suspendisse potenti. Curabitur porttitor risus a dolor pellentesque, sed dignissim ligula laoreet. Nullam lacus ligula, malesuada ac vestibulum vitae, condimentum nec sem.
+##### **What is the office hours for the General Office?**
+The General Office is opened from 7.30am - 5.30pm from Mondays to Fridays.<br>
+We are closed on Saturdays, Sundays, and on public holidays.<br>
+On the eve of major public holidays, we are opened from 7.30am - 12.00pm.
 
-2. Integer semper ultrices lorem ut sodales. Praesent rutrum vestibulum quam, ac rhoncus tortor ullamcorper sit amet. Curabitur sed hendrerit sem, ut dignissim nisi. Aenean eleifend in ligula at posuere. Phasellus turpis justo, mollis eget sagittis vel, viverra quis enim. Praesent luctus, elit ac mattis cursus, dui lorem sollicitudin urna, ac molestie lacus elit eget eros. Sed aliquam purus vitae tellus consequat rutrum. Etiam tristique, mi ut dapibus tristique, elit urna rhoncus leo, ac luctus augue ante eget felis. Fusce nisl enim, tempus a faucibus aliquam, lobortis at est. Donec nec mollis nibh. Donec vitae ipsum risus. Pellentesque eu est sed diam pulvinar dictum in sit amet purus. Fusce convallis risus tortor.
+##### **What are the opening hours of the various gates of the school?**
+Gate A<br>
+Mondays to Fridays <br>
+6.30 am to 7.00pm
+  
+Gate B<br>
+Mondays to Fridays<br>
+Monday:   
+6.30 am to 7.40 am <br>
+1.30 pm to 2 pm <br>  
+2.30 pm to 3 pm  <br> 
+  
+Tuesday to Friday  
+6.30 am to 7.40 am<br>
+1.30 pm to 2 pm<br> 
+Gate B will be locked at 7.45am daily. <br>Please proceed to Gate A after 7.45am. <br>
 
-3. Pellentesque malesuada leo libero, et commodo lorem consequat quis. Etiam lobortis porttitor lobortis. Quisque pulvinar lorem eu dolor dictum dignissim. Sed faucibus, risus ut euismod viverra, massa nisi suscipit tellus, eu bibendum mi lorem nec mauris. Pellentesque tincidunt sem id gravida consectetur. Pellentesque id lacus ac ipsum ultricies hendrerit nec a tellus. Aliquam nec dapibus sapien. Sed laoreet sem at semper maximus.
+
+##### **How do I apply for financial assistance?**
+You may approach the staff at our general office for guidance on how to apply for financial assistance.  
+In the meantime, you could also read up on the eligibility criteria and on more information [here](https://www.moe.gov.sg/financial-matters/financial-assistance).
+
+##### **How do I apply for the NEU PC Plus Programme?**
+You may approach the staff at our general office for guidance on how to apply for the NEU PC Plus Programme.  
+In the meantime, you could also read up about it [here](https://www.imda.gov.sg/neupc).
+
+##### **How do I apply to be a parent volunteer in your school?**
+In order to qualify as a parent volunteer for registration at Phase 2B of the 2018 Primary One (P1) Registration Exercise, you would have to be registered as a parent volunteer with the school not later than 1 July 2017 and given at least 40 hours of voluntary service to the school by 30 June 2018.
+You can approach the general office during office hours to enquire about their parent volunteer scheme.
+
+**[Click here to download the Parent Volunteer Registration Form](/files/TGPS%20PV%20Registration%20form.pdf)**
+
+Some important points to note:
+Parents may begin their registration two years in advance of the Primary 1 Registration Exercise. Closing date for registration will be 30th April, one year before the year of the Registration exercise. However, it is important to note that there is no guarantee of a school place even if a parent volunteer performs the required hours of volunteer work.
