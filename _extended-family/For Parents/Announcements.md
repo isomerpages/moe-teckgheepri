@@ -18,9 +18,9 @@ Regards,
 
 Instructional Programme Heads
 
-[2023 schedule for p3 weighted assessment 1_term 2](/files/2023%20schedule%20for%20p3%20weighted%20assessment%201_term%202.pdf)<br>
-[2023 Schedule for P4 Weighted Assessment 1_Term 2](/files/2023%20schedule%20for%20p4%20weighted%20assessment%201_term%202.pdf)<br>
-[2023 Schedule for P5 Weighted Assessment 1_Term 2](/files/2023%20schedule%20for%20p5%20weighted%20assessment%201_term%202.pdf)
+[2023 Schedule for P3 Weighted Assessment 1](/files/2023%20Term%202%20WA/updated%202023%20schedule%20for%20p3%20weighted%20assessment%201_term%202.pdf)<br>
+[2023 Schedule for P4 Weighted Assessment 1](/files/2023%20Term%202%20WA/updated%202023%20schedule%20for%20p4%20weighted%20assessment%201_term%202.pdf)<br>
+[2023 Schedule for P5 Weighted Assessment 1](/files/2023%20Term%202%20WA/updated%202023%20schedule%20for%20p5%20weighted%20assessment_term%202.pdf)
 
 ##### **2023 P6 Timed Practice 2 - Topics and Schedule**
 -----------------------------------------
