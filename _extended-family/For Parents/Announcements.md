@@ -10,7 +10,7 @@ third_nav_title: For Parents
 -----------------------------------------
 Dear Parents/Guardians,
 
-The P3, P4, and P5 Weighted Assessment 1 (WA1) will be held in Term 2, from Week 9 to 10. Please refer to the attachment for the topics to be assessed. Pupils will be informed of the actual date of the WA by their respective subject teachers at least one week prior to the date of assessment.
+The P3, P4, and P5 Weighted Assessment 1 (WA1) will be held in Term 2, from Week 8 to 9. Please refer to the attachment for the topics to be assessed. Pupils will be informed of the actual date of the WA by their respective subject teachers at least one week prior to the date of assessment.
 
 Thank you.
 
