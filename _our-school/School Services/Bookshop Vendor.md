@@ -13,4 +13,4 @@ third_nav_title: School Services
 | Website |  [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/) |
 |
 
-Should you need to purchase school books/uniforms for your children, you may enter the school between 2pm – 3.30pm to visit the bookshop.
+Should you need to purchase school books/uniforms for your child/ward , you may enter the school between 2.00pm to 3.00pm to visit the bookshop.
