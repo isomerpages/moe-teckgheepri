@@ -19,7 +19,7 @@ Mondays to Fridays <br>
   
 Gate B<br>
 Mondays to Fridays<br>
-Monday:   
+Monday:&nbsp;  
 6.30 am to 7.40 am <br>
 1.30 pm to 2 pm <br>  2.30 pm to 3 pm  <br> 
   
@@ -31,11 +31,11 @@ Gate B will be locked at 7.45am daily. <br>Please proceed to Gate A after 7.45am
 
 ##### **How do I apply for financial assistance?**
 You may approach the staff at our general office for guidance on how to apply for financial assistance.  
-In the meantime, you could also read up on the eligibility criteria and on more information [here](https://www.moe.gov.sg/financial-matters/financial-assistance).
+In the meantime, you could also read up on the eligibility criteria and on more information&nbsp;[here](https://www.moe.gov.sg/financial-matters/financial-assistance).
 
 ##### **How do I apply for the NEU PC Plus Programme?**
 You may approach the staff at our general office for guidance on how to apply for the NEU PC Plus Programme.  
-In the meantime, you could also read up about it [here](https://www.imda.gov.sg/neupc).
+In the meantime, you could also read up about it&nbsp;[here](https://www.imda.gov.sg/dah).
 
 ##### **How do I apply to be a parent volunteer in your school?**
 In order to qualify as a parent volunteer for registration at Phase 2B of the 2023 Primary One (P1) Registration Exercise, you would have to be registered as a parent volunteer with the school not later than 31 May 2022 and given at least 40 hours of voluntary service to the school by 30 June 2023.
