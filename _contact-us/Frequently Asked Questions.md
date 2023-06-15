@@ -18,7 +18,6 @@ Mondays to Fridays <br>
 6.30 am to 7.00pm
   
 Gate B<br>
-Mondays to Fridays<br>
 Monday:&nbsp;  
 6.30 am to 7.40 am <br>
 1.30 pm to 2 pm <br>  2.30 pm to 3 pm  <br> 
