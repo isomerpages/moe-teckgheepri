@@ -25,7 +25,9 @@ Monday:&nbsp;
 Tuesdays to Fridays  
 6.30 am to 7.40 am<br>
 1.30 pm to 2 pm<br> 
-Gate B will be locked at 7.45am daily. <br>Please proceed to Gate A after 7.45am. <br>
+Gate B will be locked at 7.45am daily. <br>
+Please proceed to Gate A after 7.45am. <br>
+ **Please note that all visitors can only register at the Security Post and enter school from Gate A.**
 
 
 ##### **How do I apply for financial assistance?**
