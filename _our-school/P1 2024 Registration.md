@@ -17,7 +17,7 @@ description: ""
 
 #### **Getting to Know Teck Ghee Primary Live Webinar**
 
-<a href="/files/P1%202024/kindie%20flyer%202023%20(1).pdf">![](/images/P1%202024/kindie%20flyer%202023.jpg)&gt;/a&gt;
+<a href="/files/P1%202024/kindie%20flyer%202023%20(1).pdf">![](/images/P1%202024/kindie%20flyer%202023.jpg)</a>
 
 #### **P1 Registration Information 2024**
 **P1 2024 Registration**
@@ -25,4 +25,4 @@ description: ""
 P1 2024 Registration
 P1 registration is conducted over several phases. These registration phases apply to children who Singapore Citizens and Singapore Permanent Residents born between 2 January 2017 and 1 January 2018 (both dates inclusive). The 2023 P1 Registration Exercise will be conducted fully online at MOE P1 Registration Portal. Similar to last year, there will not be any in-person registration at schools.
 
-Please refer to the MOE website at https://www.moe.gov.sg/primary/p1-registration for more information on P1 Registration exercise, P1 Registration Portal, phases and key dates.</a>
+Please refer to the MOE website at https://www.moe.gov.sg/primary/p1-registration for more information on P1 Registration exercise, P1 Registration Portal, phases and key dates.
