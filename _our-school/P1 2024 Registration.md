@@ -17,7 +17,7 @@ description: ""
 
 #### **Getting to Know Teck Ghee Primary Live Webinar**
 
-<a href="/files/P1%202024/kindie%20flyer%202023%20(1).pdf">![](/images/P1%202024/kindie%20flyer%202023.jpg)</a>
+<a target="_blank" href="https://for.edu.sg/teckgheepriwebinar17july">![](/images/P1%202024/kindie%20flyer%202023.jpg)</a>
 
 #### **P1 Registration Information 2024**
 **P1 2024 Registration**
