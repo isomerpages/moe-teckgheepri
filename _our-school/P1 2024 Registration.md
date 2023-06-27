@@ -5,7 +5,10 @@ description: ""
 ---
 ### **P1 2024 Registration**
 #### **Getting to know TGPS**
-<center>Click on the thumbnails below to find out more about the various programmes.</center>
+
+![](/images/P1%202024/sch%20thumb.png)
+<center>
+Click on the thumbnails below to find out more about the various programmes.</center>
 
 
 |  |  |
