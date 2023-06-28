@@ -6,6 +6,32 @@ third_nav_title: For Parents
 ---
 ### **Announcements**
 
+##### **P3 to P5 Parent-Teacher Conferencing &amp; School Calendar of Events for Semester 2, 2023**
+-----------------------------------------
+
+Dear Parents/Guardians,
+
+Hope you had a great June holidays with your child/ward.
+
+There will be a Parent-Teacher Conferencing (PTC) in the coming weeks. The session will serve as a platform for parents/guardians and form teachers to exchange feedback on your child’s/ward’s progress in school, so as to support our TGStars in their development and growth.
+
+More information will be provided by your child’s/ward’s form teachers in a separate PG announcement next week.
+
+Please find attached the School Calendar of Events for Semester 2, 2023.
+
+Wishing you and our TGStars a great Semester 2 ahead.
+
+Thank you.
+
+Best regards,
+
+Ms Soh Shi Ting
+
+Year Head
+
+[2023 Semester 2 Calendar of Events](/files/sem%202%20calendar%20of%20events_updated.pdf)
+
+
 ##### **Weighted Assessment 1 (WA1) Matters 2023**
 -----------------------------------------
 Dear Parents/Guardians,
