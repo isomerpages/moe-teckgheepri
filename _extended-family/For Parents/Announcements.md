@@ -6,6 +6,40 @@ third_nav_title: For Parents
 ---
 ### **Announcements**
 
+##### **Primary 3, Primary 4, and Primary 5 Weighted Assessment 2 (WA2) Matters 2023**
+-----------------------------------------
+
+Dear Parents/Guardians,
+
+The Primary 3, Primary 4, and Primary 5 Weighted Assessment 2 (WA2) will be held in Term 3, from Week 8 to 9. Please refer to the attachment for the topics to be assessed. Pupils will be informed of the actual date of the WA by their respective subject teachers at least one week prior to the date of assessment.
+
+Thank you.
+
+Regards,
+
+Instructional Programme Heads
+
+[2023 Schedule for P3 Weighted Assessment 2_Term 3.pdf (86.82 KB)](/files/2023%20schedule%20for%20p3%20weighted%20assessment%202_term%203.pdf) <br>
+[2023 Schedule for P4 Weighted Assessment 2_Term 3.pdf (40.74 KB)](/files/2023%20schedule%20for%20p4%20weighted%20assessment%202_term%203.pdf)<br>
+[2023 Schedule for P5 Weighted Assessment_Term 3.pdf (75.81 KB)](/files/2023%20schedule%20for%20p5%20weighted%20assessment_term%203.pdf)
+
+##### **Primary 6 Preliminary Examination 2023**
+-----------------------------------------
+
+Dear Parents/Guardians,
+
+The Primary 6 Preliminary Examinations will be held on 27 &amp; 28 July 2023, and from 11 August to 22 August 2023. Please refer to the attachment for the schedule.
+
+Thank you.
+
+Regards,
+
+Instructional Programme Heads
+
+[P6 Prelims exam schedule and topics 2023.pdf (231.4 KB)](/files/p6%20prelims%20exam%20schedule%20and%20topics%202023.pdf)
+
+
+
 ##### **P3 to P5 Parent-Teacher Conferencing &amp; School Calendar of Events for Semester 2, 2023**
 -----------------------------------------
 
