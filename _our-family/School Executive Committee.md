@@ -6,7 +6,7 @@ description: ""
 ### **School Executive Committee**
 #### **School Leaders**
 
-![School Leaders Photo](/images/sl%20less%20than%205mb.jpg)
+![sl](/images/Staff%20photos%202022/sl%20less%20than%205mb.jpg)
 
 |  |  |
 |---|---|
