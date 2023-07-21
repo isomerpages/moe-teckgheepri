@@ -58,7 +58,7 @@ description: ""
 | **Subject Head (SH)**<br>Science | **Mrs Alia Koh**<br>[alia_aziz_alkaff@moe.edu.sg](alia_aziz_alkaff@moe.edu.sg) |
 | **Subject Head (SH)**<br>Chinese Language | **Ms Kelly Ng**<br>[ng_minlin_kelly@moe.edu.sg](ng_minlin_kelly@moe.edu.sg) |
 | **Level Head (LH)**<br>Information &amp; Communication Technology (ICT) | **Ms Alexis Tung**<br>[tung_ying_zhu_alexis@moe.edu.sg](tung_ying_zhu_alexis@moe.edu.sg) |
-| **Subject Head (SH Covering)**<br>Physical Education, Art, Music | **Mrs Sharon Jones**<br>[goh_shang_geok@moe.edu.sg](goh_shang_geok@moe.edu.sg) |
+| **Subject Head (Covering)**<br>Aesthetics | **Mrs Sharon Jones**<br>[goh_shang_geok@moe.edu.sg](goh_shang_geok@moe.edu.sg) |
 |
 
 
