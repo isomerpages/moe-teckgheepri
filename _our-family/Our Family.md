@@ -6,7 +6,7 @@ description: ""
 ### **Our Family**
 #### **All Staff**
 
-![All Staff](/images/Staff%20photos%202022/all%20staff%20less%20than%205mb.jpg)
+![All Staff ](/images/Staff%20photos%202022/Staff%20photos%20no%20year/all%20staff%20less%20than%205mb.jpg)
 
 #### **School Executive Committee**
 
@@ -14,32 +14,32 @@ description: ""
 
 #### **Student Development Team**
 
-![SDT](/images/Staff%20photos%202022/sdt%20less%20than%205mb.jpg)
+![SDT](/images/Staff%20photos%202022/Staff%20photos%20no%20year/sdt%20less%20than%205mb.jpg)
 
 #### **Teacher Leaders**
 
-![Teacher Leaders](/images/Staff%20photos%202022/tl%20less%20than%205mv.jpg)
+![Teacher Leaders](/images/Staff%20photos%202022/Staff%20photos%20no%20year/tl%20less%20than%205mv.jpg)
 
 #### **English Department**
 
-![EL](/images/Staff%20photos%202022/el%20less%20than%205mb.jpg)
+![EL](/images/Staff%20photos%202022/Staff%20photos%20no%20year/el%20less%20than%205mb.jpg)
 
 #### **Mathematics Department**
 
-![Maths](/images/Staff%20photos%202022/maths%20less%20than%205mb.jpg)
+![Maths](/images/Staff%20photos%202022/Staff%20photos%20no%20year/maths%20less%20than%205mb.jpg)
 
 #### **Science Department**
 
-![Science](/images/Staff%20photos%202022/science%20less%20than%205mb.jpg)
+![Science](/images/Staff%20photos%202022/Staff%20photos%20no%20year/science%20less%20than%205mb.jpg)
 
 #### **Mother Tongue Department**
 
-![MT](/images/Staff%20photos%202022/mt%20less%20than%205mb.jpg)
+![MT](/images/Staff%20photos%202022/Staff%20photos%20no%20year/mt%20less%20than%205mb.jpg)
 
 #### **PAM (PE, Art, Music) Department**
 
-![PAM](/images/Staff%20photos%202022/pam%20less%20than%205mb.jpg)
+![PAM](/images/Staff%20photos%202022/Staff%20photos%20no%20year/pam%20less%20than%205mb.jpg)
 
 #### **Executive & Administrative Team**
 
-![EAS](/images/Staff%20photos%202022/eas%20less%20than%205mb.jpg)
+![EAS](/images/Staff%20photos%202022/Staff%20photos%20no%20year/eas%20less%20than%205mb.jpg)
