@@ -7,6 +7,9 @@ third_nav_title: School Services
 ### **Student Care Centre**
 
 #### **Raffles Student Care Centre**
+
+<img src="/images/rafflesscc.jpeg" style="width:45%" align="center"><br>
+
 Raffles Student Care Centre aims to empower children to understand their strengths better and appreciate positive, respectful relationships and enhance personal resilience. We seek to develop confident, competent and expressive children through a combination of experiential learning, role-play, and movement-based exercises.
 
 Our proprietary theme-based Character Development curriculum delivers exercises in core values to the children through a series of activities, such as through staff facilitated discussions, arts &amp; crafts, music &amp; movements, or through kinaesthetic team-play.
