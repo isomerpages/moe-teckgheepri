@@ -8,7 +8,7 @@ third_nav_title: School Services
 
 | Name of company: | Pacific Bookstores |
 |---|---|
-| Contact: | 9148 1670 |
+| Contact: | 9048 1670 |
 | Opening Hours:   | Monday to  Friday - 8.30am to 3.00pm<br><br>(Lunchtime 12.00 noon to 1.00pm) |
 | Website |  [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/) |
 |
