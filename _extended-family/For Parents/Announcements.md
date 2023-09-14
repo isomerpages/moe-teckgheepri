@@ -25,6 +25,10 @@ Regards,
 
 Instructional Programme Heads
 
+[P3 EYE schedules and topics 2023.pdf](/files/p3%20eye%20schedules%20and%20topics%202023.pdf)
+[P4 EYE schedules and topics 2023.pdf](/files/p4%20eye%20schedules%20and%20topics%202023.pdf)
+[P5 EYE schedule and topics 2023.pdf](/files/p5%20eye%20schedule%20and%20topics%202023.pdf)
+
 
 ##### **Primary 3, Primary 4, and Primary 5 Weighted Assessment 2 (WA2) Matters 2023**
 -----------------------------------------
