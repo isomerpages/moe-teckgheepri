@@ -6,6 +6,30 @@ third_nav_title: For Parents
 ---
 ### **Announcements**
 
+##### **Primary 3, Primary 4, and Primary 5 End-of-Year Examination Schedule 2023**
+-----------------------------------------
+
+Dear Parents/Guardians,
+
+The P3 end-of-year examination (EYE) will be held from 10 October to 31 October 2023. 
+
+The P4 end-of-year examination (EYE) will be held from 11 October to 31 October 2023.
+
+The P5 end-of-year examination (EYE) will be held from 12 October to 31 October 2023.
+
+Please refer to the attachment for the EYE schedule and topics to be assessed.
+
+Thank you.
+
+Regards,
+
+Instructional Programme Heads
+
+[P3 EYE schedules and topics 2023.pdf](/files/p3%20eye%20schedules%20and%20topics%202023.pdf)
+[P4 EYE schedules and topics 2023.pdf](/files/p4%20eye%20schedules%20and%20topics%202023.pdf)
+[P5 EYE schedule and topics 2023.pdf](/files/p5%20eye%20schedule%20and%20topics%202023.pdf)
+
+
 ##### **Primary 3, Primary 4, and Primary 5 Weighted Assessment 2 (WA2) Matters 2023**
 -----------------------------------------
 
