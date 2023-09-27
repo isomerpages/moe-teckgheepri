@@ -18,15 +18,29 @@ Mondays to Fridays <br>
 6.30 am to 7.00pm
   
 Gate B<br>
-Monday:&nbsp;  
-6.30 am to 7.40 am <br>
-1.30 pm to 2 pm <br>  2.30 pm to 3 pm  <br> 
-  
-Tuesdays to Fridays  
-6.30 am to 7.40 am<br>
-1.30 pm to 2 pm<br> 
-Gate B will be locked at 7.45am daily. <br>
-Please proceed to Gate A after 7.45am. <br>
+Open Daily: 6.30 a.m. to 7.40 a.m. <br><br>
+Monday:<br>
+1.30 p.m. to 2 p.m.<br>
+2.30 p.m. to 3 p.m.<br>
+4.30 p.m. to 4.45 p.m.<br>
+4 p.m. to 4.15 p.m.<br><br>
+Tuesday:<br>
+1.30 p.m. to 2 p.m.<br>
+3 p.m. to 3.15 p.m.<br>
+3.30 p.m. to 3.45 p.m.<br>
+4 p.m. to 4.15 p.m.<br><br>
+Wednesday:<br>
+1.30 p.m. to 2 p.m.<br>
+3 p.m. to 3.15 p.m.<br>
+3.30 p.m. to 3.45 p.m.<br>
+4 p.m. to 4.15 p.m.<br><br>
+Thursday:<br>
+1.30 p.m. to 2 p.m.<br>
+3 p.m. to 3.20 p.m.<br>
+4 p.m. to 4.15 p.m.<br><br>
+Friday:<br>
+1.30 p.m. to 2 p.m.<br>
+
  **Please note that all visitors can only register at the Security Post and enter school from Gate A.**
 
 
