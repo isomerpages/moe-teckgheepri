@@ -18,6 +18,7 @@ Mondays to Fridays <br>
 6.30 am to 7.00pm
   
 Gate B<br>
+Open Daily: 6.30 a.m. to 7.40 a.m. <br><br>
 Monday:<br>
 1.30 p.m. to 2 p.m.<br>
 2.30 p.m. to 3 p.m.<br>
