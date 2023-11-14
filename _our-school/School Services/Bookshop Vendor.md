@@ -39,9 +39,9 @@ Should you need to purchase school books/uniforms for your child/ward , you may 
 |06/12/2023 | Wed | P4 &amp; P5 || 19/12/2023 | Tue |All Levels ||||||
 
 
-|Operating Hours: Mon-Fri: 9am to 3pm|
+|Operating Hours|
 |---|
-|Lunch time : 12.00pm - 1.00pm<br>**"Schedule subject to changes due to actual PSLE results release"**<br>Sale of Textbooks is ONLY available in schools.<br>Bookshop Tel: 90481670 (Mon - Fri) 9.00am - 3pm<br>Books supplied by Pacific Bookstores Pte Ltd. Tel: 69298012 Email: sales@pacificbookstores.com<br>Same Selling Date For Bookshop and Uniform Shop|
+|Mon-Fri: 9am to 3pm<br>Lunch time : 12.00pm - 1.00pm<br>**"Schedule subject to changes due to actual PSLE results release"**<br>Sale of Textbooks is ONLY available in schools.<br>Bookshop Tel: 90481670 (Mon - Fri) 9.00am - 3pm<br>Books supplied by Pacific Bookstores Pte Ltd. Tel: 69298012 Email: sales@pacificbookstores.com<br>Same Selling Date For Bookshop and Uniform Shop|
 
 #### **2024 Booklist**
 
