@@ -27,3 +27,4 @@ Should you need to purchase school books/uniforms for your child/ward , you may 
 |Primary 5|[Primary 5 Booklist (for 5A to 5E)](/files/2024%20Booklist/P5A_5E.pdf) <br> [Primary 5 Booklist (for 5F)](/files/2024%20Booklist/P5F.pdf)<br>[Primary 5 Booklist (for Foundation)](/files/2024%20Booklist/P5__FDN_.pdf)|
 |Primary 6| [Primary 6 Booklist (for 6A)](/files/2024%20Booklist/P6A.pdf)<br>[Primary 6 Booklist (for 6B)](/files/2024%20Booklist/P6B.pdf)<br>[Primary 6 Booklist (for 6C)](/files/2024%20Booklist/P6C.pdf)<br>[Primary 6 Booklist (for 6D)](/files/2024%20Booklist/P6D.pdf)<br>[Primary 6 Booklist (for 6E)](/files/2024%20Booklist/P6E.pdf)<br>[Primary 6 Booklist (for 6F)](/files/2024%20Booklist/P6F.pdf)<br>[Primary 6 Booklist (for Foundation)](/files/2024%20Booklist/P6__FDN_.pdf)|
 
+
