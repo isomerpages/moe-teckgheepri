@@ -10,13 +10,45 @@ variant: markdown
 | Name of company: | Pacific Bookstores |
 |---|---|
 | Contact: | 9048 1670 |
-| Opening Hours:   | Monday to  Friday - 8.30am to 3.00pm<br><br>(Lunchtime 12.00 noon to 1.00pm) |
+| Opening Hours: | Monday to  Friday - 8.30am to 3.00pm<br><br>(Lunchtime 12.00 noon to 1.00pm) |
 | Website |  [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/) |
-|
 
 Should you need to purchase school books/uniforms for your child/ward , you may enter the school between 2.00pm to 3.00pm to visit the bookshop.
 
-### **2024 Booklist**
+#### **Year-End Book Sales**
+
+**Home Delivery**
+<br>Website Launch Date: 06/11/2023
+<br>Website Closing Date: 15/12/2023 (Subject to slot availability)
+<br>Please purchase online at [www.pacificbookstores.com](www.pacificbookstores.com).
+<br>Payment via VISA/ MASTERCARD/ Debit Cards/ PayNow. Delivery charge of $14.60 applies.
+
+**Self Collection**
+<br>You are welcome to place your order online via our website: www.pacificbookstores.com. Self-Collection can only be done at the school during the allocated time slot.
+<br>Payment is required upon order via VISA / MASTERCARD / Debit Cards/ PayNow.
+
+**Walk-In Sales**
+<br>You may purchase from the school bookshop on the dates stated below. Please take note that there may be a long queue and longer waiting time may be expected.
+<br>Payment Modes accepted : Cash, PayNow(Scan QR code), NTUC CARE FUND (E-VOUCHER) &amp; CDAC (E-VOUCHER).
+<br>***Please note that cheque payments are not accepted.***<br>
+| Date | Day | Level(s) || Date | Day | Level(s) || Date | Day | Level(s) ||
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|22/11/2023 | Wed | P2 &amp; P3 || 07/12/2023 | Thu | P4 &amp; P5 || 20/12/2023 | Wed | All Levels ||
+|24/11/2023 | Fri | P2 &amp; P3 || 08/12/2023 | Fri | P4 &amp; P5 || 21/12/2023 | Thu | All Levels ||
+|28/11/2023 | Tue | P2 &amp; P3 || 13/12/2023 | Wed | P1 &amp; P6 || 22/12/2023 | Fri | FAS for P1 &amp; P4 Only ||
+|29/11/2023 | Wed | P2 &amp; P3 || 14/12/2023 | Thu | P1 &amp; P6 | |26/12/2023 | Tue | FAS for P2 &amp; P5 Only ||
+|30/11/2023 | Thu | P4 &amp; P5 || 15/12/2023 | Fri | P1 &amp; P6 || 27/12/2023 | Wed | FAS for P3 &amp; P6 Only ||
+|06/12/2023 | Wed | P4 &amp; P5 || 19/12/2023 | Tue | All Levels||||||
+
+<br>Operating Hours: Mon-Fri: 9am to 3pm
+<br>Lunch time : 12.00pm - 1.00pm
+<br>**"Schedule subject to changes due to actual PSLE results release"**
+<br>Sale of Textbooks is ONLY available in schools.
+<br>Bookshop Tel: 90481670 (Mon - Fri) 9.00am - 3pm
+<br>Books supplied by Pacific Bookstores Pte Ltd. Tel: 69298012 Email: sales@pacificbookstores.com
+<br>Same Selling Date For Bookshop and Uniform Shop
+
+#### **2024 Booklist**
 
 | Level | Booklist |
 |---|---|
@@ -26,5 +58,3 @@ Should you need to purchase school books/uniforms for your child/ward , you may 
 |Primary 4| [Primary 4 Booklist ](/files/2024%20Booklist/P4.pdf)|
 |Primary 5|[Primary 5 Booklist (for 5A to 5E)](/files/2024%20Booklist/P5A_5E.pdf) <br> [Primary 5 Booklist (for 5F)](/files/2024%20Booklist/P5F.pdf)<br>[Primary 5 Booklist (for Foundation)](/files/2024%20Booklist/P5__FDN_.pdf)|
 |Primary 6| [Primary 6 Booklist (for 6A)](/files/2024%20Booklist/P6A.pdf)<br>[Primary 6 Booklist (for 6B)](/files/2024%20Booklist/P6B.pdf)<br>[Primary 6 Booklist (for 6C)](/files/2024%20Booklist/P6C.pdf)<br>[Primary 6 Booklist (for 6D)](/files/2024%20Booklist/P6D.pdf)<br>[Primary 6 Booklist (for 6E)](/files/2024%20Booklist/P6E.pdf)<br>[Primary 6 Booklist (for 6F)](/files/2024%20Booklist/P6F.pdf)<br>[Primary 6 Booklist (for Foundation)](/files/2024%20Booklist/P6__FDN_.pdf)|
-
-
