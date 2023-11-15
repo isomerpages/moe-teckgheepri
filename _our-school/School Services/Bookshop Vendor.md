@@ -29,7 +29,7 @@ Should you need to purchase school books/uniforms for your child/ward , you may 
 |---|
 |You may purchase from the school bookshop on the dates stated below. Please take note that there may be a long queue and longer waiting time may be expected.<br>Payment Modes accepted : Cash, PayNow(Scan QR code), NTUC CARE FUND (E-VOUCHER) &amp; CDAC (E-VOUCHER).<br>***Please note that cheque payments are not accepted.***|<br><br>
 
-![](/images/bookshop_open.jpg)
+![](/images/YE_Bookshop.jpg)
 
 |Operating Hours|
 |---|
