@@ -3,16 +3,17 @@ title: Briefing Slides
 permalink: /extended-family/for-parents/briefing-slides/
 description: ""
 third_nav_title: For Parents
+variant: markdown
 ---
 ### **Briefing Slides**
-#### **Primary 1 2023 Orientation/ TGPS Experience (Tue, 22 Nov 2022)**
+#### **Primary 1 2024 Orientation/ TGPS Experience (Tue, 21 Nov 2023)**
 Dear Parents/ Guardians,
 
 Please refer to the attachment below for the briefing slides.
 
 Thank you.
 
-[22 Nov 2022 P1 2023 Orientation Slides.pdf](/files/p1orientation.pdf)
+[21 Nov 2023 P1 2024 Orientation Slides.pdf](/files/21_Nov_2023_P1_2024_Orientation_Slides.pdf)
 
 #### **Parents Gateway Mobile App**
 Parents Gateway is an initiative by MOE to enable parents to interact with schools more conveniently on administrative matters. Parents will also be able to use this app to stay updated on school’s programme and activities.  
@@ -21,5 +22,5 @@ We would like to invite you to download the free Parents Gateway mobile app on y
 
 [Installation Instructions Guide](/files/parentsgateway.pdf)<br>
 [Download for IOS](https://itunes.apple.com/sg/app/parents-gateway/id1267198708?mt=8)<br>
-[Download for Android](https://play.google.com/store/apps/details?id=com.moe.pgp&hl=en_SG)<br>
+[Download for Android](https://play.google.com/store/apps/details?id=com.moe.pgp&amp;hl=en_SG)<br>
 [FAQs](/files/faq.pdf)
