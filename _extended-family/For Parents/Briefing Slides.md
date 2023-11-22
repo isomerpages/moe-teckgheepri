@@ -15,6 +15,7 @@ Thank you.
 
 [21 Nov 2023 P1 2024 Orientation Slides.pdf](/files/21_Nov_2023_P1_2024_Orientation_Slides.pdf)
 
+
 #### **Parents Gateway Mobile App**
 Parents Gateway is an initiative by MOE to enable parents to interact with schools more conveniently on administrative matters. Parents will also be able to use this app to stay updated on school’s programme and activities.  
   
