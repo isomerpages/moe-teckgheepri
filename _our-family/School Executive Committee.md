@@ -2,16 +2,17 @@
 title: School Executive Committee
 permalink: /our-family/school-executive-committee/
 description: ""
+variant: markdown
 ---
 ### **School Executive Committee**
 #### **School Leaders**
 
-![sl](/images/Staff%20photos%202022/sl%20less%20than%205mb.jpg)
+
 
 |  |  |
 |---|---|
-| **Principal**  | **Mr Wong Jia Wang**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
-| **Vice Principal**   | **Mdm Raps Azrinah**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
+| **Principal**  | **Ms Rezia Rahumathullah**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
+| **Vice Principal**   | **Mrs Celia Lau**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
 | **Vice Principal**  | **Mr Tan Chuan Yang**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
 |
 
@@ -37,7 +38,7 @@ description: ""
 | **Subject Head(SH)**<br>Student Leadership and VIA| **Mdm Wong Cai Ping**<br>[wong_cai_ping@moe.edu.sg](wong_cai_ping@moe.edu.sg) |
 | **Subject Head(Covering)**<br>Student Well-Being  | **Mdm Nurhedayu**<br>[nurhedayu_a@moe.edu.sg](nurhedayu_a@moe.edu.sg) |
 | **Year Head(YH)**<br>Primary 1 &amp; 2| **Ms Soh Shi Ting**<br>[soh_shi_ting@moe.edu.sg](soh_shi_ting@moe.edu.sg) |
-| **Year Head(YH)**<br>Primary 3 &amp; 4| **Mrs Anna Koh**<br>[anna_wang_siew_peng@moe.edu.sg](anna_wang_siew_peng@moe.edu.sg) |
+| **Year Head(YH)**<br>Primary 3 &amp; 4| **Ms Agnes Tan**<br>[tan_lee_choo_a@moe.edu.sg](tan_lee_choo_a@moe.edu.sg) |
 | **Year Head(YH)**<br>Primary 5 &amp; 6| **Mrs Lydia Lye**<br>[goh_sio_noi_lydia@moe.edu.sg](goh_sio_noi_lydia@moe.edu.sg) |
 | **Assistant Year Head(AYH)**<br>Primary 1 &amp; 2| **Mrs Valerie Heng**<br>[tan_sock_tze@moe.edu.sg](tan_sock_tze@moe.edu.sg) |
 | **Assistant Year Head(AYH)**<br>Primary 3 &amp; 4| **Ms Liu Xianglin**<br>[liu_xianglin@moe.edu.sg](liu_xianglin@moe.edu.sg) |
