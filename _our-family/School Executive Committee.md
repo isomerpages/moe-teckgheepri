@@ -12,7 +12,7 @@ variant: markdown
 |  |  |
 |---|---|
 | **Principal**  | **Ms Rezia Rahumathullah**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg) |
-| **Vice Principal**   | **Mdm Choh Thian Jeng Celia**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
+| **Vice Principal**   | **Mrs Celia Lau**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
 | **Vice Principal**  | **Mr Tan Chuan Yang**<br>[tgps@moe.edu.sg](mailto:tgps@moe.edu.sg)  |
 |
 
