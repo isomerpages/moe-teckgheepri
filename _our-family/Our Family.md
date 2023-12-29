@@ -11,7 +11,7 @@ variant: markdown
 
 #### **School Executive Committee**
 
-
+![](/images/Staff%20photos%202022/sec%20less%20than%205mb.jpg)
 
 #### **Student Development Team**
 
