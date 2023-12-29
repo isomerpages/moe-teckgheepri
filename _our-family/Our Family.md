@@ -15,7 +15,7 @@ variant: markdown
 
 #### **Student Development Team**
 
-To be updated
+![](/images/Staff%20photos%202022/sdt%20less%20than%205mb.jpg)
 
 #### **Teacher Leaders**
 
