@@ -11,7 +11,7 @@ variant: markdown
 
 #### **School Executive Committee**
 
-To be updated
+
 
 #### **Student Development Team**
 
