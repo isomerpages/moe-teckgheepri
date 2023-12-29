@@ -2,6 +2,7 @@
 title: Our Family
 permalink: /our-family/teaching-staff/permalink/
 description: ""
+variant: markdown
 ---
 ### **Our Family**
 #### **All Staff**
@@ -10,11 +11,11 @@ description: ""
 
 #### **School Executive Committee**
 
-![SEC](/images/Staff%20photos%202022/sec%20less%20than%205mb.jpg)
+To be updated
 
 #### **Student Development Team**
 
-![SDT](/images/Staff%20photos%202022/Staff%20photos%20no%20year/sdt%20less%20than%205mb.jpg)
+To be updated
 
 #### **Teacher Leaders**
 
