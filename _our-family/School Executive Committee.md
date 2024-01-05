@@ -20,29 +20,29 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Head of Department (HOD)**<br>English Language | **Mrs Azlina Suhaimi**<br>[azlina_mohd_nor@moe.edu.sg](azlina_mohd_nor@moe.edu.sg) |
-| **Head of Department (HOD)**<br>Mathematics | **Mrs Eileen Low**<br>[chong_mun_yee_eileen@moe.edu.sg](chong_mun_yee_eileen@moe.edu.sg) |
-| **Head of Department (HOD)**<br>Science | **Mr Tan Kian Tee**<br>[tan_kian_tee@moe.edu.sg](tan_kian_tee@moe.edu.sg) |
-| **Head of Department (HOD)**<br>Mother Tongue Languages | **Ms Lim Poh Khim**<br>[lim_poh_khim@moe.edu.sg](lim_poh_khim@moe.edu.sg) |
-| **Head of Department (HOD)**<br>PE/CCA/Aesthetics | **Mrs Esther Lee**<br>[goh_liang_moy_esther@moe.edu.sg](goh_liang_moy_esther@moe.edu.sg) |
-| **Head of Department (HOD)**<br>Information &amp; Communication Technology (ICT) | **Mdm Cann Yong**<br>[yong_pau_khim@moe.edu.sg](yong_pau_khim@moe.edu.sg) |
-| **School Staff Developer (SSD)** | **Ms Eu Cheng Joo**<br>[eu_cheng_joo@moe.edu.sg](eu_cheng_joo@moe.edu.sg) |
+| **Head of Department (HOD)**<br>English Language | **Mrs Azlina Suhaimi**<br>[azlina_mohd_nor@moe.edu.sg](mailto:azlina_mohd_nor@moe.edu.sg) |
+| **Head of Department (HOD)**<br>Mathematics | **Mrs Eileen Low**<br>[chong_mun_yee_eileen@moe.edu.sg](mailto:chong_mun_yee_eileen@moe.edu.sg) |
+| **Head of Department (HOD)**<br>Science | **Mr Tan Kian Tee**<br>[tan_kian_tee@moe.edu.sg](mailto:tan_kian_tee@moe.edu.sg) |
+| **Head of Department (HOD)**<br>Mother Tongue Languages | **Ms Lim Poh Khim**<br>[lim_poh_khim@moe.edu.sg](mailto:lim_poh_khim@moe.edu.sg) |
+| **Head of Department (HOD)**<br>PE/CCA/Aesthetics | **Mrs Esther Lee**<br>[goh_liang_moy_esther@moe.edu.sg](mailto:goh_liang_moy_esther@moe.edu.sg) |
+| **Head of Department (HOD)**<br>Information &amp; Communication Technology (ICT) | **Mdm Cann Yong**<br>[yong_pau_khim@moe.edu.sg](mailto:yong_pau_khim@moe.edu.sg) |
+| **School Staff Developer (SSD)** | **Ms Eu Cheng Joo**<br>[eu_cheng_joo@moe.edu.sg](mailto:eu_cheng_joo@moe.edu.sg) |
 |
 
 #### **Student Development Team**
 
 |  |  |
 |---|---|
-| **Head of Department(HOD)**<br>Student Management| **Mr Mohamed Fadzil**<br>[mohamed_fadzil_mustapha@moe.edu.sg](mohamed_fadzil_mustapha@moe.edu.sg) |
-| **Head of Department(HOD)**<br>Character &amp; Citizenship Education(CCE)| **Ms Anushia Devi**<br>[anushia_devi_balachandran@moe.edu.sg](anushia_devi_balachandran@moe.edu.sg) |
-| **Subject Head(SH)**<br>Student Leadership and VIA| **Mdm Wong Cai Ping**<br>[wong_cai_ping@moe.edu.sg](wong_cai_ping@moe.edu.sg) |
-| **Subject Head(Covering)**<br>Student Well-Being  | **Mdm Nurhedayu**<br>[nurhedayu_a@moe.edu.sg](nurhedayu_a@moe.edu.sg) |
-| **Year Head(YH)**<br>Primary 1 &amp; 2| **Ms Soh Shi Ting**<br>[soh_shi_ting@moe.edu.sg](soh_shi_ting@moe.edu.sg) |
-| **Year Head(YH)**<br>Primary 3 &amp; 4| **Ms Agnes Tan**<br>[tan_lee_choo_a@moe.edu.sg](tan_lee_choo_a@moe.edu.sg) |
-| **Year Head(YH)**<br>Primary 5 &amp; 6| **Mrs Lydia Lye**<br>[goh_sio_noi_lydia@moe.edu.sg](goh_sio_noi_lydia@moe.edu.sg) |
-| **Assistant Year Head(AYH)**<br>Primary 1 &amp; 2| **Mrs Valerie Heng**<br>[tan_sock_tze@moe.edu.sg](tan_sock_tze@moe.edu.sg) |
-| **Assistant Year Head(AYH)**<br>Primary 3 &amp; 4| **Ms Liu Xianglin**<br>[liu_xianglin@moe.edu.sg](liu_xianglin@moe.edu.sg) |
-| **Assistant Year Head(AYH)**<br>Primary 5 &amp; 6| **Mr Brandon Lee**<br>[lee_chin_eng@moe.edu.sg](lee_chin_eng@moe.edu.sg) |
+| **Head of Department(HOD)**<br>Student Management| **Mr Mohamed Fadzil**<br>[mohamed_fadzil_mustapha@moe.edu.sg](mailto:mohamed_fadzil_mustapha@moe.edu.sg) |
+| **Head of Department(HOD)**<br>Character &amp; Citizenship Education(CCE)| **Ms Anushia Devi**<br>[anushia_devi_balachandran@moe.edu.sg](mailto:anushia_devi_balachandran@moe.edu.sg) |
+| **Subject Head(SH)**<br>Student Leadership and VIA| **Mdm Wong Cai Ping**<br>[wong_cai_ping@moe.edu.sg](mailto:wong_cai_ping@moe.edu.sg) |
+| **Subject Head(Covering)**<br>Student Well-Being  | **Mdm Nurhedayu**<br>[nurhedayu_a@moe.edu.sg](mailto:nurhedayu_a@moe.edu.sg) |
+| **Year Head(YH)**<br>Primary 1 &amp; 2| **Ms Soh Shi Ting**<br>[soh_shi_ting@moe.edu.sg](mailto:soh_shi_ting@moe.edu.sg) |
+| **Year Head(YH)**<br>Primary 3 &amp; 4| **Ms Agnes Tan**<br>[tan_lee_choo_a@moe.edu.sg](mailto:tan_lee_choo_a@moe.edu.sg) |
+| **Year Head(YH)**<br>Primary 5 &amp; 6| **Mrs Lydia Lye**<br>[goh_sio_noi_lydia@moe.edu.sg](mailto:goh_sio_noi_lydia@moe.edu.sg) |
+| **Assistant Year Head(AYH)**<br>Primary 1 &amp; 2| **Mrs Valerie Heng**<br>[tan_sock_tze@moe.edu.sg](mailto:tan_sock_tze@moe.edu.sg) |
+| **Assistant Year Head(AYH)**<br>Primary 3 &amp; 4| **Ms Liu Xianglin**<br>[liu_xianglin@moe.edu.sg](mailto:liu_xianglin@moe.edu.sg) |
+| **Assistant Year Head(AYH)**<br>Primary 5 &amp; 6| **Mr Brandon Lee**<br>[lee_chin_eng@moe.edu.sg](mailto:lee_chin_eng@moe.edu.sg) |
 |
 
 
@@ -54,12 +54,12 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Level Head (LH)**<br>English Language | **Mrs Melissa Seah**<br>[wong_rui_ye_melissa@moe.edu.sg](wong_rui_ye_melissa@moe.edu.sg) |
-| **Subject Head (SH)**<br>Mathematics | **Ms Eunice Lim**<br>[lim_zhi_ying_eunice@moe.edu.sg](lim_zhi_ying_eunice@moe.edu.sg) |
-| **Subject Head (SH)**<br>Science | **Mrs Alia Koh**<br>[alia_aziz_alkaff@moe.edu.sg](alia_aziz_alkaff@moe.edu.sg) |
-| **Subject Head (SH)**<br>Chinese Language | **Ms Kelly Ng**<br>[ng_minlin_kelly@moe.edu.sg](ng_minlin_kelly@moe.edu.sg) |
-| **Level Head (LH)**<br>Information &amp; Communication Technology (ICT) | **Ms Alexis Tung**<br>[tung_ying_zhu_alexis@moe.edu.sg](tung_ying_zhu_alexis@moe.edu.sg) |
-| **Subject Head (Covering)**<br>Aesthetics | **Mrs Sharon Jones**<br>[goh_shang_geok@moe.edu.sg](goh_shang_geok@moe.edu.sg) |
+| **Level Head (LH)**<br>English Language | **Mrs Melissa Seah**<br>[wong_rui_ye_melissa@moe.edu.sg](mailto:wong_rui_ye_melissa@moe.edu.sg) |
+| **Subject Head (SH)**<br>Mathematics | **Ms Eunice Lim**<br>[lim_zhi_ying_eunice@moe.edu.sg](mailto:lim_zhi_ying_eunice@moe.edu.sg) |
+| **Subject Head (SH)**<br>Science | **Mrs Alia Koh**<br>[alia_aziz_alkaff@moe.edu.sg](mailto:alia_aziz_alkaff@moe.edu.sg) |
+| **Subject Head (SH)**<br>Chinese Language | **Ms Kelly Ng**<br>[ng_minlin_kelly@moe.edu.sg](mailto:ng_minlin_kelly@moe.edu.sg) |
+| **Level Head (LH)**<br>Information &amp; Communication Technology (ICT) | **Ms Alexis Tung**<br>[tung_ying_zhu_alexis@moe.edu.sg](mailto:tung_ying_zhu_alexis@moe.edu.sg) |
+| **Subject Head (Covering)**<br>Aesthetics | **Mrs Sharon Jones**<br>[goh_shang_geok@moe.edu.sg](mailto:goh_shang_geok@moe.edu.sg) |
 |
 
 
@@ -68,7 +68,7 @@ variant: markdown
 
 |  |  |
 |---|---|
-| **Administration Manager** | **Mr Garry Tan Wei Min**<br>[tan_wei_min_garry@moe.edu.sg](tan_wei_min_garry@moe.edu.sg) |
-| **Administration Manager** | **Miss Ang Hui Mieng**<br>[ang_hui_mieng@moe.edu.sg](ang_hui_mieng@moe.edu.sg) |
-| **Operations Manager** | **Mr Lee Cheng Koon**<br>[lee_cheng_koon@moe.edu.sg](lee_cheng_koon@moe.edu.sg) |
+| **Administration Manager** | **Mr Garry Tan Wei Min**<br>[tan_wei_min_garry@moe.edu.sg](mailto:tan_wei_min_garry@moe.edu.sg) |
+| **Administration Manager** | **Miss Ang Hui Mieng**<br>[ang_hui_mieng@moe.edu.sg](mailto:ang_hui_mieng@moe.edu.sg) |
+| **Operations Manager** | **Mr Lee Cheng Koon**<br>[lee_cheng_koon@moe.edu.sg](mailto:lee_cheng_koon@moe.edu.sg) |
 |
