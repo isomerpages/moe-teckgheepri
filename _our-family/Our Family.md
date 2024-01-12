@@ -5,13 +5,14 @@ description: ""
 variant: markdown
 ---
 ### **Our Family**
+
 #### **All Staff**
 
 ![All Staff ](/images/Staff%20photos%202022/Staff%20photos%20no%20year/all%20staff%20less%20than%205mb.jpg)
 
 #### **School Executive Committee**
 
-![](/images/Staff%20photos%202022/sec%20less%20than%205mb.jpg)
+![](/images/Staff%20photos%202022/3B5A0424__Cropped_16x9_.jpg)
 
 #### **Student Development Team**
 
