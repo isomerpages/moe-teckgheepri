@@ -1,0 +1,11 @@
+collections:
+  our-family:
+    output: true
+    order:
+      - Our Family.md
+      - School Executive Committee.md
+      - Teacher Leaders.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Teachers.md
+      - Teaching Staff/Allied Educators.md
+      - Non Teaching Staff.md

@@ -1,0 +1,27 @@
+collections:
+  our-experiences:
+    output: true
+    order:
+      - Deep Learning/Deep Learning.md
+      - Deep Learning/English.md
+      - Deep Learning/Mother Tongue.md
+      - Deep Learning/Mathematics.md
+      - Deep Learning/Science.md
+      - Deep Learning/.keep
+      - Positive Education.md
+      - Active and Healthy Living/.keep
+      - Distinctive Programmes/.keep
+      - Distinctive Programmes/Distinctive Programmes.md
+      - Distinctive Programmes/Learn For Life Programme.md
+      - Distinctive Programmes/Applied Learning Programme.md
+      - Distinctive Programmes/Programme for Active Learning.md
+      - Distinctive Programmes/Innovation in TGPS.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Values In Education.md
+      - Student Leadership/Primary 1.md
+      - Student Leadership/Primary 2.md
+      - Student Leadership/Primary 3.md
+      - Student Leadership/Primary 4.md
+      - Student Leadership/Primary 5.md
+      - Student Leadership/Primary 6.md
