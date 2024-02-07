@@ -13,27 +13,8 @@ variant: markdown
 | Opening Hours: | Monday to  Friday - 8.30am to 3.00pm<br><br>(Lunchtime 12.00 noon to 1.00pm) |
 | Website |  [https://www.pacificbookstores.com/](https://www.pacificbookstores.com/) |
 
-Should you need to purchase school books/uniforms for your child/ward , you may enter the school between 2.00pm to 3.00pm to visit the bookshop.
+Should you need to purchase school books/uniforms at the school bookshop, you may enter the school between 2 p.m. and 3 p.m.
 
-#### **Year-End Book Sales**
-
-|**Home Delivery**|
-|---|
-|Website Launch Date: 06/11/2023<br>Website Closing Date: 15/12/2023 (Subject to slot availability)<br>Please purchase online at [www.pacificbookstores.com](www.pacificbookstores.com).<br>Payment via VISA/ MASTERCARD/ Debit Cards/ PayNow. Delivery charge of $14.60 applies.|
-
-|**Self Collection**|
-|---|
-|You are welcome to place your order online via our website: www.pacificbookstores.com. Self-Collection can only be done at the school during the allocated time slot.<br>Payment is required upon order via VISA / MASTERCARD / Debit Cards/ PayNow.|
-
-|**Walk-In Sales**|
-|---|
-|You may purchase from the school bookshop on the dates stated below. Please take note that there may be a long queue and longer waiting time may be expected.<br>Payment Modes accepted : Cash, PayNow(Scan QR code), NTUC CARE FUND (E-VOUCHER) &amp; CDAC (E-VOUCHER).<br>***Please note that cheque payments are not accepted.***|<br><br>
-
-![](/images/YE_Bookshop.jpg)
-
-|Operating Hours|
-|---|
-|Mon-Fri: 9am to 3pm<br>Lunch time : 12.00pm - 1.00pm<br>**"Schedule subject to changes due to actual PSLE results release"**<br>Sale of Textbooks is ONLY available in schools.<br>Bookshop Tel: 90481670 (Mon - Fri) 9.00am - 3pm<br>Books supplied by Pacific Bookstores Pte Ltd. Tel: 69298012 Email: sales@pacificbookstores.com<br>Same Selling Date For Bookshop and Uniform Shop|
 
 #### **2024 Booklist**
 
