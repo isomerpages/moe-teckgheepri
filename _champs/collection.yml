@@ -1,8 +1,8 @@
 collections:
-  active-and-healthy-living:
+  champs:
     output: true
     order:
-      - Active and Healthy Living.md
+      - CHAMPS.md
       - Co Curricular Activities/Sports.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Uniformed Groups.md
