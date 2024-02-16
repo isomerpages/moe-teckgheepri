@@ -13,7 +13,9 @@ Please refer to the attachment below for the briefing slides.
 
 Thank you.
 
-[21 Nov 2023 P1 2024 Orientation Slides.pdf](/files/21_Nov_2023_P1_2024_Orientation_Slides.pdf)
+<div class="google-slides-container">
+	<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTsGvvWkR-waCPKEsLGJK5er_xqZLDW3oK5E0N70h7G5iN2X7ocRjSZd9cxJDe8gNixD7sXxw4g1USa/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+</div>
 
 
 #### **Parents Gateway Mobile App**
