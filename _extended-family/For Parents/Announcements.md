@@ -5,4 +5,20 @@ description: ""
 third_nav_title: For Parents
 variant: tiptap
 ---
-<h3><strong>Announcements</strong></h3><h5><strong>Primary 1 and Primary 2 Assessment Matters</strong></h5><hr><p>Dear Parents/Guardians,</p><p>Please see the attachment on Primary 1 and 2 assessment matters.</p><p>Thank you.</p><p>Regards,</p><p>Instructional Programmes KPs</p><p><a href="/files/P1_2_Assessment_letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P1 P2 Assessment Letter 2024.pdf</a></p><h5><strong>Primary 3 and Primary 5 Assessment Matters</strong></h5><hr><p>Dear Parents/Guardians,</p><p>Please see the attachment on Primary 3 and 5 assessment matters.</p><p>Thank you.</p><p>Regards,</p><p>Instructional Programmes KPs</p><p></p><p><a href="/files/P3_5_Assessment_letter_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P3 P5 Assessment Letter 2024.pdf</a></p><p></p><h5><strong>Primary 4 Assessment Matters</strong></h5><hr><p>Dear Parents/Guardians,</p><p>Please see the attachment on Primary 4 assessment matters.</p><p>Thank you.</p><p>Regards,</p><p>Instructional Programmes KPs</p><p><a href="/files/P4_Assessment_letter_and_Term_1_WA1_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P4 Assessment Letter and T1 WA1 Schedule 2024.pdf</a></p><p></p><h5><strong>Primary 6 Assessment Matters</strong></h5><hr><p>Dear Parents/Guardians,</p><p>Please see the attachment on Primary 6 assessment matters.</p><p>Thank you.</p><p>Regards,</p><p>Instructional Programmes KPs</p><p></p><p><a href="/files/P6_Assessment_letter_and_timed_practice_1_schedule_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">P6 Assessment Letter and Timed Practice 1 Schedule 2024.pdf</a></p><p></p><p></p><p></p>
+<h3><strong>Announcements</strong></h3>
+<h5><strong>2024 Term 2 Parents' Letter</strong></h5>
+<hr>
+<p>Dear Parents/Guardian,</p>
+<p>&nbsp;</p>
+<p>Please find enclosed the 2024 Term 2 Parent’s Letter dated 18 Mar, in
+the attached document.</p>
+<p>&nbsp;Should you need any further clarification, please feel free to contact
+general office @ 64548769 for assistance.</p>
+<p>&nbsp;</p>
+<p>Thank you.</p>
+<p>Yours sincerely,</p>
+<p>Jet Tan</p>
+<p>Vice Principal (Admin)</p>
+<p><a href="/files/2024_Term_2_Letter_to_Parents.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Term 2 Letter to Parents.pdf</a>
+</p>
+<p></p>
