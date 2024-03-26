@@ -6,9 +6,11 @@ variant: tiptap
 third_nav_title: Positive Education
 ---
 <h3><strong>Positive Education</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/positiveedu1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="Pos Ed Overview 2024" src="/images/PosEd_Overview_2024.jpg">
 </div>
+<p></p>
 <p>Positive Education (PosEd) @ TGPS aims to provide holistic development
 of students through positive school experiences, ensuring students' social
 emotional needs are met. Through various strategies, platforms and explicit
