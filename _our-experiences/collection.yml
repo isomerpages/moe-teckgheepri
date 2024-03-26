@@ -2,14 +2,14 @@ collections:
   our-experiences:
     output: true
     order:
-      - Positive Education/Positive Education.md
-      - Positive Education/.keep
+      - Deep Learning/.keep
       - Deep Learning/Deep Learning.md
       - Deep Learning/English.md
       - Deep Learning/Mother Tongue.md
       - Deep Learning/Mathematics.md
       - Deep Learning/Science.md
-      - Deep Learning/.keep
+      - Positive Education/.keep
+      - Positive Education/Positive Education.md
       - Active and Healthy Living/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Distinctive Programmes.md
