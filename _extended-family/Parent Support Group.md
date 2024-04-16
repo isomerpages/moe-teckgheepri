@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /extended-family/parent-support-group/
 description: ""
+variant: markdown
 ---
 ### **Parent Support Group**
 Our School recognizes parents as partners for all collaborative efforts. The Parent Support Group (PSG) helps the school in many ways such as volunteering as Traffic Warden, manning the library, conducting Mathematics workshops, painting murals, helping out in the Learning Support Programme and maintaining orderliness in the canteen during recess.
@@ -19,7 +20,7 @@ The parent’s involvement in the school sends a clear signal to the pupils our 
 <img src="/images/PSG%20LJ.jpg" style="width:85%">
 
 #### **PSG@Work**
-Helping out in  Food from the Heart Donation Drive
+Helping out in&nbsp; Food from the Heart Donation Drive
 
 <img src="/images/psg4.jpg" style="width:85%">
 
@@ -31,4 +32,3 @@ Helping out in Learning Journeys
 
 <img src="/images/psg6.jpg" style="width:85%">
 
-[Click here for our PSG Facebook Page](https://www.facebook.com/groups/349959891688228/?ref=share)
