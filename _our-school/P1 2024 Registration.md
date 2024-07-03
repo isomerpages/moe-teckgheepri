@@ -117,7 +117,12 @@ take place in the various locations.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Getting to Know Teck Ghee Primary Live Webinar</strong></h4>
+<h4><strong>Learning Adventure @ Teck Ghee Primary School</strong></h4>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Get to know about life at Teck Ghee Primary School. Sign up at https://for.edu.sg/learningadventure" src="/images/Photos 2024/httpsfor_edu_sglearningadventure__6_.jpg">
+</div>
 <p></p>
 <h4><strong>P1 Registration Information 2024</strong></h4>
 <p><strong>P1 2024 Registration</strong>
