@@ -29,7 +29,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/deep%20learning.JPG">
 </div>
-<p><a href="https://youtu.be/5QRHN5eNCAs" rel="noopener noreferrer nofollow" target="_blank">Deep Learning (Instructional Programmes)</a>
+<p><a href="https://youtu.be/savqGWzrxRc" rel="noopener noreferrer nofollow" target="_blank">Deep Learning (Instructional Programmes)</a>
 <br>
 <br>We value pupils' learning here in TGPS. Through our instructional programmes,
 we aim to provide our learners with the experiences and skills to nurture
@@ -79,7 +79,7 @@ family and friends beyond their schooling years.</p>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/distinctive%20programmes.JPG">
 </div>
-<p><a href="https://youtu.be/nR1ma-HHaEM" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>
+<p><a href="https://youtu.be/5Jh3V_AOmb8" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>
 <br>
 <br>Our Learn for Life programme (LLP) and Applied Learning Programme (ALP)
 are two of the distinctive programmes in TGPS to bring out the joy of learning
@@ -89,30 +89,6 @@ tomorrow’s leaders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/transiting%20to%20p1.JPG">
-</div>
-<p><a href="https://youtu.be/W0odWThfAjU" rel="noopener noreferrer nofollow" target="_blank">The TGPS Experience – Transiting to Primary 1</a>
-<br>
-<br>Our TGStars will take you on a virtual
-<br>school tour to different parts of the school
-<br>compound. They will share with you how
-<br>learning and playing take place in the
-<br>various locations.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/school%20tour.JPG">
-</div>
-<p><a href="https://youtu.be/dJJIqAnqgzY" rel="noopener noreferrer nofollow" target="_blank">TGPS Virtual School Tour</a>
-<br>
-<br>Our TGStars will take you on a virtual school tour to different parts
-of the school compound. They will share with you how learning and playing
-take place in the various locations.</p>
 </td>
 </tr>
 </tbody>
