@@ -10,7 +10,6 @@ variant: tiptap
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1%202024/sch%20thumb.png">
 </div>
 <p>Click on the thumbnails below to find out more about the various programmes.</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
