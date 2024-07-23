@@ -35,11 +35,8 @@ variant: tiptap
 we aim to provide our learners with the experiences and skills to nurture
 lifelong learners.</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/positive%20education_bts.JPG">
-</div>
-<p><a href="https://youtu.be/s--0GpU78SY" rel="noopener noreferrer nofollow" target="_blank">Positive Education</a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/t4rTVplxuCY"><img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/positive%20education_bts.JPG"></a>
+<p><a href="https://youtu.be/t4rTVplxuCY" rel="noopener noreferrer nofollow" target="_blank">Positive Education</a>
 <br>
 <br>In TGPS, we place equal emphasis on our TGStars' social and emotional
 learning, just like how we value teaching and learning. We believe in educating
