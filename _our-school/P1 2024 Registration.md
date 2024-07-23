@@ -123,4 +123,4 @@ periods of the respective phases.</p>
 </ol>
 <p>&nbsp;</p>
 <p>Please refer to the MOE website at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
-more information on P1 Registration exercise, phases and key dates</p>
+more information on P1 Registration exercise, phases and key dates.</p>
