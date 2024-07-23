@@ -1,6 +1,6 @@
 ---
 title: P1 2024 Registration
-permalink: /our-school/p1-2023-registration/
+permalink: /our-school/p1-registration/
 description: ""
 variant: tiptap
 ---
@@ -29,17 +29,14 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/deep%20learning.JPG">
 </div>
-<p><a href="https://youtu.be/5QRHN5eNCAs" rel="noopener noreferrer nofollow" target="_blank">Deep Learning (Instructional Programmes)</a>
+<p><a href="https://youtu.be/savqGWzrxRc" rel="noopener noreferrer nofollow" target="_blank">Deep Learning (Instructional Programmes)</a>
 <br>
 <br>We value pupils' learning here in TGPS. Through our instructional programmes,
 we aim to provide our learners with the experiences and skills to nurture
 lifelong learners.</p>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/positive%20education_bts.JPG">
-</div>
-<p><a href="https://youtu.be/s--0GpU78SY" rel="noopener noreferrer nofollow" target="_blank">Positive Education</a>
+<td rowspan="1" colspan="1"><a class="isomer-image-wrapper" href="https://youtu.be/t4rTVplxuCY"><img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/positive%20education_bts.JPG"></a>
+<p><a href="https://youtu.be/t4rTVplxuCY" rel="noopener noreferrer nofollow" target="_blank">Positive Education</a>
 <br>
 <br>In TGPS, we place equal emphasis on our TGStars' social and emotional
 learning, just like how we value teaching and learning. We believe in educating
@@ -79,7 +76,7 @@ family and friends beyond their schooling years.</p>
 <div class="isomer-image-wrapper">
 <img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/distinctive%20programmes.JPG">
 </div>
-<p><a href="https://youtu.be/nR1ma-HHaEM" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>
+<p><a href="https://youtu.be/5Jh3V_AOmb8" rel="noopener noreferrer nofollow" target="_blank">Distinctive Programmes</a>
 <br>
 <br>Our Learn for Life programme (LLP) and Applied Learning Programme (ALP)
 are two of the distinctive programmes in TGPS to bring out the joy of learning
@@ -89,30 +86,6 @@ tomorrow’s leaders.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/transiting%20to%20p1.JPG">
-</div>
-<p><a href="https://youtu.be/W0odWThfAjU" rel="noopener noreferrer nofollow" target="_blank">The TGPS Experience – Transiting to Primary 1</a>
-<br>
-<br>Our TGStars will take you on a virtual
-<br>school tour to different parts of the school
-<br>compound. They will share with you how
-<br>learning and playing take place in the
-<br>various locations.</p>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width:250px;height:150px;" height="auto" width="100%" src="/images/P1%202024/school%20tour.JPG">
-</div>
-<p><a href="https://youtu.be/dJJIqAnqgzY" rel="noopener noreferrer nofollow" target="_blank">TGPS Virtual School Tour</a>
-<br>
-<br>Our TGStars will take you on a virtual school tour to different parts
-of the school compound. They will share with you how learning and playing
-take place in the various locations.</p>
 </td>
 </tr>
 </tbody>
@@ -150,4 +123,4 @@ periods of the respective phases.</p>
 </ol>
 <p>&nbsp;</p>
 <p>Please refer to the MOE website at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
-more information on P1 Registration exercise, phases and key dates</p>
+more information on P1 Registration exercise, phases and key dates.</p>
