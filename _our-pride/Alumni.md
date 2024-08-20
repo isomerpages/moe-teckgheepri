@@ -5,6 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Alumni</strong></h3>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Alumni Visit TGPS 29 August 2024 1045 to 1130" src="/images/Screenshot_2024_08_20_165933.png">
+</div>
+<p>Dear TGPS Alumni,</p>
+<p>We are thrilled to welcome you back to TGPS for Teachers' Day this year!
+You may visit TGPS on Thursday, 29 August, from 1045 to 1130.</p>
+<p>Please remember to come in either your current school uniform or smart
+casual attire with covered shoes.</p>
+<h4></h4>
 <h4><strong>Well-wishes from our Alumni</strong></h4>
 <p></p>
 <p></p>
