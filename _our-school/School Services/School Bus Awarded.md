@@ -13,8 +13,8 @@ via SMS.</p>
 <p>HP: 8501 8842</p>
 <p>Email: <a rel="noopener noreferrer nofollow" target="_blank">bigonetransportation@gmail.com</a>
 </p>
-<p>Period: <a rel="noopener noreferrer nofollow" target="_blank">1 Jan 2025 to 31 Dec 202</a>
-<a href="#_msocom_1" class="msocomanchor" rel="noopener noreferrer nofollow" target="_blank">[YT1]</a>&nbsp;6</p>
+<p>Period: <a rel="noopener noreferrer nofollow" target="_blank">1 Jan 2025 to 31 Dec 2026</a>
+</p>
 <p>Bus fares for daily school bus services by distance</p>
 <table style="minWidth: 125px">
 <colgroup>
