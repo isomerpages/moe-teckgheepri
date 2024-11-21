@@ -11,6 +11,9 @@ variant: tiptap
 </div>
 <p></p>
 <h4><strong>School Executive Committee</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="sec 2024" src="/images/Staff pictures 2024/sec_2024.jpg">
+</div>
 <p></p>
 <h4><strong>Student Development Team</strong></h4>
 <div class="isomer-image-wrapper">
