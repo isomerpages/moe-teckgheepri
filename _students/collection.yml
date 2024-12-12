@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Microsoft 365.md
       - Our School Rules.md
       - Be a TGStar.md
       - Student Learning Space.md
