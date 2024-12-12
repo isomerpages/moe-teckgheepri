@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Announcements.md
       - P1 2024 Registration.md
       - Briefing Slides.md
       - Teaching & Learning.md
