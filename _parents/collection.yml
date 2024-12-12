@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - General Information/Term Letters.md
       - General Information/.keep
       - Forms/.keep
       - Transit Link Hotline.md
