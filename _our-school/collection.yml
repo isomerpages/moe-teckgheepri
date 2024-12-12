@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Be a TGStar.md
       - Principal's Message.md
       - Our TGPS Philosophy.md
       - The TGPS Story.md
@@ -10,6 +9,7 @@ collections:
       - Our Identity/School Crest.md
       - Our Identity/School Song.md
       - Our Identity/School Mascots.md
+      - Be a TGStar.md
       - Primary 1 (P1) registration.md
       - Use of Personal Data.md
       - School Services/.keep
