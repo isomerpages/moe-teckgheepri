@@ -22,7 +22,7 @@ variant: tiptap
 </div>
 <h4><strong>The Story of Persevering Priya</strong></h4>
 <div class="iframe-wrapper">
-<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5kWu_si4VfBaNWH_LpK4vu6s1xiHSPU2XuKWwqMV0KNAbZQglG_llu2ReiD1nQYCIpkT1fZgWby0i/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
+<iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5kWu_si4VfBaNWH_LpK4vu6s1xiHSPU2XuKWwqMV0KNAbZQglG_llu2ReiD1nQYCIpkT1fZgWby0i/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
 <h4><strong>The Story of Sunny</strong></h4>
 <div class="iframe-wrapper">
