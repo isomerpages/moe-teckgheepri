@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - General Information/Student Care Centre.md
       - General Information/Parents Gateway.md
       - General Information/P1 Orientation Briefing Slides.md
       - General Information/Term Letters.md
