@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Non-Teaching Staff</strong></h3>
-<h4><strong>Executive Admin Staff</strong></h4>
+<h4><strong>School Administration Team</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -168,9 +168,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Mr Melvin Tang</strong>
-<br><a href="melvintang@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">melvintang@ncs.com.sg</a> 
-<br><strong>Mr Imran Bin Aminuddin</strong>
+<p><strong>Mr Imran Bin Aminuddin</strong>
 <br><a href="imran.aminuddin@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">imran.aminuddin@ncs.com.sg</a>
 </p>
 </td>
