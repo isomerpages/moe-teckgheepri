@@ -4,7 +4,6 @@ permalink: /our-family/sch-admin-team/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Non-Teaching Staff</strong></h3>
 <h4><strong>School Administration Team</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
