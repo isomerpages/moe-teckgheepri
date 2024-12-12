@@ -1,5 +1,5 @@
 collections:
-  our-experiences:
+  our-departments:
     output: true
     order:
       - Deep Learning/.keep
