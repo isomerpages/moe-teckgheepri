@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Frequently Asked Questions.md
       - For Parents.md
       - Announcements.md
       - P1 2024 Registration.md
