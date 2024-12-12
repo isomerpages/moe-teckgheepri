@@ -4,6 +4,7 @@ permalink: /stop-think-do/
 variant: tiptap
 description: ""
 ---
+<h3>Remember to Stop-Think-Do and our 3 Golden Rules!</h3>
 <h4><strong>Stop-Think-Do</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" src="/images/studentmanagement1.png">
