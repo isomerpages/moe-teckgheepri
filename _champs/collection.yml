@@ -2,7 +2,6 @@ collections:
   champs:
     output: true
     order:
-      - CHAMPS.md
       - Co Curricular Activities/Sports.md
       - Co Curricular Activities/Performing Arts.md
       - Co Curricular Activities/Uniformed Groups.md
