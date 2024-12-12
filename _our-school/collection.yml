@@ -2,6 +2,7 @@ collections:
   our-school:
     output: true
     order:
+      - Distinctive Programmes.md
       - School Advisory Committee.md
       - Principal's Message.md
       - Our TGPS Philosophy.md
