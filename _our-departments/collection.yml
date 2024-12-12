@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development Team/.keep
-      - Student Development Team/Student Management.md
       - Student Development Team/Year Heads.md
       - Student Development Team/Student Leadership.md
       - Student Development Team/CCE and SEN.md
