@@ -2,5 +2,4 @@ collections:
   information-for-students:
     output: true
     order:
-      - Cyber Wellness.md
       - Road Safety.md
