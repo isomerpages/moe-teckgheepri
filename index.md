@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/teckgheepribanner.gif
+      background: /images/homepage_v3.png
       key_highlights:
         - title: Staff
           description: ""
