@@ -2,7 +2,7 @@ logo: /images/teckgheepri.jpg
 links:
   - title: Our School
     collection: our-school
-  - title: Our Experiences
+  - title: Our Departments
     url: /our-experiences/deep-learning/
     sublinks:
       - title: Deep Learning
