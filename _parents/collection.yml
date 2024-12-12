@@ -2,10 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - General Information/Changes in Contact Details.md
       - General Information/.keep
       - General Information/School Curriculum Hours.md
       - General Information/Contacting the Teacher.md
+      - General Information/Changes in Contact Details.md
       - General Information/Permission to Leave Early.md
       - General Information/Guidelines on Videography and Photography.md
       - General Information/PDPA.md
