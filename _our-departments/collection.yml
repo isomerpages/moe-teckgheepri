@@ -2,7 +2,12 @@ collections:
   our-departments:
     output: true
     order:
-      - CCA/.keep
+      - Deep Learning/.keep
+      - Deep Learning/Deep Learning.md
+      - Deep Learning/English.md
+      - Deep Learning/Mother Tongue.md
+      - Deep Learning/Mathematics.md
+      - Deep Learning/Science.md
       - Student Development Team/.keep
       - Student Development Team/Student Management.md
       - Student Development Team/Year Heads.md
@@ -16,17 +21,12 @@ collections:
       - Student Leadership/Primary 4.md
       - Student Leadership/Primary 5.md
       - Student Leadership/Primary 6.md
-      - Deep Learning/.keep
-      - Deep Learning/Deep Learning.md
-      - Deep Learning/English.md
-      - Deep Learning/Mother Tongue.md
-      - Deep Learning/Mathematics.md
-      - Deep Learning/Science.md
+      - PE and Aesthetics/.keep
       - PE and Aesthetics/CHAMPS.md
       - PE and Aesthetics/Physical Education.md
       - PE and Aesthetics/Art.md
       - PE and Aesthetics/Music.md
-      - PE and Aesthetics/.keep
+      - CCA/.keep
       - Distinctive Programmes/.keep
       - Distinctive Programmes/Learn For Life Programme.md
       - Distinctive Programmes/Applied Learning Programme.md
