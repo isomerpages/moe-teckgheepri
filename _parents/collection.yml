@@ -2,7 +2,6 @@ collections:
   parents:
     output: true
     order:
-      - General Information/Update of Particulars.md
       - General Information/School Curriculum Hours.md
       - General Information/Contacting the Teacher.md
       - General Information/.keep
