@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Student iCON.md
       - Information for Parents.md
       - Useful Links.md
       - Operating Hours.md
