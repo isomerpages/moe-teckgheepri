@@ -14,7 +14,7 @@ sections:
           url: https://sites.google.com/a/teckgheepri.edu.sg/start/
         - title: Students
           description: ""
-          url: /for-students/
+          url: /my-school-rules/
         - title: Parents
           description: ""
           url: /school-curriculum-hours/
