@@ -11,7 +11,7 @@ variant: tiptap
 <br>Monday, Wednesday, Friday: 8am to 5pm
 <br>Tuesday and Thursday: 8am to 5.30pm
 <br>Lunch Time: 12.30pm to 1.30pm</p>
-<p>When clinic is CLOSED, pupils who require URGENT dental treatment can
+<p>When clinic is CLOSED, students who require URGENT dental treatment can
 contact the following buddy clinics for assistance, via call or WhatsApp:</p>
 <table style="minWidth: 75px">
 <colgroup>
