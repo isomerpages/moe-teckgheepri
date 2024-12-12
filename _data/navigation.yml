@@ -2,6 +2,8 @@ logo: /images/teckgheepri.jpg
 links:
   - title: Our School
     collection: our-school
+  - title: Our Staff
+    collection: our-staff
   - title: Our Departments
     url: /our-experiences/deep-learning/
     sublinks:
@@ -17,8 +19,6 @@ links:
         url: /our-experiences/student-leadership/
   - title: Our Pride
     collection: our-pride
-  - title: Our Staff
-    collection: our-staff
   - title: Extended Family
     collection: extended-family
   - title: Contact Us
