@@ -10,9 +10,9 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="TGPS Mascots" src="/images/Mascots_12_Dec_2024.png">
 </div>
-<p><em>From Left: Taufik, Gracie, Priya, and Sunny</em>
+<p><em>From Left: Team-spirited Taufik, Gracious Gracie, Persevering Priya, and Self-disciplined Sunny</em>
 </p>
-<h4><strong>A Role Model for Taufik</strong></h4>
+<h4><strong>A Role Model for Team-spirited Taufik</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-11ULaAeo3Y"></iframe>
 </div>
@@ -24,7 +24,7 @@ variant: tiptap
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR5kWu_si4VfBaNWH_LpK4vu6s1xiHSPU2XuKWwqMV0KNAbZQglG_llu2ReiD1nQYCIpkT1fZgWby0i/embed?start=false&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
-<h4><strong>The Story of Sunny</strong></h4>
+<h4><strong>The Story of Self-disciplined Sunny</strong></h4>
 <div class="iframe-wrapper">
 <iframe height="569" width="960" allowfullscreen="true" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRJyR5jHSTDQQV6oJVVrna2T7IZuPAu-Lwees7VBvCxQwKD88-gAxnNjrRIUdBXUqBHLTjDpZjoYgUK/embed?start=true&amp;loop=true&amp;delayms=3000"></iframe>
 </div>
