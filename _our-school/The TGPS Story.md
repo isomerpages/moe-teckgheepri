@@ -45,5 +45,8 @@ goal.</p>
 <p>The pillar with the core values, ‘TGPS’, represents our effort in achieving
 our aspirations. Our core values are <strong>T</strong>eam Spirit, <strong>G</strong>raciousness, <strong>P</strong>erseverance
 and <strong>S</strong>elf-Discipline.</p>
-<p></p>
+<h3><strong>School Song</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="school song" src="/images/school_song.png">
+</div>
 <p></p>
