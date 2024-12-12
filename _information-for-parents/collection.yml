@@ -2,6 +2,7 @@ collections:
   information-for-parents:
     output: true
     order:
+      - Student Care Centre.md
       - Bookshop Vendor.md
       - Uniform Supplier.md
       - School Bus Awarded.md
