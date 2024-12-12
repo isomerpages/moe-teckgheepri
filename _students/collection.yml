@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - My School Rules.md
+      - Our School Rules.md
       - Be a TGStar.md
       - Student Learning Space.md
       - Student ICON.md
