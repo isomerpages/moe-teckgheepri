@@ -12,9 +12,9 @@ Nurturing Tomorrow's Leaders, Today
 
 #### **Mission**
 We are committed to develop all our pupils&nbsp;to become:<br>
-\- Creative thinkers;<br>
-\- Confident communicators;<br>
-\- Lifelong learners;<br>
+\- Creative Thinkers;<br>
+\- Confident Communicators;<br>
+\- Lifelong Learners;<br>
 \- Responsible Citizens
 
 by creating a positive and caring learning community; and working in partnership with stakeholders.
@@ -23,4 +23,4 @@ by creating a positive and caring learning community; and working in partnership
 Team Spirit, Graciousness, Perseverance, Self-Discipline
 
 #### **Motto**
-**'Aspire and Achieve'**&nbsp;urges teachers and pupils to step into the knowledge world and to work towards a common goal.
+**'Aspire and Achieve'**
