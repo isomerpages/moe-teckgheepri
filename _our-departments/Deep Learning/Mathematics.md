@@ -20,22 +20,22 @@ century. Deep Learning of Mathematics is achieved through the skillful
 teaching of concepts, skills and processes and the nurturing of metacognition
 and positive attitudes.</p>
 <h4><strong>Key Programmes</strong></h4>
-<h5><strong>Meaningful experiential and authentic learning</strong></h5>
+<h4><strong>Meaningful experiential and authentic learning</strong></h4>
 <p>Activity-Based lessons are carefully designed to create authentic learning
-experiences for the pupils. The use of visual representations using concrete
+experiences for the students. The use of visual representations using concrete
 manipulatives makes learning a more hands-on learning experience. Learners
 will then be able to understand the pictorial examples by relating to concrete
 examples and apply them to abstract Mathematical concepts.</p>
-<h5><strong>Developing Problem Solvers through Heuristics and Investigative Tasks</strong></h5>
+<h4><strong>Developing Problem Solvers through Heuristics and Investigative Tasks</strong></h4>
 <p>Excel in Heuristics is an in-house heuristics programme designed to equip
 our learners with strategies to solve mathematical problems. Different
-heuristics have been identified at each level to ensure that pupils are
+heuristics have been identified at each level to ensure that students are
 equipped with the necessary skills when doing word problems. Our in-house
 worksheets are deigned by our teachers to cater to the different abilities
-and needs of our pupils. A spiral approach is adopted in the design of
-the programme to ensure that pupils build on their skills over the 6 years
-in Teck Ghee Primary School.</p>
-<h5><strong>Math for all</strong></h5>
+and needs of our students. A spiral approach is adopted in the design of
+the programme to ensure that students build on their skills over the 6
+years in Teck Ghee Primary School.</p>
+<h4><strong>Math for all</strong></h4>
 <p>To cater to the varying abilities and interests of our Math learners,
 TGPS has various carefully curated programmes to build and stretch our
 learners’ abilities.</p>
@@ -50,32 +50,32 @@ learners’ abilities.</p>
 <p>Tinkering with Mathematics Programme</p>
 </li>
 </ul>
-<h5><strong>Differentiated Curriculum</strong></h5>
-<p>P3 to P6 pupils are banded into the various learning groups to allow teachers
-to better customise teaching instructions, resources and activities to
-meet pupils’ needs. Learners with more advanced knowledge and interests
+<h4><strong>Differentiated Curriculum</strong></h4>
+<p>P3 to P6 students are banded into the various learning groups to allow
+teachers to better customise teaching instructions, resources and activities
+to meet students’ needs. Learners with more advanced knowledge and interests
 get to stretch their abilities by engaging in high-order activities while
 others can have the flexibility to learn at their own pace with smaller
-teacher-pupil ratio.</p>
-<h5><strong>Learning Support for Mathematics (LSM)</strong></h5>
+teacher-student ratio.</p>
+<h4><strong>Learning Support for Mathematics (LSM)</strong></h4>
 <p>Our Learning Support for Mathematics programme aims to support selected
-Primary 1 and 2 pupils who have difficulty in basic numeracy. We aim to
-build their confidence and inculcate positive beliefs about their ability
+Primary 1 and 2 students who have difficulty in basic numeracy. We aim
+to build their confidence and inculcate positive beliefs about their ability
 to solve Math problems. The LSM lessons are conducted with smaller sized
-groups to ensure that these pupils receive help in areas that they are
-weak in. This programme will give more opportunities for pupils to experience
+groups to ensure that these students receive help in areas that they are
+weak in. This programme will give more opportunities for students to experience
 success in Mathematics.</p>
-<h5><strong>Tinkering with Mathematics Programme (TMP)</strong></h5>
-<p>The TMP is a Mathematics enrichment programme for selected Primary 4 pupils
+<h4><strong>Tinkering with Mathematics Programme (TMP)</strong></h4>
+<p>The TMP is a Mathematics enrichment programme for selected Primary 4 students
 who demonstrate interest and ability in Mathematics. It aims to develop
-in pupils mathematical reasoning skills and deepen their conceptual understanding
+in students mathematical reasoning skills and deepen their conceptual understanding
 through an inquiry approach. Under the guidance of our trained teachers,
-pupils will have opportunities to collaborate with their peers and engage
+students will have opportunities to collaborate with their peers and engage
 in mathematical thinking through resources such as puzzles, games and mathematics
 explorations which are specially designed for the programme. The rich learning
-experiences offered by the programme serve to help pupils to develop the
-habits, attitudes and dispositions mathematicians possess, as well as to
-gain important 21st century competencies such as critical and inventive
+experiences offered by the programme serve to help students to develop
+the habits, attitudes and dispositions mathematicians possess, as well
+as to gain important 21st century competencies such as critical and inventive
 thinking and effective communication skills.</p>
 <div class="isomer-image-wrapper">
 <img style="width:70%" height="auto" width="100%" src="/images/deeplearningmath1.jpg">
