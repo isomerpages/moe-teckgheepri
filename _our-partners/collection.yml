@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - For Parents/.keep
-      - For Parents/For Parents.md
       - Parent Support Group.md
