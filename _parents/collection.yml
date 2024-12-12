@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - General Information/Permission to Leave Early.md
       - General Information/Guidelines on Videography and Photography.md
       - General Information/School Bus Awarded.md
       - General Information/Bookshop Vendor.md
