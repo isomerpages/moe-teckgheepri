@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Student Development Team/.keep
-      - Student Development Team/Character & Citizenship Education.md
       - Deep Learning/.keep
       - Deep Learning/Deep Learning.md
       - Deep Learning/English.md
