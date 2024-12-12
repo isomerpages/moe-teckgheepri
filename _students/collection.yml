@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Stop Think Do.md
       - Road Safety.md
       - Cyber Wellness.md
       - Tinkle Friends.md
