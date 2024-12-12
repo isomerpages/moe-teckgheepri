@@ -9,10 +9,13 @@ sections:
   - hero:
       background: /images/teckgheepribanner.gif
       key_highlights:
-        - title: What's New
+        - title: Parents
           description: ""
-          url: /whatsnew/
-        - title: EZ-Links
+          url: /for-parents/
+        - title: Students
           description: ""
-          url: /ez-links/
+          url: /for-students/
+        - title: Staff
+          description: ""
+          url: /for-staff/
 ---
