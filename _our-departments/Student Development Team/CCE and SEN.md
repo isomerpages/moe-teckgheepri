@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development Team
 ---
+<h1>CCE and SEN</h1>
 <h4><strong>Sexuality Education Programme</strong></h4>
 <h3><strong>MOE Sexuality Education in Schools</strong></h3>
 <p>&nbsp;1.&nbsp;Sexuality Education (SEd) in schools aims to enable students
