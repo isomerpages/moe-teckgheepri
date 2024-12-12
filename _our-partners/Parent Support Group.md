@@ -5,11 +5,17 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
-<p>Our School recognizes parents as partners for all collaborative efforts.
-The Parent Support Group (PSG) helps the school in many ways such as volunteering
-as Traffic Warden, manning the library, conducting Mathematics workshops,
-painting murals, helping out in the Learning Support Programme and maintaining
-orderliness in the canteen during recess.</p>
+<p>At Teck Ghee Primary School, our parent volunteers have been a source
+of inspiration. Their dedication has enriched numerous school events, fostering
+a sense of joy and unity among students, teachers, and families. Their
+exceptional efforts during Teachers' Day created memorable experiences
+in honoring our educators. They also played a vital role in key programmes
+like the NAPFA Test and SwimSafer, supporting our students with care and
+enthusiasm. Their commitment to our Food Donation Drive further displayed
+their compassion for those in need. Beyond their official duties, they
+invested time in building strong relationships and fostering camaraderie.
+We are deeply grateful for their unwavering support and the positive impact
+they have made on our school and community.</p>
 <h4><strong>PSG Logo</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:25%" height="auto" width="100%" src="/images/psg1.jpg">
