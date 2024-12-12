@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Staff
           description: ""
-          url: /for-staff/
+          url: https://sites.google.com/a/teckgheepri.edu.sg/start/
         - title: Students
           description: ""
           url: /for-students/
