@@ -2,7 +2,7 @@ collections:
   our-school:
     output: true
     order:
-      - Student Recognition Framework.md
+      - Be a TGStar.md
       - Principal's Message.md
       - Our TGPS Philosophy.md
       - The TGPS Story.md
