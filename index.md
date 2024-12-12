@@ -17,5 +17,5 @@ sections:
           url: /for-students/
         - title: Parents
           description: ""
-          url: /for-parents/
+          url: /school-curriculum-hours/
 ---
