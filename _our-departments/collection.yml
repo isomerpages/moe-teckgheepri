@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Student Development Team/Student Management.md
       - Student Development Team/.keep
       - Student Development Team/Year Heads.md
       - Student Development Team/Student Leadership.md
