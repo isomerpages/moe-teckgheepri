@@ -2,9 +2,10 @@ collections:
   parents:
     output: true
     order:
-      - General Information/PDPA.md
+      - General Information/.keep
       - General Information/Permission to Leave Early.md
       - General Information/Guidelines on Videography and Photography.md
+      - General Information/PDPA.md
       - General Information/School Bus Awarded.md
       - General Information/Bookshop Vendor.md
       - General Information/Uniform Supplier.md
@@ -12,7 +13,6 @@ collections:
       - General Information/Student Care Centre.md
       - General Information/Parents Gateway.md
       - General Information/Term Letters.md
-      - General Information/.keep
       - Forms/.keep
       - Transit Link Hotline.md
       - P1 Registration.md
