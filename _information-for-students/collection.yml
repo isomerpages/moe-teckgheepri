@@ -1,5 +1,4 @@
 collections:
   information-for-students:
     output: true
-    order:
-      - Road Safety.md
+    order: []
