@@ -2,6 +2,7 @@ collections:
   our-departments:
     output: true
     order:
+      - Character & Citizenship Ed/.keep
       - Character & Citizenship Education.md
       - Student Development.md
       - Deep Learning/.keep
