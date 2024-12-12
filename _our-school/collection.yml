@@ -2,17 +2,17 @@ collections:
   our-school:
     output: true
     order:
-      - Distinctive Programmes.md
-      - School Advisory Committee.md
       - Principal's Message.md
       - Our TGPS Philosophy.md
       - The TGPS Story.md
+      - School Advisory Committee.md
       - Our Identity/.keep
       - Our Identity/School Crest.md
       - Our Identity/School Song.md
       - Our Identity/School Mascots.md
       - Our Identity/Be a TGStar.md
       - Primary 1 (P1) registration.md
+      - Distinctive Programmes.md
       - Use of Personal Data.md
       - School Services/.keep
       - School Services/Operating Hours.md
