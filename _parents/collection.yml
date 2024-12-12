@@ -2,7 +2,7 @@ collections:
   parents:
     output: true
     order:
-      - Forms/.keep
       - General Information/.keep
+      - Forms/.keep
       - Transit Link Hotline.md
       - P1 Registration.md
