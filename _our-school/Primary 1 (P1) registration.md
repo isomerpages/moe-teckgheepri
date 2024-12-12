@@ -4,7 +4,7 @@ permalink: /our-school/p1-registration/
 description: ""
 variant: tiptap
 ---
-<h3><strong>P1 2024 Registration</strong></h3>
+<h3><strong>Primary 1 (P1) registration</strong></h3>
 <h4><strong>Getting to know TGPS</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/P1%202024/sch%20thumb.png">
