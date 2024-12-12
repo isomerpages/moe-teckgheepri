@@ -2,5 +2,4 @@ collections:
   champs:
     output: true
     order:
-      - Co Curricular Activities/Sports.md
       - Co Curricular Activities/.keep
