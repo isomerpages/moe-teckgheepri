@@ -2,7 +2,6 @@ collections:
   our-school:
     output: true
     order:
-      - Media.md
       - Principal's Message.md
       - Our TGPS Philosophy.md
       - The TGPS Story.md
@@ -15,3 +14,4 @@ collections:
       - Primary 1 (P1) registration.md
       - Distinctive Programmes.md
       - Use of Personal Data.md
+      - Media.md
