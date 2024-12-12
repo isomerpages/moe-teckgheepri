@@ -9,13 +9,13 @@ sections:
   - hero:
       background: /images/teckgheepribanner.gif
       key_highlights:
-        - title: Parents
-          description: ""
-          url: /for-parents/
-        - title: Students
-          description: ""
-          url: /for-students/
         - title: Staff
           description: ""
           url: /for-staff/
+        - title: Students
+          description: ""
+          url: /for-students/
+        - title: Parents
+          description: ""
+          url: /for-parents/
 ---
