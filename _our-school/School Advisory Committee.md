@@ -9,7 +9,7 @@ variant: tiptap
 operational. The members comprises of professionals, businessmen, parents
 of our pupils, members from parent support group and grassroot leaders.
 They are most supportive and willing to render their resources and professional
-expertise to support school programmes. They also help our needy pupils
+expertise to support school programmes. They also help our needy students
 financially. The Committee members are also always there to grace our important
 school functions and celebrations, such as Open House, National Day Celebrations
 and Teachers' Day Celebrations .</p>
