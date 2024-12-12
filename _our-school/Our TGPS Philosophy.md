@@ -23,4 +23,4 @@ by creating a positive and caring learning community; and working in partnership
 Team Spirit, Graciousness, Perseverance, Self-Discipline
 
 #### **Motto**
-**'Aspire and Achieve'**
+**Aspire and Achieve**
