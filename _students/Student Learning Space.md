@@ -17,5 +17,15 @@ purposeful use of technology.</p>
 </p>
 <p></p>
 <h4>How do I login?</h4>
-<h4></h4>
+<p>You can refer to the login guide here: <a href="/files/SLS_Account_Management___Guide_for_Students__Pri_.pdf" rel="noopener nofollow" target="_blank">SLS Account Management Guide for Students Pri.pdf</a>
+</p>
 <p></p>
+<h4>How do I use SLS?</h4>
+<p>You can refer to the <a href="https://www.learning.moe.edu.sg/students/" rel="noopener nofollow" target="_blank">student guide</a>.</p>
+<p></p>
+<h4>I still have issues logging into SLS</h4>
+<p>If you have failed to login twice or are locked out of the system, inform
+your form teacher(s) or subject teacher(s) so that they could reset the
+password for you.</p>
+<p>Alternatively, you may call the school at 6454 8769 or send an email to
+<a href="mailto:tgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tgps@moe.edu.sg</a>.</p>
