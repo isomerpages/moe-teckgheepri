@@ -49,7 +49,7 @@ and <strong>communicate effectively</strong> in the 21st century and</p>
 <img style="width:55%;margin-right:15px;" height="auto" width="100%" src="/images/art.png">
 </div>
 <p>In TGPS, we follow the Art Syllabus Framework above. Some broad learning
-areas that our pupils go through in their 6-year artistic journey are:
+areas that our students go through in their 6-year artistic journey are:
 <br>- Drawing
 <br>- Painting
 <br>- Ceramics
