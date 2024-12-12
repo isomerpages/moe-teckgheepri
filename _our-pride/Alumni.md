@@ -76,7 +76,7 @@ and therefore, beautiful memories from my primary school days.</p>
 <p><strong>Character Building @ TGPS</strong>
 <br>Team Spirit, Graciousness, Perseverance and Self-discipline - throughout
 my 6 years in TGPS, these 4 values have been repeated over and over to
-the students.They are inculcated in all Teck Ghee pupils since they first
+the students.They are inculcated in all Teck Ghee students since they first
 enter the school as Primary One students. Even after graduating from Primary
 School, these are still the values that I abide by unwaveringly. They have
 helped me through my toughest times, pushed me to develop myself as a leader
@@ -195,7 +195,7 @@ I am today.</p>
 <img style="width:30%;margin-right:15px;" height="auto" width="100%" src="/images/alumni5.jpg">
 </div>
 <p><strong>Nur Afiqah Bte Ahmad</strong>
-<br>Afiqah is a pupil with exceptional grit. In spite of her family's financial
+<br>Afiqah is a student with exceptional grit. In spite of her family's financial
 difficulty, she continued to explore different ways to learn, without any
 tuition. She made it a point to learn on her own.</p>
 <p>
@@ -206,7 +206,7 @@ books, visualized her answers and cross-checked them with the answers found
 at the back of the books. She was able to stay focus at all times, even
 when she needed to help out with family chores. She was also able to balance
 her intensive choir practices and her studies.</p>
-<p>Finally, Afiqah aced her examinations and emerged as the top Malay pupil
+<p>Finally, Afiqah aced her examinations and emerged as the top Malay student
 in school for 2013 Primary School Leaving Examinations. Because of her
 exceptional performance, she was placed into the Integrated Programme (IP)
 of Cedar Girls’ Secondary School.</p>
