@@ -31,7 +31,7 @@ variant: tiptap
 </div>
 <p><a href="https://youtu.be/savqGWzrxRc" rel="noopener noreferrer nofollow" target="_blank">Deep Learning (Instructional Programmes)</a>
 <br>
-<br>We value pupils' learning here in TGPS. Through our instructional programmes,
+<br>We value students' learning here in TGPS. Through our instructional programmes,
 we aim to provide our learners with the experiences and skills to nurture
 lifelong learners.</p>
 </td>
@@ -42,7 +42,7 @@ lifelong learners.</p>
 learning, just like how we value teaching and learning. We believe in educating
 the whole child and as such, their development would be holistic. Our signature
 Back to School programme at TGPS is one of the many ways in which we develop
-our pupils in this aspect.</p>
+our students in this aspect.</p>
 </td>
 </tr>
 <tr>
