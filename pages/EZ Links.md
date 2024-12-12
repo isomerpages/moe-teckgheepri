@@ -4,7 +4,7 @@ permalink: /ez-links/
 description: ""
 variant: markdown
 ---
-### **EZ Links**
+### **For Students**
 * [For Parents](/extended-family/for-parents/)
 * [Student Learning Space (SLS)](https://vle.learning.moe.edu.sg/login)
 * [Student iCON](https://workspace.google.com/dashboard)
