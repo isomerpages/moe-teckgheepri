@@ -1,5 +1,5 @@
 collections:
-  our-family:
+  our-staff:
     output: true
     order:
       - Our Family.md
