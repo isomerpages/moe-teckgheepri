@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Student iCON.md
       - Our School Rules.md
       - Be a TGStar.md
       - Student Learning Space.md
+      - Student iCON.md
       - Stop Think Do.md
       - Road Safety.md
       - Cyber Wellness.md
