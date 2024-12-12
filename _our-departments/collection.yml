@@ -2,11 +2,20 @@ collections:
   our-departments:
     output: true
     order:
-      - Student Development Team/Student Management.md
       - Student Development Team/.keep
+      - Student Development Team/Student Management.md
       - Student Development Team/Year Heads.md
       - Student Development Team/Student Leadership.md
       - Student Development Team/CCE and SEN.md
+      - Student Leadership/.keep
+      - Student Leadership/Student Leadership.md
+      - Student Leadership/Values In Education.md
+      - Student Leadership/Primary 1.md
+      - Student Leadership/Primary 2.md
+      - Student Leadership/Primary 3.md
+      - Student Leadership/Primary 4.md
+      - Student Leadership/Primary 5.md
+      - Student Leadership/Primary 6.md
       - Deep Learning/.keep
       - Deep Learning/Deep Learning.md
       - Deep Learning/English.md
@@ -21,12 +30,3 @@ collections:
       - Distinctive Programmes/Applied Learning Programme.md
       - Distinctive Programmes/Programme for Active Learning.md
       - Distinctive Programmes/Innovation in TGPS.md
-      - Student Leadership/.keep
-      - Student Leadership/Student Leadership.md
-      - Student Leadership/Values In Education.md
-      - Student Leadership/Primary 1.md
-      - Student Leadership/Primary 2.md
-      - Student Leadership/Primary 3.md
-      - Student Leadership/Primary 4.md
-      - Student Leadership/Primary 5.md
-      - Student Leadership/Primary 6.md
