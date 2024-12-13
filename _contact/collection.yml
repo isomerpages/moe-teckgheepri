@@ -1,0 +1,6 @@
+collections:
+  contact:
+    output: true
+    order:
+      - Location and School Information.md
+      - Feedback & Enquiries.md

@@ -1,0 +1,14 @@
+collections:
+  students:
+    output: true
+    order:
+      - Our School Rules.md
+      - Be a TGStar.md
+      - Student iCON.md
+      - Student Learning Space.md
+      - Microsoft 365.md
+      - Stop Think Do.md
+      - Road Safety.md
+      - Cyber Wellness.md
+      - Tinkle Friends.md
+      - School Library.md

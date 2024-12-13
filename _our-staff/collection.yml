@@ -1,0 +1,10 @@
+collections:
+  our-staff:
+    output: true
+    order:
+      - School Executive Committee.md
+      - Teacher Leaders.md
+      - Teaching Staff/.keep
+      - Teaching Staff/Teachers.md
+      - Teaching Staff/Allied Educators.md
+      - School Administration Team.md

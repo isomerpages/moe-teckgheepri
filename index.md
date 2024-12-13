@@ -7,12 +7,15 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/teckgheepribanner.gif
+      background: /images/homepage_v3.png
       key_highlights:
-        - title: What's New
+        - title: Staff
           description: ""
-          url: /whatsnew/
-        - title: EZ-Links
+          url: https://sites.google.com/a/teckgheepri.edu.sg/start/
+        - title: Students
           description: ""
-          url: /ez-links/
+          url: /my-school-rules/
+        - title: Parents
+          description: ""
+          url: /school-curriculum-hours/
 ---
