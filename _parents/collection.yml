@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Primary 1 (P1) registration.md
       - General Information/.keep
       - General Information/School Curriculum Hours.md
       - General Information/Contacting the Teacher.md
@@ -18,4 +19,3 @@ collections:
       - General Information/Term Letters.md
       - Admin Forms.md
       - Transit Link Hotline.md
-      - Primary 1 (P1) registration.md
