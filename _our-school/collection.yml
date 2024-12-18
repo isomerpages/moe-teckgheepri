@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - Our TGPS Philosophy.md
       - The TGPS Story.md
       - School Advisory Committee.md
       - Our Identity/.keep
