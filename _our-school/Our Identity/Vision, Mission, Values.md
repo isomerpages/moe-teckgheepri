@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 third_nav_title: Our Identity
 ---
-### **Our TGPS Philosophy**
 <img src="/images/NoMask_TGPS%20Mascots_031221.png" style="width:65%">
 
 #### **Vision**
@@ -22,6 +21,3 @@ by creating a positive and caring learning community; and working in partnership
 
 #### **Values**
 Team Spirit, Graciousness, Perseverance, Self-Discipline
-
-#### **Motto**
-**Aspire and Achieve**
