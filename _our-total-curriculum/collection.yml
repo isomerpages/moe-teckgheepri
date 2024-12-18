@@ -1,5 +1,5 @@
 collections:
-  our-departments:
+  our-total-curriculum:
     output: true
     order:
       - Deep Learning/.keep
