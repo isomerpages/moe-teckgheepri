@@ -4,7 +4,7 @@ links:
     collection: our-school
   - title: Our Staff
     collection: our-staff
-  - title: Our Departments
+  - title: Our Total Curriculum
     url: /our-experiences/deep-learning/
     sublinks:
       - title: Deep Learning
