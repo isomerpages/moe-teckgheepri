@@ -17,5 +17,5 @@ sections:
           url: /my-school-rules/
         - title: Parents
           description: ""
-          url: /school-curriculum-hours/
+          url: /p1-registration/
 ---
