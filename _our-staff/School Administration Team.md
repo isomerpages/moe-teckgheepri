@@ -180,7 +180,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Alysa Gale Quiambo</p>
+<p>Ms Goh Yu Xuan</p>
 </td>
 </tr>
 <tr>
