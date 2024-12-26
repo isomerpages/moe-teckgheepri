@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Mother_Tongue_Language_Department_FORMAL.jpg
+      background: /images/Banner__transparent_bg_.gif
       key_highlights:
         - title: Staff
           description: ""
