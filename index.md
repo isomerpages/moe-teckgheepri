@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_v2.png
+      background: /images/Banner__transparent_bg_.gif
       key_highlights:
         - title: Staff
           description: ""
