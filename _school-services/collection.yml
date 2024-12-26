@@ -2,9 +2,9 @@ collections:
   school-services:
     output: true
     order:
+      - Bookshop Vendor.md
+      - School Bus Awarded.md
       - School Canteen.md
       - Student Care Centre.md
       - School Dental Service.md
-      - Bookshop Vendor.md
       - Uniform Supplier.md
-      - School Bus Awarded.md
