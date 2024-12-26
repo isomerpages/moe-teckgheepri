@@ -2,4 +2,5 @@ collections:
   school-services:
     output: true
     order:
+      - Uniform Supplier.md
       - School Bus Awarded.md
