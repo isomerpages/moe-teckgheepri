@@ -193,12 +193,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head(Covering)</strong> 
-<br>Student Well-Being</p>
+<p><strong>Subject Head(SH - Covering)</strong>
+</p>
+<p>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Nurhedayu
-<br><a href="mailto:nurhedayu_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurhedayu_a@moe.edu.sg</a>
+<p>Mr Mohamad Imran</p>
+<p><a href="mailto:mohamad_imran_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_imran_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -232,17 +233,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mrs Lydia Lye
 <br><a href="mailto:goh_sio_noi_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sio_noi_lydia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head(AYH)</strong> 
-<br>Primary 1 &amp; 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Valerie Heng
-<br><a href="mailto:tan_sock_tze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_tze@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -350,10 +340,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Subject Head (SH - Covering)</strong>
+</p>
+<p>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lin Kaili</p>
+<p><a href="mailto:lin_kaili@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_kaili@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
