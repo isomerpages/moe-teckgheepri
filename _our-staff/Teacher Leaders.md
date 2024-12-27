@@ -98,7 +98,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Senior Teacher</strong>
-<br>Mathematics / Science (Covering)</p>
+<br>Science (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="lim_puay_hoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_puay_hoon@moe.edu.sg</a>
@@ -120,13 +120,16 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mdm Lee Wee Loon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Senior Teacher</strong>
+</p>
+<p>Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:lee_wee_loon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_wee_loon@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 </tbody>
