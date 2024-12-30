@@ -482,7 +482,8 @@ variant: tiptap
 <p>Mrs Narendar Singh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:bakhshish_singh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bakhshish_singh@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
