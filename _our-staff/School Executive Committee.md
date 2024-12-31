@@ -194,12 +194,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head(SH - Covering)</strong>
-</p>
-<p>Student Management</p>
+<br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Imran</p>
-<p><a href="mailto:mohamad_imran_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_imran_osman@moe.edu.sg</a>
+<p>Mr Mohamad Imran
+<br><a href="mailto:mohamad_imran_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_imran_osman@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -341,12 +340,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head (SH - Covering)</strong>
-</p>
-<p>Aesthetics</p>
+<br>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Lin Kaili</p>
-<p><a href="mailto:lin_kaili@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_kaili@moe.edu.sg</a>
+<p>Ms Lin Kaili
+<br><a href="mailto:lin_kaili@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lin_kaili@moe.edu.sg</a>
 </p>
 </td>
 </tr>
