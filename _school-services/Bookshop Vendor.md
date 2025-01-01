@@ -3,7 +3,6 @@ title: Bookshop Vendor
 permalink: /our-school/school-services/bookshop-vendor/
 description: ""
 variant: tiptap
-third_nav_title: General Information
 ---
 <h3><strong>Bookshop Vendor</strong></h3>
 <table style="minWidth: 50px">

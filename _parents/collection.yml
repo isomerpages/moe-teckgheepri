@@ -2,6 +2,7 @@ collections:
   parents:
     output: true
     order:
+      - Primary 1 (P1) registration.md
       - General Information/.keep
       - General Information/School Curriculum Hours.md
       - General Information/Contacting the Teacher.md
@@ -9,13 +10,6 @@ collections:
       - General Information/Permission to Leave Early.md
       - General Information/Guidelines on Videography and Photography.md
       - General Information/Use of Personal Data.md
-      - General Information/School Bus Awarded.md
-      - General Information/Bookshop Vendor.md
-      - General Information/Uniform Supplier.md
-      - General Information/School Dental Service.md
-      - General Information/Student Care Centre.md
       - General Information/Parents Gateway.md
-      - General Information/Term Letters.md
-      - Forms.md
+      - Admin Forms.md
       - Transit Link Hotline.md
-      - Primary 1 (P1) registration.md

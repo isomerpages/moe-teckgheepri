@@ -3,16 +3,114 @@ title: Allied Educators
 permalink: /our-family/teaching-staff/allied-educators/
 description: ""
 third_nav_title: Teaching Staff
-variant: markdown
+variant: tiptap
 ---
-### **Allied Educators**
- 
-| Name  | Designation  | Email Address |
-|---|---|---|
-| Ms Michelle Dolendo  | Senior School Counsellor | [dolendo_michelle_hojilla@moe.edu.sg](dolendo_michelle_hojilla@moe.edu.sg) |
-| Ms Ng Yizhen | School Counsellor | [ng_yizhen@moe.edu.sg](ng_yizhen@moe.edu.sg) |
-| Mdm Selina Lim | Senior Special Education Needs Officer (SENO) | [lim_soek_nee_selina@moe.edu.sg](lim_soek_nee_selina@moe.edu.sg) |
-| Ms Heather Chow | Special Education Needs Officer (SENO) | [heather_chow@moe.edu.sg](heather_chow@moe.edu.sg) |
-| Mdm Nadia Bte Hamid | Special Education Needs Officer (SENO) | [nadia_hamid@moe.edu.sg](nadia_hamid@moe.edu.sg) |
-| Ms Neo Pheck Keow June  | Teaching & Learning | [neo_pheck_keow@moe.edu.sg](neo_pheck_keow@moe.edu.sg) |
-|
+<h3><strong>Allied Educators</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Allied Educators" src="/images/EAS___AEDs_FORMAL.jpg">
+</div>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Name</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Designation</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Email Address</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Michelle Dolendo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="dolendo_michelle_hojilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dolendo_michelle_hojilla@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Yizhen</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>School Counsellor</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="ng_yizhen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_yizhen@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Selina Lim</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Senior Special Education Needs Officer (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="lim_soek_nee_selina@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_soek_nee_selina@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Heather Chow</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="heather_chow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heather_chow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mdm Nadia Bte Hamid</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Special Education Needs Officer (SENO)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="nadia_hamid@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nadia_hamid@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Pheck Keow June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Teaching &amp; Learning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="neo_pheck_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">neo_pheck_keow@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>

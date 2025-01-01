@@ -3,7 +3,6 @@ title: School Dental Service
 permalink: /our-school/school-services/school-dental-service/
 description: ""
 variant: tiptap
-third_nav_title: General Information
 ---
 <h3><strong>School Dental Service</strong></h3>
 <p>Contact Number : 8940 0152

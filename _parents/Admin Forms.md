@@ -1,10 +1,10 @@
 ---
-title: Forms
+title: Admin Forms
 permalink: /forms/
 variant: tiptap
 description: ""
 ---
-<h2>Forms</h2>
+<h2>Admin Forms</h2>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

@@ -4,7 +4,7 @@ links:
     collection: our-school
   - title: Our Staff
     collection: our-staff
-  - title: Our Departments
+  - title: Our Total Curriculum
     url: /our-experiences/deep-learning/
     sublinks:
       - title: Deep Learning
@@ -21,5 +21,7 @@ links:
         url: /our-experiences/distinctive-programmes/learn-for-life-programme/
   - title: Our Partners
     collection: our-partners
+  - title: School Services
+    collection: school-services
   - title: Contact
     collection: contact

@@ -10,50 +10,51 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="School Principal - Ms Rezia Rahumathullah" src="/images/Rezia_Photo_2024.png">
 </div>
-<h4><strong>A Place where EVERY TGStar Shines</strong></h4>
-<p>It is with great excitement and honour that I assume the role of Principal
-at Teck Ghee Primary School. The institution's strong identity and values
-of <strong>Team Spirit</strong>, <strong>Graciousness</strong>, <strong>Perseverance</strong>,
-and <strong>Self-Discipline</strong> are truly inspiring, resonating not
-only in the hearts of our students and staff but echoing through every
-space within our school. I would like to express my deepest appreciation
-for the exemplary leadership provided by Mr. Wong Jia Wang and the principals
-before him, which has laid a robust foundation for Teck Ghee's success.</p>
-<p>Fondly addressing our students as <strong>TG</strong>Stars, we firmly believe
-in the potential of each child to shine brightly within themselves and
-for those around them. Teck Ghee Primary is a place where student experiences,
-both in and out of the classroom, are curated to bring out the best in
-every child. We provide opportunities to cultivate the uniqueness of each
-individual, celebrating progress at various phases in their learning journey.</p>
-<p>Learning at Teck Ghee Primary is designed for students to pursue their
-interests, acquire skills and dispositions through subject mastery while
-finding joy in meaningful engagement with peers, teachers, and the community.
-Our curriculum places a strong emphasis on 21st-century competencies and
-seamless technology integration, fostering a holistic educational experience.
-This empowers students to collaborate, problem-solve, and express themselves
-in a fail-safe environment. The high level of engagement, anchored by strong
-student-teacher relationships and connections with key partners, will enable
-learners to have the zest for learning and the passion to enhance their
-wellbeing.&nbsp;</p>
-<p>I recognize the critical role parents play in a child's education, and
-I am committed to fostering a strong partnership with you. We believe that
-collaboration between home and school is essential for the success of our
-TGStars. Your insights, support, and active involvement in your child's
-education are invaluable. Together, let us create an environment where
-every child can thrive.</p>
-<p>I look forward to celebrating each one of our TGStars, ensuring that every
-child appreciates their unique individuality. It is my heartfelt wish that
-our students will embody the best version of themselves, not just for personal
-growth but as a shining example for their friends, family, and the broader
-community.</p>
-<p>Joining me on this journey are my Vice Principals, Mrs Celia Lau (VP/Academic)
-and Mr Jet Tan (VP/Admin), who will work alongside our highly committed
-teachers to make 2024 a year filled with engagement and meaningful experiences,
-dedicated to nurturing <strong>Leaders of Tomorrow</strong>, <strong>Today</strong>.</p>
-<p>Yours in service,
-<br>Ms Rezia Rahumathullah
-<br>Principal
-<br>Teck Ghee Primary School</p>
+<h4><strong>Welcome to TGPS!</strong></h4>
+<p>I am honoured to be part of a community that is committed to bringing
+out the brilliance of Minds and Hearts in every student, whom we fondly
+address as a ‘TGStar’. Our environment provides rich opportunities for
+students to live out what it means to be ‘Tomorrow’s Leaders, Today’.</p>
+<p>Our mission shapes everything we do, focusing on developing all our students
+into: Creative Thinkers, Confident Communicators, Lifelong Learners, and
+Responsible Citizens. We achieve this through a positive, caring learning
+community and strong partnerships with our stakeholders.</p>
+<p>&nbsp;<strong>Leading in Learning</strong>
+</p>
+<p>As we foster a spirit of<strong> Growth Mindset </strong>in every child,
+we would like them to learn how to enjoy learning, and how to internalise
+learning through a range of rich, authentic curriculum experiences that
+foster Deep Learning. At the heart of it, we want every student to know
+that they <strong>can</strong> learn and are <strong>capable</strong> of learning
+in different ways. Forging a spirit of inclusivity, we believe in collective
+success, celebrating the growth of the teams be it class, CCAs or within
+any groups that our students are in. Encouraging our students to work for
+the collective good of one another has created a culture where Peer Support
+is strengthened and being together in the journey of education has become
+a joyful endeavour.</p>
+<p>Our journey in establishing a solid foundation in learning is possible
+thanks to our highly competent and passionate group of educators and staff
+who are unwavering in providing customised support to our students’ learning.</p>
+<p><strong>Leading in Wellbeing</strong>
+</p>
+<p>We believe in establishing strong relationships with self, peers, teachers
+and family members as they are the key building blocks to enhancing wellbeing.
+We have also thoughtfully designed platforms and lessons for students to
+learn and live out the attitude of <strong>Gratitude</strong>, manage their
+emotions and exercise executive functioning. These intentional acts of
+teaching the skills of wellbeing complement our efforts to strengthen academic
+skills in our TGStars.</p>
+<p>Whether through sports, arts, music, or community service, we strive to
+offer a well-rounded experience that encourages growth beyond the classroom.</p>
+<p>As we move forward, our commitment to empowering students in their learning
+and wellbeing remains unwavering. With the support of our entire community—including
+the School Advisory Committee, Parent Support Group, students, parents,
+teachers, and staff—we are confident that every TGStar who walks through
+our doors will shine brilliantly.</p>
+<p>We invite our entire community to join us in fostering an environment
+where every TGStar can thrive. Together, we can make this year a success!</p>
+<p>Warmest regards,</p>
+<p>Ms Rezia Rahumathullah</p>
 <h4><strong>School Leaders</strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
