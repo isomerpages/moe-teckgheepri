@@ -87,18 +87,17 @@ description: ""
 <p>Change of Mother Tongue Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/change_mother_tongue_language.pdf" rel="noopener nofollow" target="_blank">APPLICATION TO CHANGE LANGUAGE TO CHINESE/ MALAY/ TAMIL.pdf</a>
+<p><a href="/files/Form_4___CHGE__8_Dec_2023____Ang_Hui_Mieng.pdf" rel="noopener nofollow" target="_blank">Change of Mother Tongue Language.pdf</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Insurance Claim Fact Sheet</p>
+<p>Group Accident Student Insurance for Student</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/Insurance_Fact_Sheet.pdf" rel="noopener nofollow" target="_blank">Fact Sheet for Insurance Claims.pdf</a>
+<p><a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">Link to insurer</a>
 </p>
-<p>(Claims procedure included)</p>
 </td>
 </tr>
 </tbody>
