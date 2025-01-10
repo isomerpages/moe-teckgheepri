@@ -479,7 +479,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mrs Naredar Singh</p>
+<p>Mrs Narendar Singh</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:bakshish_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bakshish_singh_a@moe.edu.sg</a>
