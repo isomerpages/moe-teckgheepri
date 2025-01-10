@@ -437,7 +437,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
-<p>E</p>
+<p>3E</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Imran</p>
@@ -466,7 +466,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>3F</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -474,6 +474,15 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tung_ying_zhu_alexis@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tung_ying_zhu_alexis@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mrs Naredar Singh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:bakshish_singh_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">bakshish_singh_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
