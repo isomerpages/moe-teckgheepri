@@ -1,10 +1,10 @@
 ---
-title: Student iCON
+title: MIMS
 permalink: /extended-family/for-parents/student-icon/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Student iCON</strong></h3>
+<h3><strong>MIMS / Student iCON</strong></h3>
 <p></p>
 <h4><strong>FREQUENTY ASKED QUESTIONS</strong></h4>
 <p><strong>Q1. What is the naming convention for Student iCON email address?</strong>
@@ -275,6 +275,7 @@ repeat the logging in procedure.
 </p>
 <p></p>
 <p><strong>7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong>
-<br>You should inform your Form Teacher.
+<br>Submit a request via <a href="https://form.gov.sg/609de16fb3fce000127e3ffe" rel="noopener nofollow" target="_blank">Password Request Form</a> and
+we will respond via email within 1 to 2 working days.
 <br>
 </p>
