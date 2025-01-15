@@ -2,6 +2,7 @@
 title: For Parents
 permalink: /extended-family/for-parents/
 description: ""
+variant: markdown
 ---
 ### **For Parents**
 ##### **Click on the links below to find out more.**
