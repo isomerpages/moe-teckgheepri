@@ -193,7 +193,7 @@ variant: tiptap
 <p>Mr Vivek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:yethidran_vivek_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ethidran_vivek_nair@moe.edu.sg</a>
+<p><a href="mailto:yethidran_vivek_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yethidran_vivek_nair@moe.edu.sg</a>
 </p>
 </td>
 </tr>
