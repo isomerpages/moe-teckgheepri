@@ -190,7 +190,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr ivek</p>
+<p>Mr Vivek</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yethidran_vivek_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yethidran_vivek_nair@moe.edu.sg</a>
