@@ -9,6 +9,15 @@ third_nav_title: PE, PAL, and Aesthetics
 #### **Music in TGPS**
 In TGPS, we strive to&nbsp;**develop character**&nbsp;and build capability and capacity of every student holistically. A tiered approach is adopted to teach Music, building on fundamentals and&nbsp;musical skills.&nbsp;We provide opportunities for&nbsp;**collaborative learning**&nbsp;among students through&nbsp;participation in ensemble performances in both instrumental and vocal settings.&nbsp;
 
+
+
+|  |   |
+| -------- | -------- | 
+| ![](/images/Music/Ukulele_rocks_.jpg)     |  ![](/images/Music/A_welcome_song_to_start_the_Music_class.jpg)     |
+
+
+
+
 Through designing&nbsp;**student-centric**&nbsp;activities, we hope to equip students with skills to understand musical elements and concepts. Students are given the music exposure by learning a variety of instruments and learn to&nbsp;**appreciate the Arts**&nbsp;through various platforms.
 
 ![](/images/Champs%202024/7_Music.png)
