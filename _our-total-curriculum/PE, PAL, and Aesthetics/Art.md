@@ -26,37 +26,12 @@ and <strong>communicate effectively</strong> in the 21st century and</p>
 <li>
 <p><strong>expands imagination and creativity</strong>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 52%;" height="auto" width="100%" alt="" src="/images/Art/IMG_5109__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art/IMG_5021__1_.jpg">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Art/IMG_8428.jpg">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/art_collage1.jpg">
+</div>
 <p>The aims of art education in TGPS are to enable every child to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -88,42 +63,9 @@ areas that our students go through in their 6-year artistic journey are:
 <br>- Artists &amp; their artworks
 <br>- Digital Art and animation (stop motion)</p>
 <p></p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Art/IMG_7529.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/art_collage2.jpg">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Art/IMG_3518__2_.jpg">
-</div>
-</th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/IMG_5112.jpg">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Art/IMG_3617__1_.jpg">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
 <p>
 <br>
 </p>
