@@ -18,6 +18,10 @@ invested time in building strong relationships and fostering camaraderie.
 We are deeply grateful for their unwavering support and the positive impact
 they have made on our school and community.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/collage2.jpg">
+</div>
+<p></p>
 <h4><strong>PSG Logo</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -41,9 +45,9 @@ and parents in the interest of the pupils in the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/psg4.jpg">
 </div>
-<p>Involvement in Total Defence Day Commemoration</p>
+<p>Involvement in School Events</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/psg5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/collage1.jpg">
 </div>
 <p>Helping out in Learning Journeys</p>
 <div class="isomer-image-wrapper">
