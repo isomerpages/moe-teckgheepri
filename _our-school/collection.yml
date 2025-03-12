@@ -2,14 +2,14 @@ collections:
   our-school:
     output: true
     order:
-      - Positive Education.md
       - Principal's Message.md
       - The TGPS Story.md
-      - Our Identity/Vision, Mission, Values.md
       - Our Identity/.keep
+      - Our Identity/Vision, Mission, Values.md
       - Our Identity/School Mascots.md
       - Our Identity/Be a TGStar.md
       - Primary 1 (P1) registration.md
+      - Positive Education.md
       - Distinctive Programmes.md
       - Use of Personal Data.md
       - Media.md
