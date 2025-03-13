@@ -28,6 +28,10 @@ and <strong>communicate effectively</strong> in the 21st century and</p>
 </p>
 </li>
 </ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/art_collage1.jpg">
+</div>
 <p>The aims of art education in TGPS are to enable every child to:&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -47,8 +51,9 @@ and <strong>communicate effectively</strong> in the 21st century and</p>
 </div>
 <h4><strong>Art Syllabus Framework</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:55%;margin-right:15px;" height="auto" width="100%" src="/images/art.png">
+<img style="width: 100%;" height="auto" width="100%" src="/images/art.png">
 </div>
+<p></p>
 <p>In TGPS, we follow the Art Syllabus Framework above. Some broad learning
 areas that our students go through in their 6-year artistic journey are:
 <br>- Drawing
@@ -57,6 +62,10 @@ areas that our students go through in their 6-year artistic journey are:
 <br>- Photography
 <br>- Artists &amp; their artworks
 <br>- Digital Art and animation (stop motion)</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Art/art_collage2.jpg">
+</div>
 <p>
 <br>
 </p>

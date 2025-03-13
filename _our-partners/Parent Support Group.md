@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
+<p></p>
 <p>At Teck Ghee Primary School, our parent volunteers have been a source
 of inspiration. Their dedication has enriched numerous school events, fostering
 a sense of joy and unity among students, teachers, and families. Their
@@ -16,9 +17,15 @@ their compassion for those in need. Beyond their official duties, they
 invested time in building strong relationships and fostering camaraderie.
 We are deeply grateful for their unwavering support and the positive impact
 they have made on our school and community.</p>
-<h4><strong>PSG Logo</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:25%" height="auto" width="100%" src="/images/psg1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/collage2.jpg">
+</div>
+<p></p>
+<h4><strong>PSG Logo</strong></h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/PSG/PSG_Logo_Updated_2025.jpg">
 </div>
 <p>The parent’s involvement in the school sends a clear signal to the students
 our deep concern for them. This will in turn encourage them to adopt positive
@@ -38,9 +45,9 @@ and parents in the interest of the pupils in the school.</p>
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/psg4.jpg">
 </div>
-<p>Involvement in Total Defence Day Commemoration</p>
+<p>Involvement in School Events</p>
 <div class="isomer-image-wrapper">
-<img style="width:85%" height="auto" width="100%" src="/images/psg5.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/collage1.jpg">
 </div>
 <p>Helping out in Learning Journeys</p>
 <div class="isomer-image-wrapper">
