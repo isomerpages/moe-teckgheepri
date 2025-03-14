@@ -5,6 +5,7 @@ description: ""
 variant: tiptap
 third_nav_title: Student Development
 ---
+<h2>Positive Education (PosEd)</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PosEd/posEd.jpg">
 </div>
