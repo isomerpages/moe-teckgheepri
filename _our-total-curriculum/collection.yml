@@ -2,12 +2,12 @@ collections:
   our-total-curriculum:
     output: true
     order:
-      - Deep Learning/.keep
-      - Deep Learning/Deep Learning.md
-      - Deep Learning/English.md
-      - Deep Learning/Mother Tongue.md
-      - Deep Learning/Mathematics.md
-      - Deep Learning/Science.md
+      - Teaching & Learning (T&L)/.keep
+      - Teaching & Learning (T&L)/Deep Learning.md
+      - Teaching & Learning (T&L)/English.md
+      - Teaching & Learning (T&L)/Mother Tongue.md
+      - Teaching & Learning (T&L)/Mathematics.md
+      - Teaching & Learning (T&L)/Science.md
       - Student Development/Positive Education (PosEd).md
       - Student Development/.keep
       - Student Development/Student Management.md
