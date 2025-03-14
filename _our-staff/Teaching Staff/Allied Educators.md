@@ -6,10 +6,6 @@ third_nav_title: Teaching Staff
 variant: tiptap
 ---
 <h3><strong>Allied Educators</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Allied Educators" src="/images/EAS___AEDs_FORMAL.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
