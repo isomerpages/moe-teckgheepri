@@ -51,7 +51,7 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d3od0h9ii8slt3.amplifyapp.com
 prod: https://master.d3od0h9ii8slt3.amplifyapp.com
-shareicon: /images/teckgheepri.jpg
+shareicon: /images/banner.gif
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
