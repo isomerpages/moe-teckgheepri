@@ -6,31 +6,6 @@ description: ""
 third_nav_title: Student Development
 ---
 <h1><strong>Student Leadership</strong></h1>
-<h4><strong>Values-in-Education</strong></h4>
-<p>In Teck Ghee Primary School, every child is given the opportunity to empathise
-and display their leadership skills in various platforms.</p>
-<p>One of which is during the Values-In-Action project which culminates to
-a day called Gives Back Day of TGPS. Students from different levels dedicate
-this day to show their empathy and pay forward their kindness to the community
-in their own little unique way.</p>
-<p>Students from some levels seek to understand the struggles of certain
-groups of people within the community and makes use of this day as a platform
-to reach out to them. We hope this meaningful journey continues to inspire
-our TGSTARS and to always give their best to others.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership1.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership2.jpg">
-</div>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership3.jpg">
-</div>
-<p>Click <a href="https://www.teckgheepri.moe.edu.sg/our-experiences/student-leadership/vie/" rel="noopener nofollow" target="_blank">here </a>to
-find out more about our VIA programme.</p>
 <h4><strong>Our Prefects</strong></h4>
 <p>Our prefects serve as a role-model to the rest of the student population.
 For the past 2 years, they have been participating in the ‘Play Inclusive
