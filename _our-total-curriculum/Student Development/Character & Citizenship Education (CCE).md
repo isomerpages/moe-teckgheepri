@@ -5,9 +5,13 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
-<h1>CCE and SEN</h1>
-<h4><strong>Sexuality Education Programme</strong></h4>
-<h3><strong>MOE Sexuality Education in Schools</strong></h3>
+<h1>Character &amp; Citizenship Education</h1>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>MOE Sexuality Education in Schools</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>MOE Sexuality Education in Schools</strong></h4>
 <p>&nbsp;1.&nbsp;Sexuality Education (SEd) in schools aims to enable students
 to understand the physiological, social and emotional changes they experience
 as they mature, develop healthy and rewarding relationships with others,
@@ -40,7 +44,6 @@ ones.</p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
 <h4><strong>Overview of Teck Ghee Primary School’s Sexuality Education Programme for 2025</strong></h4>
-<hr>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -249,3 +252,41 @@ to be submitted by&nbsp;21/02/2025.</p>
 <p>10. Parents can contact the school at&nbsp;<a href="mailto:tgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tgps@moe.edu.sg</a>&nbsp;or&nbsp;<strong>6454 8769</strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>Values in Education</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<h4><strong>Values-in-Education</strong></h4>
+<p>This is how VIA is progressively planned and implemented in TGPS. Each
+block of level has different focus area and at the end of six years, we
+feel that our students will have a clearer picture of the issues faced
+within the society and they can do something within their means to address
+it as well. With this framework, we aim to have every level do its part
+and pay it forward to the community.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie3.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie4.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PosEd_Overview_2024.jpg">
+</div>
+</div>
+</details>
+</div>
+<h4></h4>
+<p></p>
