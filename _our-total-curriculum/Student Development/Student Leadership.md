@@ -5,10 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Student Development
 ---
-<p>### <strong>Student Leadership</strong>
-</p>
-<p>#### <strong>Values-in-Education</strong>
-</p>
+<h1><strong>Student Leadership</strong></h1>
+<h4><strong>Values-in-Education</strong></h4>
 <p>In Teck Ghee Primary School, every child is given the opportunity to empathise
 and display their leadership skills in various platforms.</p>
 <p>One of which is during the Values-In-Action project which culminates to
@@ -19,13 +17,21 @@ in their own little unique way.</p>
 groups of people within the community and makes use of this day as a platform
 to reach out to them. We hope this meaningful journey continues to inspire
 our TGSTARS and to always give their best to others.</p>
-<p>&lt;img style="width:65%" src="/images/studentleadership1.jpg"&gt;</p>
-<p>&lt;img style="width:65%" src="/images/studentleadership2.jpg"&gt;</p>
-<p>&lt;img style="width:65%" src="/images/studentleadership3.jpg"&gt;</p>
-<p>Click&amp;nbsp;[here](<a href="https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/student-leadership/vie/)&amp;nbsp;to" rel="noopener noreferrer nofollow" target="_blank">https://staging.d3od0h9ii8slt3.amplifyapp.com/our-experiences/student-leadership/vie/)&amp;nbsp;to</a> find
-out more about our VIA programme.</p>
-<p>#### <strong>Our Prefects</strong>
-</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership1.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership2.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership3.jpg">
+</div>
+<p>Click <a href="https://www.teckgheepri.moe.edu.sg/our-experiences/student-leadership/vie/" rel="noopener nofollow" target="_blank">here </a>to
+find out more about our VIA programme.</p>
+<h4><strong>Our Prefects</strong></h4>
 <p>Our prefects serve as a role-model to the rest of the student population.
 For the past 2 years, they have been participating in the ‘Play Inclusive
 event’. Play Inclusive is a programme where students with special needs
@@ -48,4 +54,4 @@ role model to the rest of the students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/studentleadership6.jpg">
 </div>
-<p>src="/images/studentleadership6.jpg"&gt;</p>
+<p></p>
