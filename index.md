@@ -2,12 +2,12 @@
 layout: homepage
 title: Teck Ghee Primary School
 description: Nurturing Tomorrow's Leaders, Today
-image: /images/teckgheepri.jpg
+image: /images/TGPS_Logo_JPG.JPG
 permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage_v3.png
+      background: /images/banner3.png
       key_highlights:
         - title: Staff
           description: ""

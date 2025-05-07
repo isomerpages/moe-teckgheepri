@@ -5,10 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Teacher Leaders</strong></h3>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Teacher Leaders" src="/images/Teachers_Leaders_FORMAL_resized.jpg">
-</div>
 <table style="minWidth: 75px">
 <colgroup>
 <col>

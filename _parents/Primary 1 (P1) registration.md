@@ -94,7 +94,7 @@ tomorrow’s leaders.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Get to know about life at Teck Ghee Primary School. Sign up at https://for.edu.sg/learningadventure" src="/images/Photos 2024/httpsfor_edu_sglearningadventure__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="https://for.edu.sg/learningadventure" src="/images/httpsfor_edu_sglearningadventure__2_.jpg">
 </div>
 <p></p>
 <h4><strong>P1 Registration Information 2024</strong></h4>
