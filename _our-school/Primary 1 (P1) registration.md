@@ -92,22 +92,23 @@ tomorrow’s leaders.</p>
 </table>
 <h4><strong>Learning Adventure @ Teck Ghee Primary School</strong></h4>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Get to know about life at Teck Ghee Primary School. Sign up at https://for.edu.sg/learningadventure" src="/images/Photos 2024/httpsfor_edu_sglearningadventure__6_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/httpsfor_edu_sglearningadventure__2_.jpg">
 </div>
 <p></p>
-<h4><strong>P1 Registration Information 2024</strong></h4>
-<p><strong>P1 2024 Registration</strong>
+<p></p>
+<h4><strong>P1 Registration Information 2025</strong></h4>
+<p><strong>P1 2025 Registration</strong>
 </p>
+<p>&nbsp;</p>
 <p>P1 registration is conducted over several phases. These registration phases
 apply to children who Singapore Citizens and Singapore Permanent Residents
-born between 2 January 2018 and 1 January 2019 (both dates inclusive).
+born between 2 January 2019 and 1 January 2020 (both dates inclusive).
 The 2024 P1 Registration Exercise will be conducted fully online. Similar
 to last year, there will not be any in-person registration at schools.</p>
 <p>&nbsp;</p>
 <p>There are 2 modes for online registration depending on the phase:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Online application form for Phases 1, 2A and 2B. For parents registering
 their younger child under Phase 1, the primary school will provide you
@@ -120,7 +121,7 @@ periods of the respective phases.</p>
 <li>
 <p>The Primary One Internet System (P1-IS) for Phases 2C and 2C Supplementary.</p>
 </li>
-</ol>
+</ul>
 <p>&nbsp;</p>
-<p>Please refer to the MOE website at <a href="https://www.moe.gov.sg/primary/p1-registration" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
-more information on P1 Registration exercise, phases and key dates.</p>
+<p>Please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
+more information on P1 Registration exercise, phases and key dates</p>
