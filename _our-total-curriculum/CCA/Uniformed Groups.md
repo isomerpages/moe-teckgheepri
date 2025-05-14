@@ -5,15 +5,14 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<p></p>
-<h2><strong><u>Girl Guides (Brownies)</u></strong></h2>
+<h3><strong><u>Girl Guides (Brownies)</u></strong></h3>
 <p>Brownies CCA is a uniformed group for young girls in Primary Schools.
 It is under Girl Guides, an educational youth Movement.&nbsp; Brownies
 are guided by a comprehensive 5-point programme, which develops them in
-5 areas:</p>
-<ul data-tight="true" class="tight">
+5 areas:&nbsp;</p>
+<ul>
 <li>
-<p>Personal and Social Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>Personal and Social Development&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Home</p>
@@ -30,23 +29,20 @@ are guided by a comprehensive 5-point programme, which develops them in
 </ul>
 <p>It provides opportunities for girls to develop leadership and decision-making
 as well as life skills through activities such as games, craft work and
-learning journeys.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Girl Guides" src="/images/CCAs 2024/girlguides_4.png">
-</div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
+learning journeys. Important events we take part in yearly are the World
+Thinking Day, Food Donation Drive and National Day Observance Ceremony.&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Aims:</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To enable girls to develop their
-fullest potential as responsible citizens of the world</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To cultivate girls to find happiness
-in helping others and be independent</p>
-<p>&nbsp;</p>
-<p></p>
-<p><strong>Core Values:</strong>
+<ul>
+<li>
+<p>To enable girls to develop their fullest potential as responsible citizens
+of the world</p>
+</li>
+<li>
+<p>To cultivate girls to find happiness in helping others and be independent</p>
+</li>
+</ul>
+<p><strong>Core Values in TGPS:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -94,14 +90,11 @@ hand.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>Teachers in charge: </strong>Mdm Poonguzhali (I/C), Mdm Punitha
-(2nd I/C)</p>
-<p></p>
-<p><strong>Training Frequency (Day and Time): </strong>Every Monday, 2.30pm
-– 4.30pm</p>
-<p></p>
+<p><strong>Teachers in charge: </strong>
+<br>Mdm Poonguzhali (I/C), Mdm Lim Xiao Wei&nbsp;</p>
+<p><strong>Training Frequency (Day and Time): </strong>
+<br>Every Monday, 2.00pm – 4.00pm<strong> </strong>(CCA Room 2 &amp; 3 at
+ISH Level 3)</p>
 <p><strong>Progression:</strong>
 </p>
 <table style="minWidth: 75px">
@@ -120,7 +113,7 @@ hand.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Brownie</strong>
+<p><strong>Brownie&nbsp;</strong>
 </p>
 </td>
 </tr>
@@ -138,25 +131,21 @@ tests</p>
 </tr>
 </tbody>
 </table>
-<p>
-<br>
-</p>
-<h2><strong><u>Scouts</u></strong></h2>
-<p>&nbsp;</p>
+<hr>
+<h3><strong><u>Scouts (Boys)</u></strong></h3>
 <p>TGPS Scouts has a long history of nurturing young men into responsible
 and dedicated citizens of our country. In line with TGPS’s values, our
 scouts are trained to ‘Be Prepared’. This is the scout’s motto and our
 cub scouts are constantly challenged to live up to that motto. In TGPS
 we train our cub scouts to be future leaders and responsible citizens.</p>
-<p></p>
-<p><strong>Aims:</strong>
+<p>&nbsp;<strong>Aims:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>To equip students with important life skills.</p>
+<p>To equip pupils with important life skills.</p>
 </li>
 <li>
-<p>To develop students’ ability to communicate and make friends through the
+<p>To develop pupils’ ability to communicate and make friends through the
 Scouting movement.</p>
 </li>
 <li>
@@ -168,12 +157,6 @@ out internally and externally</p>
 Law.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Scouts" src="/images/CCAs 2024/scouts_1.png">
-</div>
-<p></p>
 <p><strong>Essential skills to be taught</strong>: Basic life-skills like
 outdoor-cooking, camp-craft and a lot more of skills to be taught and inculcated
 during the weekly meetings and also through the camps participated. The
@@ -229,22 +212,18 @@ that whatever that is expected of them are being practised.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>
-<br><strong>Teachers in charge: </strong>Mr Sherhan (I/C), Mr Ong Dunming
-(2nd I/C)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Commitment Level</strong>: The students will attend weekly meetings
-on Friday afternoons for 2 hours. Additional meetings will be held mostly
-on Saturdays should there be any external events that the unit is participating
-in namely, Campfires, Camps and Field Day.</p>
-<p></p>
-<p><strong>Training Frequency (Day and Time) : </strong>Every Monday, 2.30pm
-– 4.30pm<strong> </strong>(CCA Room 2 &amp; 3 at ISH Level 3)</p>
-<p>&nbsp;</p>
-<p><strong>Progression:</strong>
+<p>&nbsp;<strong>Teachers in charge: </strong>
+<br>Mr Sherhan (I/C), Mdm Lim Xiao Wei&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>Commitment Level</strong>:
+<br>The pupils will attend weekly meetings on Friday afternoons for 2 hours.
+Additional meetings will be held mostly on Saturdays should there be any
+external events that the unit is participating in namely, Campfires, Camps
+and Field Day.</p>
+<p><strong>Training Frequency (Day and Time) : </strong>
+<br>Every Monday, 2.00pm – 4.0pm<strong> </strong>(CCA Room 2 &amp; 3 at ISH
+Level 3)<strong>&nbsp;</strong>
 </p>
-<p>&nbsp;</p>
+<p><strong>Progression:</strong>&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -299,9 +278,7 @@ education.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>External Achievements</strong>
+<p>&nbsp;<strong>External Achievements</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -331,3 +308,6 @@ Bronze Award.</p>
 </tbody>
 </table>
 <p>&nbsp;</p>
+<p>
+<br>
+</p>
