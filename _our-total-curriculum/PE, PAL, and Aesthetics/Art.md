@@ -46,6 +46,7 @@ and <strong>communicate effectively</strong> in the 21st century and</p>
 </p>
 </li>
 </ul>
+<p></p>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/sD6lGUBgrpU"></iframe>
 </div>
