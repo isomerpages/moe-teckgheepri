@@ -5,18 +5,13 @@ description: ""
 third_nav_title: CCA
 variant: tiptap
 ---
-<h1><strong><u>Performing Arts</u></strong></h1>
-<h2><strong><u>Chinese Dance &nbsp;</u></strong></h2>
+<h3><strong><u>Chinese Dance</u></strong></h3>
 <p>The Chinese Dance Club engages professional dance instructors to coach
 the dancers.</p>
-<p></p>
 <p><strong>Aims:</strong>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>To develop leadership skills and acquire positive values like team spirit,
+<br>To develop leadership skills and acquire positive values like team spirit,
 graciousness, perseverance, self-discipline and commitment.</p>
-</li>
+<ul>
 <li>
 <p>To learn the fundamental skills of Chinese Dance and develop grace, flexibility,
 balance and coordination.</p>
@@ -25,16 +20,8 @@ balance and coordination.</p>
 <p>To provide opportunities to perform in school events and competitions.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CCAs 2024/chinese_dance_1.jpg">
-</div>
-<p></p>
-<p></p>
-<p><strong>Essential skills to be taught</strong>: Dance techniques for efficient
-movement execution and expressive performance</p>
-<p>&nbsp;</p>
+<p><strong>Essential skills to be taught</strong>:
+<br>Dance techniques for efficient movement execution and expressive performance</p>
 <p><strong>Core Values:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -83,26 +70,16 @@ on their individual skills.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Chinese Dance 2" src="/images/CCAs 2024/chinese_dance_2.jpg">
-</div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong>Commitment Level</strong>:</p>
 <p>There will be extra dance practices if we need to prepare for competitions
-and performances.</p>
-<p>(On Wednesdays, 2pm- 4pm, till SYF Arts Presentation in the first week
-of April. Please refer to the CCA schedule for the exact dates. )</p>
-<p>&nbsp;</p>
-<p><strong>Training Frequency (Day and Time): </strong>Every Monday, 2:30pm
-– 4:30pm</p>
-<p>&nbsp;</p>
-<p><strong>Teachers in charge:</strong>
+and performances.&nbsp;
+<br>( Please refer to the CCA schedule for the exact dates. )
+<br><strong>Training Frequency (Day and Time): </strong>Every Monday, 2pm
+– 4pm<strong>&nbsp;</strong>
 </p>
-<p>Mdm Chee Qiu Xia (I/C), Mrs Wong-Ngoo Ing Choo (2nd I/C)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p><strong>Progression</strong>:</p>
+<p><strong>Teachers in charge:</strong>
+<br>Ms Stephanie Cheong (I/C) ,&nbsp; Mdm Chee Qiu Xia (2nd I/C)&nbsp;</p>
+<p><strong>Progression</strong>:&nbsp;</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -134,7 +111,7 @@ of April. Please refer to the CCA schedule for the exact dates. )</p>
 dances.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Creating Stage:</p>
+<p>Creating Stage:&nbsp;</p>
 <p>Understand and practice the simple dance movements</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -142,42 +119,30 @@ dances.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Responding and Evaluating Stage : Improve dance movements upon feedback
-and conduct self evaluation after performances.</p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
+and conduct self evaluation after performances.&nbsp;</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;<strong>Performances, Competitions and Past Achievements</strong>
-</p>
-<p>&nbsp;</p>
-<p>Our Chinese Dancers have the opportunities to put up performances in various
+<p><strong>Performances, Competitions and Past Achievements</strong>
+<br>Our Chinese Dancers have the opportunities to put up performances in various
 school events, public performances and competitions.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Certificate of Accomplishment in SYF Arts Presentation 2024</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2022</strong>
@@ -225,12 +190,10 @@ school events, public performances and competitions.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;
-<br>
-</p>
-<h2><strong><u>Choir CCA</u></strong></h2>
-<p>The students have been exposed to a wide array of songs ranging from classical
-to modern familiar pieces. On top of that, the students learn to sing songs
+<hr>
+<h3><strong><u>Choir</u></strong></h3>
+<p>The children have been exposed to a wide array of songs ranging from classical
+to modern familiar pieces. On top of that, the children learn to sing songs
 from different languages such as Korean, Japanese to Latin American. A
 professional and experienced choir conductor will conduct the sessions.
 The weekly trainings serve to provide opportunities for talented students
@@ -240,23 +203,21 @@ to perform in the National Day Observance Ceremony and various school events.
 The choir had a tremendously fruitful SYF preparation in the last Presentation
 in SOTA. Students toiled and learnt what it meant to work with team spirit
 and perseverance. Students had achieved the Certificate of Participation
-during the Singapore Youth Festival Arts Presentation in 2022.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="choir 1" src="/images/CCAs 2024/choir_1.jpg">
-</div>
-<p></p>
+during the Singapore Youth Festival Arts Presentation in 2022 and attained
+the Certificate of Accomplishment in 2024.</p>
 <p><strong>Aims:</strong>
-</p>
-<p>The main objectives of the choir CCA serve to develop an appreciation
-for the Arts and to maximize students’ potential in Performing Arts. Furthermore,
-through the various platforms of performances, students with promising
-abilities are given opportunities to develop to their personal best.</p>
+<br>The main objectives of the choir CCA serve to develop an appreciation
+for Choral Arts and to maximize students’ potential in Performing Arts.
+Furthermore, through the various platforms of performances, students with
+promising abilities are given opportunities to develop to their personal
+best.</p>
 <p><strong>Essential skills to be taught</strong>:</p>
-<p>- singing techniques/ voice projection/ musicality through correct phrasing
+<ul data-tight="true" class="tight">
+<li>
+<p>singing techniques/voice projection/musicality through correct phrasing
 and melodic contours</p>
-<p></p>
+</li>
+</ul>
 <p><strong>Progression:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -297,7 +258,6 @@ more advanced musical skills with correct diction.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p>&nbsp;<strong>Core Values:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -349,84 +309,64 @@ to take ownership of their learning by practising at home.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Teachers in charge: </strong>Mdm Rumaizah (I/C) and&nbsp; Ms Angie
-Neo (2nd I/C)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Commitment Level</strong>: Students will undergo an audition to
-be selected and grouped in the appropriate singing section. Students are
-expected to come punctually and regularly, every Monday.</p>
-<p></p>
-<p><strong>Training Frequency (Day and Time) : </strong>Monday, 2:30pm -
-4:30pm (Music Room 1)</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="Choir 2" src="/images/CCAs 2024/choir_2.jpg">
-</div>
-<p><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</strong>
-</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p><strong>&nbsp;Teachers in charge: </strong>Ms Angie Neo (I/C) and Mdm
+Punitha (2nd I/C)</p>
+<p><strong>Commitment Level</strong>:
+<br>Students will undergo an audition to be selected and grouped in the appropriate
+singing section. Students are expected to come punctually and regularly,
+every Monday.</p>
+<p><strong>Training Frequency (Day and Time) : </strong>
+<br>Monday, 2pm - 4pm (Music Room 1)</p>
 <p><strong>Performances and Past Achievements</strong>
-</p>
-<p>The school choir has participated in various external celebrations and
+<br>The school choir has participated in various external celebrations and
 events such as the Teck Ghee CC National Day Observance Ceremony, Racial
 Harmony Day at Teck Ghee CC, Ensemble Series at Singapore Conference Hall,
-Crime Prevention Campaign.&nbsp;</p>
+Crime Prevention Campaign.&nbsp;&nbsp;</p>
 <p>In 2019, students performed for the Teck Ghee Passion Arts Festival in
 Bishan Park. They had the opportunity to perform for our residents and
 Prime Minister, Mr Lee Hsien Loong. It was a memorable event for our choir
-members.&nbsp;&nbsp;&nbsp;</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="choir 4" src="/images/CCAs 2024/choir_4.jpg">
-</div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+members.</p>
 <p><strong>Vocal Productions</strong>
-</p>
-<p>Some choir members were also involved in the vocal production and presentation
+<br>Some choir members were also involved in the vocal production and presentation
 for the Green Carpet Award theme song by National Geographic, commemorating
 "50 years of Greening Singapore". They also had the opportunity to participate
 in the recording of the Lee Kuan Yew Project Sing-A-Kids for Bilingualism
-and the Sanden theme song for the Sanden 40th Anniversary Dinner.</p>
+and the Sanden theme song for the Sanden 40<sup>th</sup> Anniversary Dinner.</p>
 <p>Some choir members had the opportunity to be involved in the recording
 of the bright spot songs that are still being played through the PA system
-daily. Selected students were also involved in the recording and performance
-of the theme song for Celebration of Learning (COL) 2023.
-<br>
-</p>
-<h2><strong><u>Modern Dance</u></strong></h2>
-<p>&nbsp;</p>
+daily. Selected pupils were also involved in the recording and performance
+of the theme song for Celebration of Learning (COL) 2023.</p>
+<hr>
+<h3><strong><u>Modern Dance</u></strong></h3>
 <p>Modern Dance aims to teach its members the skills and techniques of dancing
 as well as inculcate their appreciation for dance. Through various performances
 and competitions, pupils learn the importance of teamwork and perseverance.
-Professional dancers are engaged to teach the students a repertoire of
-dances ranging from ballet to hip-hop, lyrical jazz, contemporary and modern
-dance.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Modern dance 1" src="/images/CCAs 2024/modern_dance_1.jpg">
-</div>
-<p></p>
-<p><strong>Aims:&nbsp;</strong>
+Professional dancers are engaged to teach the pupils a repertoire of dances
+ranging from ballet to hip-hop, lyrical jazz, contemporary and modern dance.
+<br>
+<br><strong>Aims:&nbsp;&nbsp;</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To equip students with the skills
-and techniques of dancing&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To develop students’ ability to
-communicate and express themselves through movement</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To provide opportunities for talents
-to represent the school in the Singapore Youth Festival competitions as
-well as performances</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; To inculcate students’ appreciation
-for dance</p>
-<p>&nbsp;</p>
-<p><strong>Essential skills to be taught</strong>: Basic techniques of different
-genres of dance (ballet, hip-hop, lyrical jazz, contemporary and modern
-dance)</p>
-<p>&nbsp;</p>
+<ul>
+<li>
+<p>To equip pupils with the skills and techniques of dancing&nbsp;&nbsp;</p>
+</li>
+<li>
+<p>To develop pupils’ ability to communicate and express themselves through
+movement</p>
+</li>
+<li>
+<p>To provide opportunities for talents to represent the school in the Singapore
+Youth Festival competitions as well as performances</p>
+</li>
+<li>
+<p>To inculcate pupils’ appreciation for dance</p>
+</li>
+</ul>
+<p><strong>Essential skills to be taught</strong>:
+<br>Basic techniques of different genres of dance (ballet, hip-hop, lyrical
+jazz, contemporary and modern dance)
+<br>
+</p>
 <p><strong>Core Values:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -474,18 +414,13 @@ on their individual skills and techniques</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Teachers in charge: </strong>Mdm Angelina Boey (I/C) and Mdm Jasamine
-Lee (2nd I/C)</p>
-<p></p>
-<p><strong>Commitment Level</strong>: The students will train once a week
-on Monday afternoons for 2 hours. Students who are selected for SYF and
-other performances and competitions will be informed of any additional
-afternoon training, if required.</p>
-<p>&nbsp;</p>
-<p><strong>Training Frequency (Day and Time):</strong>
-</p>
-<p>&nbsp;</p>
+<p>&nbsp;<strong>Teachers in charge: </strong>Mdm Angelina Boey (I/C) and
+Mdm Jasamine Lee (2nd I/C)</p>
+<p><strong>Commitment Level</strong>: The pupils will train once a week on
+Monday afternoons for 2 hours. Pupils who are selected for SYF and other
+performances and competitions will be informed of any additional afternoon
+training, if required.</p>
+<p><strong>Training Frequency (Day and Time):</strong>&nbsp;</p>
 <p><strong>All Dancers</strong>
 </p>
 <table style="minWidth: 50px">
@@ -499,18 +434,17 @@ afternoon training, if required.</p>
 <p>Every Monday</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2:30pm – 4:30pm (PAL Room)</p>
+<p>2 pm – 4 pm (PAL Room)</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Progression:</strong>
 </p>
-<table style="minWidth: 75px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
+<col>
 <col>
 <col>
 <col>
@@ -520,11 +454,11 @@ afternoon training, if required.</p>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Beginner</strong>
 </p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Intermediate</strong>
 </p>
 </td>
@@ -533,33 +467,47 @@ afternoon training, if required.</p>
 <td rowspan="1" colspan="1">
 <p>Remarks</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Enjoy and appreciate rhythm and rhythmic movements</p>
-<p></p>
+<td rowspan="1" colspan="2">
+<p>Enjoy and appreciate rhythm and rhythmic movements.</p>
 <p>Understand elements of rhythm and rhythmic movements in structured dance
-forms</p>
+forms.</p>
 </td>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p>Express and communicate ideas through rhythm and rhythmic movements in
-structured dance forms</p>
-<p></p>
+structured dance forms.</p>
 <p>Use of body as instruments of communication and self – expression through
-rhythm and rhythmic movements in structured dance forms</p>
+rhythm and rhythmic movements in structured dance forms.</p>
 <p></p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Competition and Past Achievements</strong>
+<p>&nbsp;<strong>Competition and Past Achievements</strong>
 </p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
 </colgroup>
 <tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SYF Arts Presentation (International Dance)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Performed at Teck Ghee National Day Celebration Dinner</p>
+</td>
+</tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>2023</strong>
@@ -600,31 +548,24 @@ Day Concert, Year End Concert</p>
 </tr>
 </tbody>
 </table>
-<h2><strong><u>Guzheng Ensemble</u></strong></h2>
-<p></p>
+<hr>
+<h3><strong><u>Guzheng Ensemble</u></strong></h3>
 <p>Professional and experienced instructors are engaged to guide members
 in the acquisition of relevant skills. Members have staged countless performances
-in school and at national platforms.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="guzheng 1" src="/images/CCAs 2024/guzheng_1.png">
-</div>
-<p></p>
+in school and at national platforms.&nbsp;</p>
 <p><strong>Aims:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>To provide interested students with exposure and experience in learning
+<p>To provide interested pupils with exposure and experience in learning
 and mastering the skills of Guzheng</p>
 </li>
 <li>
 <p>To develop a greater sense of team spirit and responsibilities in members.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Essential skills to be taught</strong>:</p>
-<ul data-tight="true" class="tight">
+<p>&nbsp;<strong>Essential skills to be taught</strong>:</p>
+<ul>
 <li>
 <p>Basic instrumental skills (Aural skills, Music literacy)</p>
 </li>
@@ -632,8 +573,7 @@ and mastering the skills of Guzheng</p>
 <p>Social skills (Active listening and relationship management)</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Core Values:</strong>
+<p>&nbsp;<strong>Core Values:</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -680,18 +620,13 @@ on their individual skills</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p><strong>Teachers in charge: </strong>Mdm Yang Lili (I/C) and Mrs Valerio-Ng
-Sok Peng (2nd I/C)</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><strong>Commitment Level</strong>: Training is conducted once a week on
-Monday afternoons. Each session lasts 2 hours. There are extra practices
-if there is competition or rehearsal.</p>
-<p>&nbsp;</p>
-<p><strong>Training Frequency (Day and Time) : </strong>Mondays, 2.30pm –
-4.30pm<strong>&nbsp; </strong>(Band Room)</p>
-<p></p>
+<p><strong>Teachers in charge: </strong>
+<br>Mdm Yang Lili (I/C) and Mrs Valerio-Ng Sok Peng (2nd I/C)</p>
+<p><strong>Commitment Level</strong>:
+<br>Training is conducted once a week on Monday afternoons. Each session lasts
+2 hours. There are extra practices if there is competition or rehearsal.</p>
+<p><strong>Training Frequency (Day and Time) : </strong>
+<br>Mondays, 2pm – 4pm<strong>&nbsp; </strong>(Music Room)</p>
 <p><strong>Progression</strong>
 </p>
 <table style="minWidth: 75px">
@@ -725,12 +660,10 @@ if there is competition or rehearsal.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p><strong>Competition and Past Achievements</strong>
 </p>
 <p>Selected pupils will perform within the school and in the public, such
 as TGPS Year End Concert and Singapore Youth Festival.</p>
-<p>&nbsp;</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -739,11 +672,47 @@ as TGPS Year End Concert and Singapore Youth Festival.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>2024</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>CNY Celebration performance</p>
+</li>
+<li>
+<p>National Day Celebration performance</p>
+</li>
+<li>
+<p>Performance at National Inter-Primary School Chinese Poetry Writing Competition</p>
+</li>
+<li>
+<p>Distinction in Singapore Youth Festival (SYF) 2024 ARTS PRESENTATION FOR
+GUZHENG ENSEMBLE&nbsp;</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2023</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>CNY Celebration performance</p>
+</li>
+<li>
+<p>National Day Celebration performance</p>
+</li>
+<li>
 <p>Performance at National Inter-Primary School Chinese Poetry Writing Competition</p>
+</li>
+<li>
+<p>Back to school Assembly welcome performance</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -752,7 +721,11 @@ as TGPS Year End Concert and Singapore Youth Festival.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Singapore Youth Festival 2018 ARTS PRESENTATION FOR GUZHENG ENSEMBLE</p>
+<ul>
+<li>
+<p>Singapore Youth Festival 2022 ARTS PRESENTATION FOR GUZHENG ENSEMBLE&nbsp;</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -767,39 +740,25 @@ of Commendation)</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p></p>
-<h2><strong><u>Percussion</u></strong></h2>
-<p></p>
+<hr>
+<h3><strong><u>Percussion</u></strong></h3>
 <p>The Percussion Club is established with the intention to provide ample
-opportunities for students to perfect their rhythmic skills in a fun and
-engaging environment and to build up students’ confidence in performing
-in front of different audiences. Students can expect to be exposed to a
-variety of percussion instruments and to be taught by a professional and
-experienced instructor.</p>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="percussion 1" src="/images/CCAs 2024/percussion_1.jpg">
-</div>
+opportunities for pupils to perfect their rhythmic skills in a fun and
+engaging environment and to build up pupils’ confidence in performing in
+front of different audiences. Pupils can expect to be exposed to a variety
+of percussion instruments and to be taught by a professional and experienced
+instructor.</p>
 <p><strong>Aims:</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>To equip students with the skills of playing various percussion instruments.</p>
+<p>To equip pupils with the skills of playing various percussion instruments.</p>
 </li>
 <li>
-<p>To inculcate in students an understanding and appreciation of music and
+<p>To inculcate in pupils an understanding and appreciation of music and
 rhythm.</p>
 </li>
 </ul>
-<p></p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="percussion 2" src="/images/CCAs 2024/percussion_2.jpg">
-</div>
-<p></p>
 <p><strong>Core Values:</strong>
 </p>
 <table style="minWidth: 50px">
@@ -849,14 +808,10 @@ individual skills.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p><strong>Training Frequency (Day and Time): </strong>Every Monday, 2:30pm
-– 4:30pm<strong> </strong>(Music Room 2)</p>
-<p></p>
-<p><strong>Teachers in charge:</strong> Mr Lee Joon Ann (I/C) , Mr Ray Tan(2nd
-I/C)</p>
-<p></p>
+<p><strong>Training Frequency (Day and Time): </strong>
+<br>Every Monday, 2pm – 4pm<strong> </strong>(Band Room)</p>
+<p><strong>Teachers in charge:</strong> 
+<br>Mr Ray Tan (I/C) , Mr Lee Joon Ann (2nd I/C)</p>
 <p><strong>Progression:</strong>
 </p>
 <table style="minWidth: 125px">
@@ -904,30 +859,34 @@ I/C)</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p><strong>Past Performances</strong>
+<p><strong>Past Performances&nbsp;</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Teck Ghee CC Opening</p>
+<p>Teck Ghee CC Opening Ceremony</p>
 </li>
 <li>
-<p>Teck Ghee Primary School Speech Day</p>
+<p>Chingay performance in the heartlands at Teck Ghee</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><strong>Highlights for 2023</strong>
+<p><strong>2024 Highlights</strong>
 </p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
-<p>Chingay outdoor performance at Teck Ghee</p>
+<p>Singapore Youth Festival</p>
 </li>
 <li>
-<p>Internal performances</p>
+<p>Teck Ghee CC National Day Observance Ceremony</p>
 </li>
 <li>
-<p>Opportunity to watch external performances</p>
+<p>TGPS Support Staff Appreciation Day</p>
+</li>
+</ul>
+<p><strong>Miscellaneous</strong>
+</p>
+<ul>
+<li>
+<p>Opportunities to watch external performances</p>
 </li>
 <li>
 <p>Enrichment lessons such as drum circle</p>
