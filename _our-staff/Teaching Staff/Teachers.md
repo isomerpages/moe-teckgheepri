@@ -1009,9 +1009,6 @@ variant: tiptap
 </table>
 <p></p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Mother Tongue Teachers" src="/images/Mother_Tongue_Language_Department_FORMAL.jpg">
-</div>
 <h4><strong>Chinese Language Teachers</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
