@@ -734,10 +734,9 @@ drills and practices to enhance their skill.</p>
 </tbody>
 </table>
 <p><strong>Commitment Level:&nbsp;</strong>
-</p>
-<p>Members in the <strong>recreational team</strong> will train <strong>once</strong> a
-week (Mondays) for 2 hours each time.</p>
-<p>Members in the<strong> competitive team</strong> will train <strong>twice</strong> a
+<br>Members in the <strong>recreational team</strong> will train <strong>once</strong> a
+week (Mondays) for 2 hours each time.
+<br>Members in the<strong> competitive team</strong> will train <strong>twice</strong> a
 week (Mondays and Fridays) for 2 hours each time.&nbsp;</p>
 <p><strong>Training Frequency (Day and Time):</strong>
 </p>
