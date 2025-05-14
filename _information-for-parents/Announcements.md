@@ -2,7 +2,7 @@
 title: Announcements
 permalink: /extended-family/for-parents/announcements/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Announcements</strong></h3>
 <p></p>
