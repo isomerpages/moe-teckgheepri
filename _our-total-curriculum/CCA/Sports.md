@@ -268,6 +268,11 @@ the girls to communicate and work well with others.&nbsp;
 competitions will provide the girls with wonderful opportunities to learn
 self-discipline, to persevere and grow, to build life-long friendships
 and create lasting memories on and off the court.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/netball.png">
+</div>
+<p></p>
 <p><strong>Aims:</strong>
 <br>To equip the girls with the basic skills of the game, allowing them to
 know the game and know how to play the game.</p>
