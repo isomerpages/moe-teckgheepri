@@ -103,6 +103,17 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Head of Department (HOD)</strong> 
+<br>Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mrs Alia Koh
+<br><a href="mailto:alia_aziz_alkaff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alia_aziz_alkaff@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Head of Department (HOD)</strong> 
 <br>PE/CCA/Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -307,17 +318,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p><strong>Subject Head (SH)</strong> 
-<br>Science</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Alia Koh
-<br><a href="mailto:alia_aziz_alkaff@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alia_aziz_alkaff@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Subject Head (SH)</strong> 
 <br>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -339,7 +339,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (SH - Covering)</strong>
+<p><strong>Subject Head (SH)</strong>
 <br>Aesthetics</p>
 </td>
 <td rowspan="1" colspan="1">
