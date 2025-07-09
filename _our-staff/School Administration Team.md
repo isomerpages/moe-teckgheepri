@@ -87,8 +87,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Doris Law Kia Luan
-<br><a href="doris_law_kia_luan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">doris_law_kia_luan@moe.edu.sg</a>
+<p>Ms Nur Amirah Misnawi
+<br><a href="nur_amirah_misnawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_misnawi@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -166,17 +166,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Imran Bin Aminuddin
-<br><a href="imran.aminuddin@ncs.com.sg" rel="noopener noreferrer nofollow" target="_blank">imran.aminuddin@ncs.com.sg</a>
+<br><a href="mailto:imranaminuddin@teckgheepri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imranaminuddin@teckgheepri.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Dental Therapist</strong>
+<p></p>
+<p>Mr Arvin Balakrishnan</p>
+<p><a href="mailto:arvin.balakrishnan@teckgheepri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arvin.balakrishnan@teckgheepri.edu.sg</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Yu Xuan</p>
 </td>
 </tr>
 <tr>
