@@ -25,19 +25,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Chai Boon Yen</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Lead Teacher</strong>
-<br>Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="chai_boon_yen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chai_boon_yen@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Mr Mohamad Rosli B Masnawi</p>
 </td>
 <td rowspan="1" colspan="1">
