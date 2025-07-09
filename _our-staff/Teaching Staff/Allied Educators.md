@@ -92,7 +92,7 @@ variant: tiptap
 <p>Special Education Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:asnira_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asnira_asari@moe.edu.sg</a> 
+<p><a href="mailto:asnira_asari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">asnira_asari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>Special Education Needs Officer (SENO)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:siti_nurhidayah_mazland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhidayah_mazland@moe.edu.sg</a> 
+<p><a href="mailto:siti_nurhidayah_mazland@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_nurhidayah_mazland@moe.edu.sg</a>
 </p>
 </td>
 </tr>
