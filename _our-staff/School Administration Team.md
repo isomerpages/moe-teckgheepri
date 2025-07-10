@@ -91,6 +91,9 @@ variant: tiptap
 <br><a href="nur_amirah_misnawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_misnawi@moe.edu.sg</a>
 </p>
 <p></p>
+<p>Ms Heng Siew Lui</p>
+<p><a href="mailto:heng_siew_lui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_lui@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -185,4 +188,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
