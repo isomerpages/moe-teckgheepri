@@ -85,8 +85,7 @@ to achieve their final piece</p>
 </tbody>
 </table>
 <p><strong>Teachers in charge: </strong>
-<br>Ms Lin Kaili (I/C), Ms Tanti (2nd I/C),&nbsp; Mdm Nurain and Ms Gladys
-Neo&nbsp;</p>
+<br>Ms Lin Kaili (I/C), Ms Tanti (2nd I/C),&nbsp;and Mdm Nurain</p>
 <p><strong>Commitment Level</strong>:
 <br>The pupils will attend art club sessions every Monday.&nbsp;Each session
 lasts 2 hours.&nbsp;</p>
