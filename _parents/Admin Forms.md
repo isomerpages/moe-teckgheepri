@@ -5,101 +5,72 @@ variant: tiptap
 description: ""
 ---
 <h2>Admin Forms</h2>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Form</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Link to form</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Waiting List</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Waiting_List_Form.pdf" rel="noopener nofollow" target="_blank">Application for Waiting List</a>
+<p><strong>Form Name</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Update of Address</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Form_C__Address_Updates_.pdf" rel="noopener nofollow" target="_blank">Form for Updating of Address.pdf</a>
+<p><a href="https://form.gov.sg/6850cfc0eb41927ee8c317cd" rel="noopener nofollow" target="_blank">Enrolment Interest Form</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for Leave of Absence</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Leave_of_absence_application.pdf" rel="noopener nofollow" target="_blank">Application for Leave of Absence.pdf</a>
+<p><a href="https://go.gov.sg/tgps-withdrawal-form" rel="noopener nofollow" target="_blank">Withdrawal Form (Mainstream School Leaver)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for FAS</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/MOE_FAS_Application_Form_2025.pdf" rel="noopener nofollow" target="_blank">MOE FAS Application Form 2025</a>
+<p><a href="https://form.gov.sg/6889b270d47d9e631fd01670" rel="noopener nofollow" target="_blank">Leave Of Absence (LOA) Form</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for GIRO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">Application for eGiro</a>
+<p><a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener nofollow" target="_blank">Student Details Form (for change of address or contact info)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Termination of GIRO</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/GIRO_Termination_Form_revisedSep19.pdf" rel="noopener nofollow" target="_blank">GIRO Termination Form</a>
+<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener nofollow" target="_blank">GIRO Standing Order</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Application for digital access</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Application for Digital Access</a>
+<p><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener nofollow" target="_blank">Edusave Standing Order</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Change of Mother Tongue Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/Form_4___CHGE__8_Dec_2023____Ang_Hui_Mieng.pdf" rel="noopener nofollow" target="_blank">Change of Mother Tongue Language.pdf</a>
+<p><a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener nofollow" target="_blank">FAS application Form</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group Accident Student Insurance for Student</p>
+<p><a href="https://www.imda.gov.sg/how-we-can-help/digital-access-at-home" rel="noopener nofollow" target="_blank">Application for Digital Access @ Home (provide subsidised broadband and laptops/tablets to lower-income households)</a>
+</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.income.com.sg/studentgpa" rel="noopener nofollow" target="_blank">Link to insurer</a>
+<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-centres-and-moe/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
