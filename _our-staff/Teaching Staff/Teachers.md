@@ -3,7 +3,7 @@ title: Teachers
 permalink: /our-family/teaching-staff/teachers/
 description: ""
 third_nav_title: Teaching Staff
-variant: tiptap
+variant: markdown
 ---
 <h3>Teachers</h3>
 <h4><strong>Primary 1</strong></h4>
@@ -66,13 +66,6 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Ms Soh Shi Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:soh_shi_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">soh_shi_ting@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="3" colspan="1">
