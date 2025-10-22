@@ -54,7 +54,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://form.gov.sg/68369b40a990b6224d671c5d" rel="noopener nofollow" target="_blank">FAS application Form</a>
+<p><a href="https://go.gov.sg/moe-efasggas" rel="noopener nofollow" target="_blank">FAS application Form</a>
 </p>
 </td>
 </tr>
