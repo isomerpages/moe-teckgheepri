@@ -97,7 +97,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist</a>
+<p><a href="/files/2026 booklist/P4_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist</a>
 </p>
 </td>
 </tr>
@@ -106,12 +106,16 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P5.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist (P5B to P5F)</a>
+<p><a href="/files/2026 booklist/P5__A_B_E_F__Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist (for 5A)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P5A.pdf" rel="noopener nofollow" target="_blank">Primary 5A Booklist</a>
-</p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P5A__FDN_.pdf" rel="noopener nofollow" target="_blank">Primary 5A (Foundation) Booklist</a>
-</p>
+<p>Primary 5 Booklist (for 5B)</p>
+<p>Primary 5 Booklist (for 5C)</p>
+<p>Primary 5 Booklist (for 5D)</p>
+<p>Primary 5 Booklist (for 5E)</p>
+<p>Primary 5 Booklist (for 5F)</p>
+<p>Primary 5 Booklist (for 5 Foundation)</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
