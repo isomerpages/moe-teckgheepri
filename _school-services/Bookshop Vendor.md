@@ -50,7 +50,7 @@ variant: tiptap
 </table>
 <p>Should you need to purchase school books/uniforms at the school bookshop,
 you may enter the school between 2 p.m. and 3 p.m.</p>
-<h4><strong>2025 Booklist</strong></h4>
+<h4><strong>2026 Booklist</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
