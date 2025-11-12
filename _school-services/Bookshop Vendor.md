@@ -79,7 +79,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist</a>
+<p><a href="/files/2026 booklist/P2_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist</a>
+<p><a href="/files/2026 booklist/P3_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist</a>
 </p>
 </td>
 </tr>
