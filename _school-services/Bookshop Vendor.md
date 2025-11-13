@@ -50,7 +50,7 @@ variant: tiptap
 </table>
 <p>Should you need to purchase school books/uniforms at the school bookshop,
 you may enter the school between 2 p.m. and 3 p.m.</p>
-<h4><strong>2025 Booklist</strong></h4>
+<h4><strong>2026 Booklist</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -70,7 +70,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P1.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist</a>
+<p><a href="/files/2026 booklist/P1_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 1 Booklist</a>
 </p>
 </td>
 </tr>
@@ -79,7 +79,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P2.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist</a>
+<p><a href="/files/2026 booklist/P2_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 2 Booklist</a>
 </p>
 </td>
 </tr>
@@ -88,7 +88,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P3.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist</a>
+<p><a href="/files/2026 booklist/P3_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 3 Booklist</a>
 </p>
 </td>
 </tr>
@@ -97,7 +97,7 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P4.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist</a>
+<p><a href="/files/2026 booklist/P4_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 4 Booklist</a>
 </p>
 </td>
 </tr>
@@ -106,12 +106,22 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P5.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist (P5B to P5F)</a>
+<p><a href="/files/2026 booklist/P5__A_B_E_F__Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 5 Booklist (for 5A)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P5A.pdf" rel="noopener nofollow" target="_blank">Primary 5A Booklist</a>
+<p><a href="/files/2026 booklist/P5__A_B_E_F__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5B)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P5A__FDN_.pdf" rel="noopener nofollow" target="_blank">Primary 5A (Foundation) Booklist</a>
+<p><a href="/files/2026 booklist/P5__C_D__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5C)</a>
 </p>
+<p><a href="/files/2026 booklist/P5__C_D__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5D)</a>
+</p>
+<p><a href="/files/2026 booklist/P5__A_B_E_F__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5E)</a>
+</p>
+<p><a href="/files/2026 booklist/P5__A_B_E_F__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5F)</a>
+</p>
+<p><a href="/files/2026 booklist/P5__FDN__Booklist_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Primary 5 Booklist (for 5 Foundation)</a>
+</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -119,18 +129,18 @@ you may enter the school between 2 p.m. and 3 p.m.</p>
 <p>Primary 6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/2025 Booklists/Booklists_2025_P6A.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6A)</a>
+<p><a href="/files/2026 booklist/P6A_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6A)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P6B.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6B)</a>
+<p><a href="/files/2026 booklist/P6B_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6B)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P6C.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6C)</a>
+<p><a href="/files/2026 booklist/P6C___P6D_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6C)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P6D.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6D)</a>
+<p><a href="/files/2026 booklist/P6C___P6D_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6D)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P6E.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6E)</a>
+<p><a href="/files/2026 booklist/P6E___P6F_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6E)</a>
 </p>
-<p><a href="/files/2025 Booklists/Booklists_2025_P6F.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6F)</a>
-<br><a href="/files/2025 Booklists/Booklists_2025_P6__FDN_.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6 Foundation)</a>
+<p><a href="/files/2026 booklist/P6E___P6F_Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6F)</a>
+<br><a href="/files/2026 booklist/P6__FDN__Booklist_2026.pdf" rel="noopener nofollow" target="_blank">Primary 6 Booklist (for 6 Foundation)</a>
 </p>
 </td>
 </tr>
