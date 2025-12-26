@@ -27,5 +27,5 @@ purposeful use of technology.</p>
 <p>If you have failed to login twice or are locked out of the system, inform
 your form teacher(s) or subject teacher(s) so that they could reset the
 password for you.</p>
-<p>Alternatively, you may submit a request via <a href="https://form.gov.sg/609de16fb3fce000127e3ffe" rel="noopener nofollow" target="_blank">Password Request Form</a> and
+<p>Alternatively, you may submit a request via <a href="https://for.edu.sg/tgpspasswordreset" rel="noopener nofollow" target="_blank">Password Request Form</a> and
 we will respond via email within 1 to 2 working days.</p>
