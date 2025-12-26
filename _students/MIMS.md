@@ -275,7 +275,7 @@ repeat the logging in procedure.
 </p>
 <p></p>
 <p><strong>7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong>
-<br>Submit a request via <a href="https://form.gov.sg/609de16fb3fce000127e3ffe" rel="noopener nofollow" target="_blank">Password Request Form</a> and
+<br>Submit a request via <a href="https://for.edu.sg/tgpspasswordreset" rel="noopener nofollow" target="_blank">Password Request Form</a> and
 we will respond via email within 1 to 2 working days.
 <br>
 </p>
