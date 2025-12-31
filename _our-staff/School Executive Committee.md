@@ -84,7 +84,7 @@ variant: tiptap
 <br>English Language</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Azlina Suhaimi
+<p>Mrs Azlina Binte Mohd Nor
 <br><a href="mailto:azlina_mohd_nor@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">azlina_mohd_nor@moe.edu.sg</a>
 </p>
 </td>
@@ -175,7 +175,7 @@ variant: tiptap
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Fadzil
+<p>Mr Mohamed Fadzil Bin Mustapha
 <br><a href="mailto:mohamed_fadzil_mustapha@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamed_fadzil_mustapha@moe.edu.sg</a>
 </p>
 </td>
@@ -197,7 +197,7 @@ variant: tiptap
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamad Imran
+<p>Mr Mohamad Imran Bin Osman
 <br><a href="mailto:mohamad_imran_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_imran_osman@moe.edu.sg</a>
 </p>
 </td>
@@ -237,12 +237,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head(AYH)</strong> 
+<p><strong>Assistant Year Head(AYH - Covering)</strong> 
+<br>Primary 1 &amp; 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yeo Siew Ting</p>
+<p><a href="mailto:yeo_siew_ting@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yeo_siew_ting@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Assistant Year Head(AYH - Covering)</strong> 
 <br>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chin Zhen Shan</p>
-<p><a href="mailto:chin_zhen_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhen_shan@moe.edu.sg</a> 
+<p><a href="mailto:chin_zhen_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhen_shan@moe.edu.sg</a>
 </p>
 </td>
 </tr>
