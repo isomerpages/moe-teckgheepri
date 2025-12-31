@@ -182,17 +182,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department(HOD)</strong> 
-<br>Character &amp; Citizenship Education(CCE)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Anushia Devi
-<br><a href="mailto:anushia_devi_balachandran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">anushia_devi_balachandran@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Subject Head(SH)</strong> 
 <br>Student Leadership and VIA</p>
 </td>
@@ -252,8 +241,8 @@ variant: tiptap
 <br>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Liu Xianglin
-<br><a href="mailto:liu_xianglin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">liu_xianglin@moe.edu.sg</a>
+<p>Mdm Chin Zhen Shan</p>
+<p><a href="mailto:chin_zhen_shan@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_zhen_shan@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
@@ -400,12 +389,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Operations Manager</strong> 
+<p><strong>Operations Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lai Jeow Fai
-<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a> 
+<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
