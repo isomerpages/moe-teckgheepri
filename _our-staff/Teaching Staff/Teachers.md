@@ -290,7 +290,8 @@ variant: tiptap
 <p>Ms Nurain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>nurain_mohamad@moe.edu.sg</p>
+<p><a href="mailto:nurain_mohamad@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nurain_mohamad@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -301,7 +302,8 @@ variant: tiptap
 <p>Mrs Valerie Heng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_sock_tze@moe.edu.sg</p>
+<p><a href="mailto:tan_sock_tze@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_sock_tze@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -309,7 +311,8 @@ variant: tiptap
 <p>Mdm Gwende Tan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>tan_li_eng_gwende@moe.edu.sg</p>
+<p><a href="mailto:tan_li_eng_gwende@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_li_eng_gwende@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
@@ -317,7 +320,8 @@ variant: tiptap
 <p>Mr Sherhan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>sherhan_suhandi@moe.edu.sg</p>
+<p><a href="mailto:sherhan_suhandi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sherhan_suhandi@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
@@ -700,7 +704,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mr Vivek</p>
+<p>Mr Vivek Nair</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:yethidran_vivek_nair@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">yethidran_vivek_nair@moe.edu.sg</a>
@@ -754,7 +758,8 @@ variant: tiptap
 <p>Mdm Samra</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>saa_dewi_sanwari@moe.edu.sg</p>
+<p><a href="mailto:saa_dewi_sanwari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">saa_dewi_sanwari@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
