@@ -5,7 +5,7 @@ links:
   - title: Our Staff
     collection: our-staff
   - title: Our Total Curriculum
-    url: /our-experiences/deep-learning/
+    url: /our-experiences/curriculum-experience/
     sublinks:
       - title: Deep Learning
         url: /our-experiences/deep-learning/
