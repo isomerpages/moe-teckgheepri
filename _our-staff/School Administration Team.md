@@ -41,7 +41,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lee Cheng Koon
 <br><a href="lee_cheng_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_cheng_koon@moe.edu.sg</a>
-</p>
+<br>
+<br>Mr Lai Jeow Fai
+<br>lai_jeow_fai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -77,6 +79,9 @@ variant: tiptap
 <br>
 <br>Mdm Christine Ng Lee Huang
 <br><a href="ng_lee_huang_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_huang_christine@moe.edu.sg</a>
+<br>
+<br>Ms Neo Pheck Keow June
+<br><a href="https://www.teckgheepri.moe.edu.sg/our-family/teaching-staff/allied-educators/neo_pheck_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_pheck_keow@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
