@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Ayu</p>
+<p>Ms Tanti Nur Hidayu</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tanti_nur_hidayu_zainal@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tanti_nur_hidayu_zainal@moe.edu.sg</a>
