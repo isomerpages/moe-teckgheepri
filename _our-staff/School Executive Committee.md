@@ -317,7 +317,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (SH)</strong> 
+<p><strong>Level Head (SH)</strong> 
 <br>Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -400,10 +400,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Operations Manager</strong> 
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lai Jeow Fai
+<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 </tbody>
