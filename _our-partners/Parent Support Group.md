@@ -5,7 +5,6 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Parent Support Group</strong></h3>
-<p></p>
 <p>At Teck Ghee Primary School, our parent volunteers have been a source
 of inspiration. Their dedication has enriched numerous school events, fostering
 a sense of joy and unity among students, teachers, and families. Their
@@ -17,11 +16,9 @@ their compassion for those in need. Beyond their official duties, they
 invested time in building strong relationships and fostering camaraderie.
 We are deeply grateful for their unwavering support and the positive impact
 they have made on our school and community.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/collage2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG/PSG.png">
 </div>
-<p></p>
 <h4><strong>PSG Logo</strong></h4>
 <p></p>
 <div class="isomer-image-wrapper">
