@@ -2,7 +2,7 @@
 title: Science
 permalink: /our-experiences/deep-learning/science/
 description: ""
-third_nav_title: Teaching & Learning (T&L)
+third_nav_title: Leaders in Learning
 variant: markdown
 ---
 ### **Science**

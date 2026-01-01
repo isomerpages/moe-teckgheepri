@@ -3,7 +3,7 @@ title: Character & Citizenship Education (CCE)
 permalink: /cce/
 variant: tiptap
 description: ""
-third_nav_title: Student Development
+third_nav_title: Leaders in Well Being
 ---
 <h1>Character &amp; Citizenship Education</h1>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">

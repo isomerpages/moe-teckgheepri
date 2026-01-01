@@ -2,7 +2,7 @@
 title: English
 permalink: /our-experiences/deep-learning/english/
 description: ""
-third_nav_title: Teaching & Learning (T&L)
+third_nav_title: Leaders in Learning
 ---
 ### **English**
 

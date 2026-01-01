@@ -41,7 +41,9 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mr Lee Cheng Koon
 <br><a href="lee_cheng_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_cheng_koon@moe.edu.sg</a>
-</p>
+<br>
+<br>Mr Lai Jeow Fai
+<br>lai_jeow_fai@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -52,7 +54,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Siti Suhailah Binte Sulaiman
 <br><a href="siti_suhailah_sulaiman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">siti_suhailah_sulaiman@moe.edu.sg</a>
-<br>
 </p>
 </td>
 </tr>
@@ -78,6 +79,9 @@ variant: tiptap
 <br>
 <br>Mdm Christine Ng Lee Huang
 <br><a href="ng_lee_huang_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_huang_christine@moe.edu.sg</a>
+<br>
+<br>Ms Neo Pheck Keow June
+<br><a href="https://www.teckgheepri.moe.edu.sg/our-family/teaching-staff/allied-educators/neo_pheck_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_pheck_keow@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -91,8 +95,8 @@ variant: tiptap
 <br><a href="nur_amirah_misnawi@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">nur_amirah_misnawi@moe.edu.sg</a>
 </p>
 <p></p>
-<p>Ms Heng Siew Lui</p>
-<p><a href="mailto:heng_siew_lui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_lui@moe.edu.sg</a> 
+<p>Ms Heng Siew Lui
+<br><a href="mailto:heng_siew_lui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">heng_siew_lui@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -104,7 +108,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p>Mdm Patricia Koh
 <br>Mr Lim Tiong Huat
-<br>Mdm Rama Poonkothai
 <br>Mdm Sagaiah Devi d/o Karupiah
 <br>Mr Yeo Kim Thye</p>
 </td>
@@ -140,7 +143,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Helen Seah</p>
+<p>Mdm Tan Li Yen</p>
 </td>
 </tr>
 <tr>
@@ -173,8 +176,8 @@ variant: tiptap
 <br><a href="mailto:imranaminuddin@teckgheepri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">imranaminuddin@teckgheepri.edu.sg</a>
 </p>
 <p></p>
-<p>Mr Arvin Balakrishnan</p>
-<p><a href="mailto:arvin.balakrishnan@teckgheepri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arvin.balakrishnan@teckgheepri.edu.sg</a>
+<p>Mr Arvin Balakrishnan
+<br><a href="mailto:arvin.balakrishnan@teckgheepri.edu.sg" rel="noopener noreferrer nofollow" target="_blank">arvin.balakrishnan@teckgheepri.edu.sg</a>
 </p>
 </td>
 </tr>

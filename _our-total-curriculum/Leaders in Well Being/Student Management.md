@@ -2,7 +2,7 @@
 title: Student Management
 permalink: /our-school/student-management/
 description: ""
-third_nav_title: Student Development
+third_nav_title: Leaders in Well Being
 variant: tiptap
 ---
 <h3><strong>Student Management</strong></h3>
