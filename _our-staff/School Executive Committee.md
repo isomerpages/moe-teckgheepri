@@ -171,7 +171,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Head of Department(HOD)</strong> 
+<p><strong>Head of Department (HOD)</strong> 
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -182,7 +182,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head(SH)</strong> 
+<p><strong>Subject Head (SH)</strong> 
 <br>Student Leadership and VIA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -193,7 +193,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head(SH - Covering)</strong>
+<p><strong>Subject Head (SH - Covering)</strong>
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -204,7 +204,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head(YH)</strong> 
+<p><strong>Year Head (YH)</strong> 
 <br>Primary 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,7 +215,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head(YH)</strong> 
+<p><strong>Year Head (YH)</strong> 
 <br>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -237,7 +237,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head(AYH - Covering)</strong> 
+<p><strong>Assistant Year Head (AYH - Covering)</strong> 
 <br>Primary 1 &amp; 2</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -248,7 +248,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head(AYH - Covering)</strong> 
+<p><strong>Assistant Year Head (AYH - Covering)</strong> 
 <br>Primary 3 &amp; 4</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -259,7 +259,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Assistant Year Head(AYH)</strong> 
+<p><strong>Assistant Year Head (AYH)</strong> 
 <br>Primary 5 &amp; 6</p>
 </td>
 <td rowspan="1" colspan="1">
