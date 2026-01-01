@@ -6,6 +6,10 @@ description: ""
 third_nav_title: Leaders in Well Being
 ---
 <h1>Character &amp; Citizenship Education</h1>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce.png">
+</div>
+<p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>MOE Sexuality Education in Schools</strong>
@@ -255,38 +259,76 @@ programme.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>Values in Education</strong>
+<summary><strong>Values Education</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<h4><strong>Values-in-Education</strong></h4>
-<p>This is how VIA is progressively planned and implemented in TGPS. Each
-block of level has different focus area and at the end of six years, we
-feel that our students will have a clearer picture of the issues faced
-within the society and they can do something within their means to address
-it as well. With this framework, we aim to have every level do its part
-and pay it forward to the community.</p>
+<p>Students learn and internalize the school values—Teamspirit, Graciousness,
+Perseverance, and Self-Discipline—through engaging discussions and hands-on
+activities. Positive behaviors reflecting these values are recognized with
+well-done cards to reinforce learning.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie1.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce2.png">
+</div>
+<p>
+<br><strong>Values in Action</strong>
+</p>
+<p>At TGPS, our Values in Action (VIA) program is designed to instill empathy
+and social responsibility in our students through a structured, progressive
+approach. Each level focuses on a different aspect of care, guiding students
+from understanding societal issues to taking meaningful action.</p>
+<p>By the end of six years, students will have a clearer understanding of
+real-world challenges and be empowered to contribute positively within
+their means. Our whole-school approach further reinforces this commitment
+through initiatives such as the Clothing Recycling Drive and Food Donation
+Drive, fostering a culture of giving and sustainability.</p>
+<p>Together, we strive towards a Caring, Sustainable &amp; Inclusive Singapore.</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce3.png">
+</div>
+<p>
+<br><strong>Lower Primary</strong>: Introducing empathy through animal advocacy
+via SPCA talk and story-telling.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce4.png">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/cce5.png">
 </div>
+<p><strong>Middle Primary: </strong>Students developing empathy through caring
+for the environment and community&nbsp;</p>
+<p>
+<br><strong>P3</strong>: Work with NEA in understanding and promoting Singapore’s
+Hawker culture.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p3.png">
+</div>
+<p><strong>P4</strong>: Develop empathy through raising awareness on estate
+cleanliness (AMK TC) &amp; Food sustainability via litter picking and giving
+out brochures.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p4.png">
 </div>
+<p><strong>Upper Primary: Application of Empathy through caring for the community.&nbsp;</strong>
+</p>
 <p></p>
+<p><strong>P5:</strong> Host Active Ageing Intergenerational learning workshop
+(ILP) in partnership with Ren Ci Nursing Home&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/vie4.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p5.png">
 </div>
-<p></p>
+<p><strong>P6: Active Ageing</strong> – Connecting with seniors from Lion
+Befrienders through an interactive exercise and conversation session at
+Bishan Park, fostering well-being and meaningful intergenerational relationships.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PosEd_Overview_2024.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/p6.png">
 </div>
 </div>
 </details>
 </div>
-<h4></h4>
 <p></p>
