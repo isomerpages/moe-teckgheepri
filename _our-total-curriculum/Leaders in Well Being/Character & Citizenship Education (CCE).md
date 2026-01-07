@@ -47,7 +47,7 @@ ones.</p>
 <p></p>
 <p>You may click <a href="https://go.gov.sg/moe-sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on MOE Sexuality Education.</p>
-<h4><strong>Overview of Teck Ghee Primary School’s Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>Overview of Teck Ghee Primary School’s Sexuality Education Programme for 2026</strong></h4>
 <p>4. Sexuality Education is delivered in a holistic manner through the school
 curriculum. The content for Sexuality Education is grouped into five main
 themes: Human Development, Interpersonal Relationships, Sexual Health,
@@ -74,7 +74,7 @@ growing years. They learn to build healthy and rewarding relationships
 with others, including those with members of the opposite sex. Students
 are also guided to make wise, informed and responsible decisions to keep
 themselves safe from sexuality-related risks.</p>
-<h4><strong>At Teck Ghee Primary School, the following Sexuality Education lessons will be taught in 2025:</strong></h4>
+<h4><strong>At Teck Ghee Primary School, the following Sexuality Education lessons will be taught in 2026:</strong></h4>
 <hr>
 <p><strong>Primary 5</strong>
 </p>
@@ -251,8 +251,8 @@ and/or supplementary Sexuality Education programmes by MOE-approved external
 providers.</p>
 <p>9.&nbsp; Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;to
-parents at the start of the year and is also accessible <a href="https://go.gov.sg/tgps-sed-opt-out" rel="noopener noreferrer nofollow" target="_blank">here</a> and
-to be submitted by&nbsp;21/02/2025.</p>
+parents at the start of the year and is also accessible <a href="https://go.gov.sg/tgps-sed-optout" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
+completed opt-out form is to be by&nbsp;<strong>30 January 2026</strong>.</p>
 <p>10. Parents can contact the school at&nbsp;<a href="mailto:tgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tgps@moe.edu.sg</a>&nbsp;or&nbsp;<strong>6454 8769</strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>

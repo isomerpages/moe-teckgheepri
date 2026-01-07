@@ -15,6 +15,9 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_31_at_10_40_34_AM.jpg">
+</div>
 <p></p>
 </th>
 <th rowspan="1" colspan="2">
@@ -23,20 +26,7 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<h4></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_12_31_at_10_40_34_AM.jpg">
-</div>
-<h4><strong>Principal’s Message</strong></h4>
-<p>Welcome to the new school year! I am delighted to begin 2026 with you
-and our TGStars as we continue to shape a school experience that places
-strong emphasis on developing <strong>Leaders of Learning and Wellbeing</strong>.</p>
-<p>At the heart of our work is the belief that children thrive when they
-feel confident, valued, and supported. When students learn to manage their
-emotions, build positive friendships, and develop healthy habits, they
-grow in confidence and purpose. Through our core values of <strong>Team Spirit, Graciousness, Perseverance, and Self-Discipline</strong>,
-we guide our TGStars to care for others, keep trying even when learning
-is challenging, and take pride in doing their best.</p>
+<p></p>
 <p>We encourage our students to be active participants in their learning.
 Whether in the classroom or through outdoor and experiential learning,
 our TGStars are given opportunities to put their strengths into action,
