@@ -252,7 +252,7 @@ providers.</p>
 <p>9.&nbsp; Parents who wish to opt their children out of the Sexuality Education
 lessons need to complete an opt-out form. This form will be communicated&nbsp;to
 parents at the start of the year and is also accessible <a href="https://go.gov.sg/tgps-sed-optout" rel="noopener noreferrer nofollow" target="_blank">here.</a> The
-completed opt-out form is to be by&nbsp;<strong>30 Jan 2026</strong>.</p>
+completed opt-out form is to be by&nbsp;<strong>30 January 2026</strong>.</p>
 <p>10. Parents can contact the school at&nbsp;<a href="mailto:tgps@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tgps@moe.edu.sg</a>&nbsp;or&nbsp;<strong>6454 8769</strong>&nbsp;for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
