@@ -4,12 +4,12 @@ permalink: /extended-family/for-parents/student-icon/
 description: ""
 variant: tiptap
 ---
-<h3><strong>MIMS / Student iCON</strong></h3>
-<p></p>
+<h4><strong>MIMS / Student iCON</strong></h4>
+<h4><a href="https://mims.moe.gov.sg/" rel="noopener nofollow" target="_blank">MIMS</a></h4>
 <h4><strong>FREQUENTY ASKED QUESTIONS</strong></h4>
 <p><strong>Q1. What is the naming convention for Student iCON email address?</strong>
-<br>a. The student’s email address will be based on @students.edu.sg. b. Any
-space in the full name will be replaced with an underscore.
+<br>a. The student’s email address will be based on @<a href="http://students.edu.sg" rel="noopener noreferrer nofollow" target="_blank">students.edu.sg</a>.
+<br>b. Any space in the full name will be replaced with an underscore.
 <br>c. Should the student’s full name have words such as “Bte” and “s/o”,
 they will not appear in the email address.
 <br>d. For cases where students share the same full name, we have added a
