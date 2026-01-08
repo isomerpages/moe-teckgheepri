@@ -276,6 +276,8 @@ repeat the logging in procedure.
 <p></p>
 <p><strong>7.&nbsp; I receive the following message:&nbsp;Your account is temporarily locked to prevent unauthorized use. What should I do?</strong>
 <br>Submit a request via <a href="https://for.edu.sg/tgpspasswordreset" rel="noopener nofollow" target="_blank">Password Request Form</a> and
-we will respond via email within 1 to 2 working days.
+we will respond via Parent's Gateway within 3 working days. The password
+reset is a manual process, and we will try to get back to you as soon as
+we can. Alternatively, you can inform your child/ward's Form Teacher.
 <br>
 </p>
