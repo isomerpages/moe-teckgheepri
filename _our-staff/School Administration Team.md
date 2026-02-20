@@ -59,7 +59,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>ICT Associate(s)</strong>
+<p><strong>ICT Associate</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -79,8 +79,16 @@ variant: tiptap
 <br>
 <br>Mdm Christine Ng Lee Huang
 <br><a href="ng_lee_huang_christine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lee_huang_christine@moe.edu.sg</a>
-<br>
-<br>Ms Neo Pheck Keow June
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>AED (Admin Support)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Neo Pheck Keow June
 <br><a href="https://www.teckgheepri.moe.edu.sg/our-family/teaching-staff/allied-educators/neo_pheck_keow@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank"><u>neo_pheck_keow@moe.edu.sg</u></a>
 </p>
 </td>
