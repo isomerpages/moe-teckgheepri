@@ -20,8 +20,7 @@ variant: tiptap
 </li>
 </ul>
 <p><strong>Urgent Dental Treatment (When Our Clinic Is Closed)</strong>
-</p>
-<p>Students who require <strong>urgent dental care</strong> may contact the
+<br>Students who require <strong>urgent dental care</strong> may contact the
 following buddy clinics via phone call or WhatsApp:</p>
 <ul data-tight="true" class="tight">
 <li>
