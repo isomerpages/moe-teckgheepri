@@ -39,4 +39,3 @@ following buddy clinics via phone call or WhatsApp:</p>
 we will contact you once the clinic is open again. Thank you.</p>
 <p>For <strong>general enquiry</strong>, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
-<p></p>
