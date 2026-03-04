@@ -66,7 +66,7 @@ description: ""
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.income.com.sg/group-insurance-for-schools-and-moe-personnel/group-personal-accident-for-students" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
+<p><a href="https://www.income.com.sg/claims/group-personal-accident-for-students-claim" rel="noopener nofollow" target="_blank">Group Personal Accident Insurance for Students</a>
 </p>
 </td>
 </tr>
