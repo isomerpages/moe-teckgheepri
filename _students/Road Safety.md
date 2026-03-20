@@ -2,22 +2,72 @@
 title: Road Safety
 permalink: /our-school/student-management/road-safety/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-### **Road Safety**
-The school seeks the parents’ cooperation in ensuring the safety of students coming in and leaving school. This is especially important as children may not have the comprehensive knowledge on road safety as they are young. They are not be aware of the dangers posed to them.
-
-#### **Road Safety Policies of the school:**
-a. Reduce vehicle speed and stay alert for pedestrians in the school zone.<br>
-b. **School Zone: 30 km/h Within school compound: 15 km/h**<br>
-c. Cooperate with traffic marshals to ensure overall safety and smooth traffic flow.<br>
-d. Alight only at the designated drop-off point.<br>
-e. Be advised not to violate traffic rules by driving recklessly or making illegal manoeuvers.<br>
-f. Do not sound the car horn indiscriminately.<br>
-Help your child alight from the car as quickly as possible.<br>
-g. Reinforce correct road safety behaviour such as using the pedestrian crossing, avoiding jaywalking or using a hand phone while crossing.<br>
-h. Remind your children to practice the kerb drill before crossing - “look right, look left, look right again, ensure all vehicles have stopped, raise your hand high up and cross the road briskly”.'
-
-For safety reasons, the school seeks all drivers not to stop and alight children opposite the school entrance area and cross the road. This is unsafe and it is considered as an offence of jaywalking. Let's work together to promote road safety from young and cultivate good habits.  
-
-Please note that during wet weather, our school buses need to leave the school compound after dismissal. As such, parents are only allowed to drive into the school to alight or pick up their children 20 minutes after school hours at the school foyer.
+<h4><strong>Road Safety Advisory for Students</strong></h4>
+<p>To ensure everyone stays safe when travelling to and from school, students
+are reminded to practise good road safety habits at all times.</p>
+<h4><strong>General Road Safety Tips</strong></h4>
+<ul data-tight="true" class="tight">
+<li>
+<p>Always <strong>walk on the pavement</strong> and keep a safe distance from
+the road.</p>
+</li>
+<li>
+<p><strong>Do not run or play near the road</strong>.</p>
+</li>
+<li>
+<p><strong>Avoid using mobile phones or other devices</strong> while walking
+near traffic.</p>
+</li>
+<li>
+<p>Always be <strong>alert and aware of vehicles</strong> around you.</p>
+</li>
+<li>
+<p>Follow the instructions of <strong>teachers, school staff, road marshals and security officers</strong>.</p>
+</li>
+</ul>
+<h4><strong>Crossing the Road Safely</strong></h4>
+<ul>
+<li>
+<p>Always use <strong>designated crossings</strong> such as:</p>
+</li>
+<li>
+<p>Zebra crossings</p>
+</li>
+<li>
+<p>Traffic light crossings</p>
+</li>
+<li>
+<p>Overhead bridges or underpasses</p>
+</li>
+<li>
+<p>Wait for the <strong>green man signal</strong> before crossing at traffic
+lights.</p>
+</li>
+<li>
+<p><strong>Never dash across the road</strong>, even if you are in a hurry.</p>
+</li>
+</ul>
+<h4><strong>Remember the Kerb Drill</strong></h4>
+<p>When crossing the road, practise the <strong>Kerb Drill</strong>:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Stop</strong> one step behind the kerb.</p>
+</li>
+<li>
+<p><strong>Look Right, Look Left, Look Right again</strong> for approaching
+vehicles.</p>
+</li>
+<li>
+<p><strong>Listen</strong> for traffic sounds.</p>
+</li>
+<li>
+<p><strong>Think</strong> if it is safe to cross.</p>
+</li>
+<li>
+<p><strong>Walk across the road quickly</strong>, but <strong>do not run</strong>.</p>
+</li>
+</ul>
+<p>Let us all play our part in keeping our school community safe by practising <strong>good road safety habits everyday.</strong>
+</p>
