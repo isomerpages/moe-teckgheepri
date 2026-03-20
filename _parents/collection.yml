@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Primary 1 (P1) registration.md
+      - General Information/Traffic Management.md
       - General Information/School Security & Gate Operating Hours.md
       - General Information/.keep
       - General Information/School Curriculum Hours.md
