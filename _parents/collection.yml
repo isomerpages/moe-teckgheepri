@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Primary 1 (P1) registration.md
-      - General Information/School Terms & Holidays 2026.md
       - General Information/.keep
+      - General Information/School Terms & Holidays 2026.md
       - General Information/School Curriculum Hours.md
       - General Information/School Security & Gate Operating Hours.md
       - General Information/Traffic Management.md
