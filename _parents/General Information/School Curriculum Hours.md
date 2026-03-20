@@ -150,25 +150,6 @@ for the morning.</p>
 </tbody>
 </table>
 <p></p>
-<h3>Gate Opening Hours</h3>
-<p><strong>Please note that all visitors can only register at the Security Post and enter school from Gate A.</strong>
-</p>
-<h4>Gate A</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>6.30 a.m. to 7.00 p.m.</p>
-</li>
-</ul>
-<h4>Gate B</h4>
-<ul data-tight="true" class="tight">
-<li>
-<p>6.30 a.m. to 7.40 a.m.</p>
-</li>
-<li>
-<p>1.30 p.m. to 2.00 p.m.</p>
-</li>
-</ul>
-<p></p>
 <p></p>
 <p></p>
 <h4></h4>
