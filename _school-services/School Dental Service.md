@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Dental Service</strong></h3>
-<p><strong>Contact Number:</strong> 8940 0152</p>
-<p><strong>Clinic Operating Hours: Dental Clinic are open on alternate weeks. Please contact school dentist (8940 0152) to check for availability</strong>
+<p>Please contact <strong>8940 0152</strong> to check for Dental Therapist’s
+availability.</p>
+<p>Clinic operating hours (when the Dental Therapist is on duty):
+<br>
 </p>
 <ul data-tight="true" class="tight">
 <li>
