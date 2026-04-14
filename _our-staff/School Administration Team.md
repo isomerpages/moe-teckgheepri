@@ -21,15 +21,12 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager(s)</strong>
+<p><strong>Administration Manager</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Garry Tan Wei Min
 <br><a href="tan_wei_min_garry@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_wei_min_garry@moe.edu.sg</a>
-<br>
-<br>Ms Ang Hui Mieng
-<br><a href="ang_hui_mieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_mieng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -43,7 +40,8 @@ variant: tiptap
 <br><a href="lee_cheng_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_cheng_koon@moe.edu.sg</a>
 <br>
 <br>Mr Lai Jeow Fai
-<br>lai_jeow_fai@moe.edu.sg</p>
+<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a> 
+</p>
 </td>
 </tr>
 <tr>
