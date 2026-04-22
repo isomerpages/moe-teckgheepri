@@ -90,10 +90,7 @@ tomorrow’s leaders.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Learning Adventure @ Teck Ghee Primary School</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_22_at_9_09_02_AM.jpg">
-</div>
+<h4><strong>Learning Adventure @ Teck Ghee Primary School</strong></h4><a class="isomer-image-wrapper" href="https://for.edu.sg/registrationform"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_22_at_9_09_02_AM.jpg"></a>
 <p></p>
 <h4><strong>P1 Registration Information 2026</strong></h4>
 <p><strong>P1 Registration</strong>
