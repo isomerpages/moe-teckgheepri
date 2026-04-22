@@ -91,23 +91,19 @@ tomorrow’s leaders.</p>
 </tbody>
 </table>
 <h4><strong>Learning Adventure @ Teck Ghee Primary School</strong></h4>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/httpsfor_edu_sglearningadventure__2_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2026_04_22_at_9_09_02_AM.jpg">
 </div>
 <p></p>
-<p></p>
-<h4><strong>P1 Registration Information 2025</strong></h4>
-<p><strong>P1 2025 Registration</strong>
+<h4><strong>P1 Registration Information 2026</strong></h4>
+<p><strong>P1 Registration</strong>
 </p>
-<p>&nbsp;</p>
 <p>P1 registration is conducted over several phases. These registration phases
 apply to children who Singapore Citizens and Singapore Permanent Residents
-born between 2 January 2019 and 1 January 2020 (both dates inclusive).
-The 2024 P1 Registration Exercise will be conducted fully online. Similar
-to last year, there will not be any in-person registration at schools.</p>
-<p>&nbsp;</p>
-<p>There are 2 modes for online registration depending on the phase:</p>
+born between 2 January 2020 and 1 January 2021 (both dates inclusive).
+The P1 Registration Exercise will be conducted fully online. Similar to
+last year, there will not be any in-person registration at schools.</p>
+<p>&nbsp;There are 2 modes for online registration depending on the phase:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Online application form for Phases 1, 2A and 2B. For parents registering
@@ -122,6 +118,5 @@ periods of the respective phases.</p>
 <p>The Primary One Internet System (P1-IS) for Phases 2C and 2C Supplementary.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p>Please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
+<p>&nbsp;Please refer to the MOE website at <a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/primary/p1-registration</a> for
 more information on P1 Registration exercise, phases and key dates</p>
