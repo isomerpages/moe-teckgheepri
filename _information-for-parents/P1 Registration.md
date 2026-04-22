@@ -1,9 +1,10 @@
 ---
-title: P1 2024 Registration
-permalink: /our-school/p1-2023-registration/
+title: P1 Registration
+permalink: /our-school/p1-registration/
 description: ""
+variant: markdown
 ---
-### **P1 2023 Registration**
+### **P1 Registration**
 #### **Getting to know TGPS**
 <center>Click on the thumbnails below to find out more about the various programmes.</center>
 
@@ -17,7 +18,7 @@ description: ""
 |
 
 #### **P1 Registration Information**
-P1 registration is conducted over several phases. These registration phases apply to children who Singapore Citizens and Singapore Permanent Residents born between 2 January 2016 and 1 January 2017 (both dates inclusive). The 2022 P1 Registration Exercise will be conducted fully online. Similar to last year, there will not be any in-person registration at schools.
+P1 registration is conducted over several phases. These registration phases apply to children who Singapore Citizens and Singapore Permanent Residents born between 2 January 2017 and 1 January 2018 (both dates inclusive). The P1 Registration Exercise will be conducted fully online. Similar to last year, there will not be any in-person registration at schools.
 
 There are 2 modes for online registration depending on the phase:
 
