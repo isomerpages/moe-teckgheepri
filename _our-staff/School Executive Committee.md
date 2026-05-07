@@ -378,17 +378,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Administration Manager</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Miss Ang Hui Mieng
-<br><a href="mailto:ang_hui_mieng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ang_hui_mieng@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Operations Manager</strong>
 </p>
 </td>
