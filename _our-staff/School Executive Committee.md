@@ -226,17 +226,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Year Head(YH)</strong> 
-<br>Primary 5 &amp; 6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lydia Lye
-<br><a href="mailto:goh_sio_noi_lydia@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">goh_sio_noi_lydia@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p><strong>Assistant Year Head (AYH - Covering)</strong> 
 <br>Primary 1 &amp; 2</p>
 </td>
