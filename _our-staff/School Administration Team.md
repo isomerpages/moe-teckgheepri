@@ -40,7 +40,7 @@ variant: tiptap
 <br><a href="lee_cheng_koon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lee_cheng_koon@moe.edu.sg</a>
 <br>
 <br>Mr Lai Jeow Fai
-<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a> 
+<br><a href="mailto:lai_jeow_fai@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_jeow_fai@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -113,7 +113,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Patricia Koh
-<br>Mr Lim Tiong Huat
 <br>Mdm Sagaiah Devi d/o Karupiah
 <br>Mr Yeo Kim Thye</p>
 </td>
