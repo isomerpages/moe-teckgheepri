@@ -21,7 +21,7 @@ clinics via phone call or WhatsApp:</p>
 </li>
 <li>
 <p><strong>Guangyang Secondary School – School Dental Clinic</strong>
-<br>📞93895126
+<br>📞9389 5126
 <br>📍8 Bishan Street 12, Singapore 579807</p>
 </li>
 </ul>
