@@ -15,9 +15,14 @@ clinics via phone call or WhatsApp:</p>
 <br>📍 10 Jalan Bunga Rampai, Singapore 538403</p>
 </li>
 <li>
-<p><strong>Maris Stella High School – School Dental Clinic</strong>
-<br>📞 8764 8516
-<br>📍 25 Mount Vernon Road, Singapore 368051</p>
+<p><strong>Jing Shan Primary School – School Dental Clinic</strong>
+<br>📞 8764 7987
+<br>📍 5 Ang Mo Kio Street 52, Singapore 569228</p>
+</li>
+<li>
+<p><strong>Guangyang Secondary School – School Dental Clinic</strong>
+<br>📞9389 5126
+<br>📍8 Bishan Street 12, Singapore 579807</p>
 </li>
 </ul>
 <p>For <strong>general enquiry</strong>, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
