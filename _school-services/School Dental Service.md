@@ -19,6 +19,11 @@ clinics via phone call or WhatsApp:</p>
 <br>📞 8764 7987
 <br>📍 5 Ang Mo Kio Street 52, Singapore 569228</p>
 </li>
+<li>
+<p><strong>Guangyang Secondary School – School Dental Clinic</strong>
+<br>📞93895126
+<br>📍8 Bishan Street 12, Singapore 579807</p>
+</li>
 </ul>
 <p>For <strong>general enquiry</strong>, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
