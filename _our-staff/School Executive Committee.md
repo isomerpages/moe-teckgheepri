@@ -209,7 +209,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chew Hui Fang</p>
-<p><a href="mailto:chew_hui_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_fang@moe.edu.sg</a> 
+<p><a href="mailto:chew_hui_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_fang@moe.edu.sg</a>
 </p>
 </td>
 </tr>
