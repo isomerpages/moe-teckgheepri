@@ -193,12 +193,23 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Subject Head (SH - Covering)</strong>
+<p><strong>Subject Head (SH)</strong>
 <br>Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Mohamad Imran Bin Osman
 <br><a href="mailto:mohamad_imran_osman@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohamad_imran_osman@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Subject Head (SH)</strong>
+<br>Character and Citizenship Education</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chew Hui Fang</p>
+<p><a href="mailto:chew_hui_fang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chew_hui_fang@moe.edu.sg</a> 
 </p>
 </td>
 </tr>
