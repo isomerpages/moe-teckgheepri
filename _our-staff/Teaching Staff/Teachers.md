@@ -766,7 +766,7 @@ variant: tiptap
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="2" colspan="1">
 <p>5C</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -774,15 +774,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:tham_kuan_yew_albert@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tham_kuan_yew_albert@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Mdm Wong-Ngoo Ing Choo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wongngoo_ing_choo@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wongngoo_ing_choo@moe.edu.sg</a>
 </p>
 </td>
 </tr>
