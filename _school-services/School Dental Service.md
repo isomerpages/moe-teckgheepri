@@ -6,8 +6,8 @@ variant: tiptap
 ---
 <h3><strong>School Dental Service</strong></h3>
 <p>Students who require dental care may contact our dentist via WhatsApp
-at <strong>8940 0152</strong> to make an appointment.</p>
-<p>Please note that the clinic's lunch break is from 12.30 pm to 1.30 pm.</p>
+at <strong>8940 0152</strong> to make an appointment.
+<br>Please note that the clinic's lunch break is from 12.30 pm to 1.30 pm.</p>
 <p>If you require urgent dental treatment when the school dental clinic is
 closed, please contact one of the following buddy clinics via phone call
 or WhatsApp for assistance:</p>
@@ -30,4 +30,6 @@ or WhatsApp for assistance:</p>
 <p>For <strong>general enquiry</strong>, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
 <p>( Updated as at 5 August 2026 )</p>
-<p></p>
+<p>
+<br>
+</p>
