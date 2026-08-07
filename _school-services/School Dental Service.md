@@ -5,9 +5,12 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>School Dental Service</strong></h3>
-<p>Our Dental Clinic will be closed until <strong>June 2026</strong>.
-<br>Students who require urgent dental care may contact the following buddy
-clinics via phone call or WhatsApp:</p>
+<p>Students who require dental care may contact our dentist via WhatsApp
+at <strong>8940 0152</strong> to make an appointment.
+<br>Please note that the clinic's lunch break is from 12.30 pm to 1.30 pm.</p>
+<p>If you require urgent dental treatment when the school dental clinic is
+closed, please contact one of the following buddy clinics via phone call
+or WhatsApp for assistance:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Bartley Secondary School – School Dental Clinic</strong>
@@ -20,12 +23,13 @@ clinics via phone call or WhatsApp:</p>
 <br>📍 5 Ang Mo Kio Street 52, Singapore 569228</p>
 </li>
 <li>
-<p><strong>Guangyang Secondary School – School Dental Clinic</strong>
-<br>📞9389 5126
-<br>📍8 Bishan Street 12, Singapore 579807</p>
+<p><strong>Mobile Dental Clinic 17</strong>
+<br>📞9389 5126</p>
 </li>
 </ul>
 <p>For <strong>general enquiry</strong>, please email: <a href="mailto:contact_yps@hpb.gov.sg" rel="noopener noreferrer nofollow" target="_blank">contact_yps@hpb.gov.sg</a>
 </p>
-<p>( Updated as at 15 May 2026 )</p>
-<p></p>
+<p>( Updated as at 5 August 2026 )</p>
+<p>
+<br>
+</p>
